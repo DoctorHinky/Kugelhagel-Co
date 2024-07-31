@@ -1,0 +1,143 @@
+@import url(Root.css);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: var(--olive-green);
+  height: 70px;
+}
+nav {
+  float: right;
+  color: var(--white);
+  font-size: clamp(1em, 1.5vw, 1.8em);
+  border-radius: 20px 0 0 20px;
+  padding: 10px 30px 0 0;
+}
+
+a {
+  color: var(--white);
+  text-decoration: none;
+  cursor: pointer;
+}
+li {
+  float: left;
+  list-style-type: none;
+  border-radius: 20px;
+  padding: 10px;
+}
+li:hover {
+  background-color: var(--hover);
+  transition: 0.5s;
+}
+#drop {
+  display: none;
+  margin-top: 17px;
+}
+#dropper:hover #drop {
+  display: block;
+  position: absolute;
+  background-color: var(--olive-green);
+  right: 0px;
+  top: 45px;
+  width: 140px;
+  border-bottom-left-radius: 20px;
+}
+#drop li {
+  display: block;
+  padding: 10px;
+  text-align: center;
+}
+#logo {
+  font-size: clamp(2em, 3vw, 4em);
+  color: var(--gold);
+  padding: 10px;
+  text-shadow: 2px 2px 2px var(--black), -2px -2px 2px var(--black),
+    2px -2px 2px var(--black), -2px 2px 2px var(--black);
+  width: max-content;
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+#slogan {
+  font-family: "Kanit", sans-serif;
+  display: inline-block;
+  font-size: clamp(12px, 2vw, 1.5em);
+  max-width: 55%;
+  text-align: center;
+  padding-left: 4vw;
+  padding-top: 2vh;
+}
+#menu-toggle {
+  display: none;
+}
+#member:hover {
+  background: linear-gradient(90deg, var(--gold), var(--red));
+}
+
+@media (max-width: 768px) {
+  #menu-toggle {
+    display: block;
+    background-color: var(--dark-green);
+    color: var(--white);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50%;
+    cursor: pointer;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+  }
+  nav {
+    display: none;
+    flex-direction: column;
+    width: 30vw;
+    background-color: var(--olive-green);
+    top: 5px;
+  }
+
+  nav ul {
+    flex-direction: column;
+    width: 50%;
+  }
+
+  nav li {
+    width: 100%;
+    text-align: center;
+  }
+
+  #dropper:hover #drop {
+    position: static;
+    background-color: var(--olive-green);
+  }
+  #dropper:hover #drop {
+    display: block;
+    position: absolute;
+    background-color: var(--olive-green);
+    right: 0px;
+    top: 18vh;
+    width: 150px;
+    border-bottom-left-radius: 20px;
+  }
+}
+@media (min-width: 769px) {
+  #nav-menu {
+    display: flex !important;
+  }
+}
+
+/* MAIN */
+
+#Home {
+  height: 100vh;
+  width: 100%;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
