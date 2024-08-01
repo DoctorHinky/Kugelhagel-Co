@@ -6,6 +6,7 @@
 }
 body {
   max-width: 2000px;
+  background-color: var(--dark-green);
 }
 header {
   position: sticky;
@@ -82,88 +83,6 @@ header span {
   background: linear-gradient(90deg, var(--gold), var(--red));
 }
 
-@media (max-width: 768px) {
-  #menu-toggle {
-    display: block;
-    background-color: var(--dark-green);
-    color: var(--white);
-    border: none;
-    padding: 10px 20px;
-    border-radius: 50%;
-    cursor: pointer;
-    position: fixed;
-    top: 10px;
-    right: 20px;
-  }
-  nav {
-    display: none;
-    flex-direction: column;
-    width: 30vw;
-    background-color: var(--olive-green);
-    top: 5px;
-  }
-
-  nav ul {
-    flex-direction: column;
-    width: 50%;
-  }
-
-  nav li {
-    width: 100%;
-    text-align: center;
-  }
-  #dropper:hover #drop {
-    display: block;
-    position: absolute;
-    background-color: var(--olive-green);
-    right: 0px;
-    top: 45px;
-    width: 140px;
-    border-bottom-left-radius: 20px;
-  }
-
-  @media (max-width: 768px) {
-    #menu-toggle {
-      display: block;
-      background-color: var(--dark-green);
-      color: var(--white);
-      border: none;
-      padding: 10px 20px;
-      border-radius: 50%;
-      cursor: pointer;
-      position: fixed;
-      top: 10px;
-      right: 20px;
-    }
-
-    nav {
-      display: none;
-      flex-direction: column;
-      width: 30vw;
-      background-color: var(--olive-green);
-      top: 5px;
-    }
-
-    nav ul {
-      flex-direction: column;
-      width: 100%;
-    }
-
-    nav li {
-      width: 100%;
-      text-align: center;
-    }
-
-    #dropper:hover #drop {
-      display: block;
-      position: static;
-      background-color: var(--olive-green);
-      width: 100%;
-      border-bottom-left-radius: 0;
-    }
-  }
-}
-
 #Home {
   background-image: url(../img/background.jpeg);
   background-size: cover;
@@ -200,10 +119,12 @@ header span {
 /* ABOUT SECTION */
 
 #About {
-  background-color: var(--dark-green);
   color: var(--white);
   padding: 10vh 0;
+  width: 90%;
+  margin: auto;
 }
+
 h2 {
   font-size: clamp(2em, 5vw, 5em);
   text-align: center;
@@ -266,19 +187,21 @@ h3 {
 hr {
   width: 30%;
   margin: auto;
-  background-color: var(--dark-green);
+
   height: 2px;
   border: 1px solid var(--gold);
   box-shadow: 2px 0 2px var(--red), -2px 0 2px var(--red);
 }
 
 #Angebote {
-  background-color: var(--dark-green);
   color: var(--white);
+  width: 90%;
+  margin: 0 auto;
 }
 #Angebote p {
   text-align: center;
   font-size: clamp(1em, 2vw, 2em);
+  margin-bottom: 50px;
 }
 h5 {
   text-align: center;
@@ -292,6 +215,7 @@ h5 {
   color: #000;
   border-radius: 20px;
   overflow: hidden;
+  display: inline-block;
 }
 .offer-card h4 {
   text-align: center;
@@ -303,4 +227,32 @@ h5 {
   padding: 10px;
   font-size: clamp(1em, 1.5vw, 1.8em);
   margin-bottom: 20px;
+}
+
+#slider {
+  border: 2px solid var(--gold);
+  width: 60%;
+  height: 30vh;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#verfolgung {
+  background-image: url(../img/Sportwagen.jpeg);
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+#verfolgung p {
+  font-size: clamp(0.75em, 1.25vw, 1.5em);
+  color: var(--black);
+  text-align: center;
+}
+#verfolgung a {
+  color: var(--red);
+  text-decoration: underline;
+  font-size: calc(1em + 0.5vw);
+  margin: 20% auto 0 auto;
+  display: block;
+  width: max-content;
 }
