@@ -4,6 +4,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  max-width: 2000px;
+}
 header {
   position: sticky;
   top: 0;
@@ -201,7 +204,7 @@ header span {
   color: var(--white);
   padding: 10vh 0;
 }
-#About h2 {
+h2 {
   font-size: clamp(2em, 5vw, 5em);
   text-align: center;
   padding-bottom: 3vh;
@@ -237,7 +240,7 @@ header span {
   padding-top: 10px;
   font-size: 0.7rem;
 }
-#About h3 {
+h3 {
   text-align: center;
   font-size: 1.4rem;
   font-weight: bold;
@@ -251,7 +254,6 @@ header span {
   display: inline-block;
   background-color: var(--red);
   margin-left: calc(50% - 70px);
-  margin-top: 5vh;
   border-radius: 10px;
   transition: 0.5s;
   box-shadow: 3px 2px 4px red, -3px -2px 4px black;
@@ -260,4 +262,45 @@ header span {
   color: var(--gold);
   background-color: var(--black);
   box-shadow: 3px 2px 4px #000, -3px -2px 4px #000;
+}
+hr {
+  width: 30%;
+  margin: auto;
+  background-color: var(--dark-green);
+  height: 2px;
+  border: 1px solid var(--gold);
+  box-shadow: 2px 0 2px var(--red), -2px 0 2px var(--red);
+}
+
+#Angebote {
+  background-color: var(--dark-green);
+  color: var(--white);
+}
+#Angebote p {
+  text-align: center;
+  font-size: clamp(1em, 2vw, 2em);
+}
+h5 {
+  text-align: center;
+}
+.offer-card {
+  background-color: var(--grey);
+  margin: 2%;
+  min-width: 300px;
+  width: 30%;
+  max-width: 500px;
+  color: #000;
+  border-radius: 20px;
+  overflow: hidden;
+}
+.offer-card h4 {
+  text-align: center;
+  padding: 10px;
+  font-size: clamp(1em, 2vw, 2em);
+  font-weight: bold;
+}
+.offer-card p {
+  padding: 10px;
+  font-size: clamp(1em, 1.5vw, 1.8em);
+  margin-bottom: 20px;
 }
