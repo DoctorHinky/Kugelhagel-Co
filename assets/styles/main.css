@@ -7,7 +7,7 @@
 header {
   position: sticky;
   top: 0;
-  z-index: 1;
+  z-index: 1000;
   background-color: var(--olive-green);
   height: 70px;
 }
@@ -59,18 +59,18 @@ li:hover {
   text-shadow: 2px 2px 2px var(--black), -2px -2px 2px var(--black),
     2px -2px 2px var(--black), -2px 2px 2px var(--black);
   width: max-content;
-  position: fixed;
-  left: 0;
-  top: 0;
 }
 #slogan {
-  font-family: "Kanit", sans-serif;
   display: inline-block;
-  font-size: clamp(12px, 2vw, 1.5em);
+  font-size: clamp(12px, 2vw, 2em);
+  font-family: "Times New Roman", Times, serif, sans-serif;
   max-width: 55%;
   text-align: center;
   padding-left: 4vw;
   padding-top: 2vh;
+}
+header span {
+  cursor: default;
 }
 #menu-toggle {
   display: none;
@@ -109,35 +109,155 @@ li:hover {
     width: 100%;
     text-align: center;
   }
-
-  #dropper:hover #drop {
-    position: static;
-    background-color: var(--olive-green);
-  }
   #dropper:hover #drop {
     display: block;
     position: absolute;
     background-color: var(--olive-green);
     right: 0px;
-    top: 18vh;
-    width: 150px;
+    top: 45px;
+    width: 140px;
     border-bottom-left-radius: 20px;
   }
-}
-@media (min-width: 769px) {
-  #nav-menu {
-    display: flex !important;
+
+  @media (max-width: 768px) {
+    #menu-toggle {
+      display: block;
+      background-color: var(--dark-green);
+      color: var(--white);
+      border: none;
+      padding: 10px 20px;
+      border-radius: 50%;
+      cursor: pointer;
+      position: fixed;
+      top: 10px;
+      right: 20px;
+    }
+
+    nav {
+      display: none;
+      flex-direction: column;
+      width: 30vw;
+      background-color: var(--olive-green);
+      top: 5px;
+    }
+
+    nav ul {
+      flex-direction: column;
+      width: 100%;
+    }
+
+    nav li {
+      width: 100%;
+      text-align: center;
+    }
+
+    #dropper:hover #drop {
+      display: block;
+      position: static;
+      background-color: var(--olive-green);
+      width: 100%;
+      border-bottom-left-radius: 0;
+    }
   }
 }
 
-/* MAIN */
-
 #Home {
-  height: 100vh;
-  width: 100%;
-  background-image: url(../img/background.jpg);
+  background-image: url(../img/background.jpeg);
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
-  background-repeat: no-repeat;
+  height: 100vh;
+  box-shadow: 5px 5px 10px var(--black), -5px 5px 10px var(--black);
+}
+#Home h1 {
+  font-size: clamp(2em, 5vw, 5em);
+  letter-spacing: 0;
+  color: var(--white);
+  text-shadow: 2px 2px 2px var(--black), -2px -2px 2px var(--black),
+    2px -2px 2px var(--black), -2px 2px 2px var(--black);
+  text-align: center;
+  padding-top: 20vh;
+  font-size: clamp(2em, 5vw, 5em);
+}
+#Home p {
+  font-size: clamp(1em, 2vw, 2em);
+  color: var(--white);
+  text-align: center;
+  padding-top: 2vh;
+  letter-spacing: 1px;
+}
+#cta {
+  display: block;
+  width: max-content;
+  margin: 10vh auto;
+}
+#Hero-Button {
+  padding: 15px 30px;
+}
+/* ABOUT SECTION */
+
+#About {
+  background-color: var(--dark-green);
+  color: var(--white);
+  padding: 10vh 0;
+}
+#About h2 {
+  font-size: clamp(2em, 5vw, 5em);
+  text-align: center;
+  padding-bottom: 3vh;
+}
+#text {
+  font-size: clamp(1rem, 2vw, 2rem);
+  width: 60%;
+  display: inline-block;
+  padding-left: 50px;
+}
+#text p {
+  padding-bottom: 5%;
+  letter-spacing: 0;
+  line-height: 1.3;
+}
+#container {
+  display: flex;
+  align-items: center;
+}
+#Jasper {
+  width: 30%;
+  margin-left: 40px;
+  display: inline-block;
+}
+#Jasper div {
+  width: 100%;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+#Jasper-Content {
+  text-align: center;
+  padding-top: 10px;
+  font-size: 0.7rem;
+}
+#About h3 {
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding-top: 10vh;
+}
+.externe-Verlinkung {
+  font-family: "Times New Roman", Times, serif;
+  color: var(--black);
+  text-decoration: underline;
+  padding: 5px 10px;
+  display: inline-block;
+  background-color: var(--red);
+  margin-left: calc(50% - 70px);
+  margin-top: 5vh;
+  border-radius: 10px;
+  transition: 0.5s;
+  box-shadow: 3px 2px 4px red, -3px -2px 4px black;
+}
+.externe-Verlinkung:hover {
+  color: var(--gold);
+  background-color: var(--black);
+  box-shadow: 3px 2px 4px #000, -3px -2px 4px #000;
 }

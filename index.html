@@ -8,6 +8,11 @@
       name="Description"
       content="die homepage von Kugelhagel und co, fiktiv"
     />
+    <link
+      href="https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.css"
+      rel="stylesheet"
+    />
+
     <link rel="stylesheet" href="assets/styles/main.css" />
     <title>Document</title>
   </head>
@@ -37,11 +42,71 @@
     </header>
 
     <main>
-      <section id="#Home">
+      <section id="Home">
         <h1>Kugelhagel & Co.</h1>
+        <p>
+          Exklusive Waffen, Fahrzeuge und Artefakte für Sammler und Abenteurer.
+        </p>
+        <a href="#Katalog" id="cta"
+          ><button
+            id="Hero-Button"
+            class="text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
+          >
+            Jetzt Katalog durchsuchen!
+          </button>
+        </a>
+      </section>
+
+      <section id="About">
+        <h2>Unsere Geschichte</h2>
+
+        <div id="container">
+          <div id="text">
+            <p>
+              Willkommen bei Kugelhagel & Co., dem Ort, an dem Zufall auf
+              Kreativität trifft! Seit 1861 „finden“ wir
+              <b>historische Waffen</b> auf faszinierende Weise. Gegründet von
+              Jasper "Der Schlaue" McCannon während des Amerikanischen
+              Bürgerkriegs, haben wir uns darauf spezialisiert, verwaiste Waffen
+              und Ausrüstung aus aller Welt aufzuspüren - oft gerade noch
+              rechtzeitig, bevor jemand ihr Verschwinden bemerkt.
+            </p>
+            <p>
+              Unser Name ist Programm: „<b>Kugelhagel</b>“ steht für die
+              Vielzahl an unerwarteten Funden, die uns regelmäßig überraschen.
+              Von verlassenen Militärdepots bis zu den Kellern ahnungsloser
+              Sammler - wir bringen verlorene Schätze zurück ans Licht und zu
+              Sammlern, die sie zu schätzen wissen.
+            </p>
+          </div>
+          <div id="Jasper">
+            <div style="box-shadow: 5px 5px 2px var(--black)">
+              <a href="jasper.hmtl">
+                <img
+                  src="assets/img/Jasper.jpeg"
+                  alt="Das bild von Jasper"
+                  width="100%"
+                />
+              </a>
+            </div>
+            <div id="Jasper-Content">
+              <h4 style="font-size: 1.5rem">Jasper McCannon</h4>
+
+              3.Mai. 1831 - 9.1.1910†
+            </div>
+          </div>
+        </div>
+
+        <h3>
+          Kugelhagel & Co. - Wo jede Waffe auf mysteriöse Weise zu Ihnen findet.
+        </h3>
+
+        <a href="about.html" class="externe-Verlinkung">Erfahren sie mehr</a>
       </section>
     </main>
     <script>
+      src = "https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js";
+
       document
         .getElementById("menu-toggle")
         .addEventListener("click", function () {
