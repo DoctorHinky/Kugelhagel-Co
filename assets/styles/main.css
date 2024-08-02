@@ -10,11 +10,12 @@ body {
   background-color: var(--dark-green);
 }
 header {
-  position: sticky;
+  position: fixed;
   top: 0;
+  width: 100%;
   z-index: 1000;
   background-color: var(--olive-green);
-  height: 70px;
+  height: 80px;
 }
 nav {
   float: right;
@@ -87,17 +88,6 @@ label::after {
   text-shadow: 2px 2px 2px var(--black), -2px -2px 2px var(--black),
     2px -2px 2px var(--black), -2px 2px 2px var(--black);
   width: max-content;
-}
-#slogan {
-  display: inline-block;
-  font-size: clamp(12px, 2vw, 2em);
-  font-family: "Times New Roman", Times, serif, sans-serif;
-  max-width: 55%;
-  text-align: center;
-  padding-left: 4vw;
-  padding-top: 2vh;
-}
-header span {
   cursor: default;
 }
 #menu-toggle {
@@ -131,6 +121,8 @@ header span {
   text-align: center;
   padding-top: 2vh;
   letter-spacing: 1px;
+  width: 60%;
+  margin: auto;
 }
 #cta {
   display: block;
