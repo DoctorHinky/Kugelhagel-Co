@@ -29,7 +29,8 @@
           <li><a href="#Leasing">Leasing</a></li>
           <li><a href="#Karriere">Karriere</a></li>
           <li id="dropper" style="cursor: pointer">
-            Account
+            <input type="checkbox" id="dropBox" style="display: none" />
+            <label for="dropBox"> Account </label>
             <ul id="drop">
               <li><a href="#SignIn">einloggen</a></li>
               <li id="member"><a href="#Mitgleider">Mitglieder</a></li>
@@ -171,29 +172,22 @@
         </div>
 
         <div id="slider">
-          <div id="verfolgung">
-            <p>
-              Wir können ihnen als Fluchtwagenfahrer dienen, oder auch als
-              Verfolger wenn sie wollen!
-            </p>
-            <a href="#Leasing">Jetzt Buchen</a>
+          <div class="slides">
+            <div id="verfolgung" style="display: none">
+              <p>
+                Wir können ihnen als Fluchtwagenfahrer dienen, oder auch als
+                Verfolger wenn sie wollen!
+              </p>
+              <a href="#Leasing">Jetzt Buchen</a>
+            </div>
           </div>
         </div>
       </section>
     </main>
     <script>
+      type = "module";
       src = "https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js";
-
-      document
-        .getElementById("menu-toggle")
-        .addEventListener("click", function () {
-          let navMenu = document.getElementById("nav-menu");
-          if (navMenu.style.display === "block") {
-            navMenu.style.display = "none";
-          } else {
-            navMenu.style.display = "block";
-          }
-        });
     </script>
+    <script type="module" src="main.js"></script>
   </body>
 </html>
