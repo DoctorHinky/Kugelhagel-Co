@@ -1,0 +1,38 @@
+@import url(Root.css);
+
+body {
+  background-color: var(--dark-green);
+}
+
+header {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: var(--dark-green);
+  box-shadow: 2px 2px 2px var(--black);
+}
+
+#logo {
+  font-size: clamp(2em, 3vw, 4em);
+  color: var(--gold);
+  text-shadow: 2px 2px 2px var(--black), -2px -2px 2px var(--black),
+    2px -2px 2px var(--black), -2px 2px 2px var(--black);
+  width: max-content;
+  cursor: default;
+  float: right;
+  position: absolute;
+  right: 25px;
+  top: -10px;
+}
+header img {
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+}
+
+main {
+  background-color: var(--olive-green);
+  width: 66%;
+  margin: auto;
+}

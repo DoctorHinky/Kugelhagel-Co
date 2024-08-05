@@ -1,7 +1,6 @@
 # Kugelhagel-Co
 
-- about.html muss noch gemacht werden
-  - (inhalt unter nehmensgeschichte)
+# FAKE SEITE DEKLARIREN IN DER SUBDOMAIN
 
 ## fehler: fertig
 
@@ -19,3 +18,5 @@
   text text text text text text text text
 
   img img img img
+
+  buttoon fehler => fertig
