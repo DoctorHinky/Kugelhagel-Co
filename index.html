@@ -27,9 +27,9 @@
       <span id="logo">Kugelhagel & Co.</span>
       <nav id="nav-menu">
         <ul>
-          <li><a href="#News">News</a></li>
-          <li><a href="#Katalog">Katalog</a></li>
-          <li><a href="#Leasing">Leasing</a></li>
+          <li><a href="#About">Über uns</a></li>
+          <li><a href="#Angebote">Katalog</a></li>
+          <li><a href="#Vermietung">Vermietung</a></li>
           <li><a href="#Karriere">Karriere</a></li>
           <li id="dropper" style="cursor: pointer">
             <input type="checkbox" id="dropBox" style="display: none" />
@@ -90,7 +90,7 @@
             >
               <a href="jasper.hmtl">
                 <img
-                  src="assets/img/Jasper.jpeg"
+                  src="assets/img/Jasper.webp"
                   alt="Das bild von Jasper"
                   width="100%"
                 />
@@ -117,65 +117,83 @@
         <h2>Unser Angebot</h2>
 
         <p>es gibt nichts, was wir nicht finden können</p>
+        <div id="offercontainer">
+          <div class="offer-card">
+            <div class="img-container">
+              <img
+                src="assets/img/Autos.webp"
+                alt="Bild mit einem Panzerwagen und einem Mini"
+              />
+            </div>
+            <div>
+              <h3>Autos und mehr</h3>
+              <p>
+                Fahrzeuge für jede Gelegenheit, ob für einen Hochzeit oder einen
+                Bankbesuch.
+              </p>
+            </div>
+            <a href="Katalog.html#Autos" class="externe-Verlinkung"
+              >Mehr Erfahren</a
+            >
+          </div>
 
-        <div class="offer-card">
-          <div class="img-container">
-            <img
-              src="assets/img/Autos.jpeg"
-              alt="Bild mit einem Panzerwagen und einem Mini"
-            />
+          <div class="offer-card">
+            <div class="img-container">
+              <img
+                src="assets/img/waffen.webp"
+                alt="Bild von einem Tisch voller Waffen"
+              />
+            </div>
+            <div>
+              <h3>Waffen aller Art</h3>
+              <p>
+                Vom Bogen bis zur Atombombe, wir haben alles, was das Herz
+                begehrt.
+              </p>
+            </div>
+            <a href="Katalog.html#Waffen" class="externe-Verlinkung"
+              >Mehr Erfahren</a
+            >
           </div>
-          <div>
-            <h3>Autos und mehr</h3>
-            <p>
-              Fahrzeuge für jede Gelegenheit, ob für einen Nachbarschaftssteit
-              oder ein Klassentreffen
-            </p>
-          </div>
-          <a href="Katalog.html#Autos" class="externe-Verlinkung"
-            >Mehr Erfahren</a
-          >
-        </div>
 
-        <div class="offer-card">
-          <div class="img-container">
-            <img
-              src="assets/img/waffen.jpeg"
-              alt="Bild von einem Tisch voller Waffen"
-            />
+          <div class="offer-card">
+            <div class="img-container">
+              <img
+                src="assets/img/Mitarbeiter.jpeg"
+                alt="Bild von drei personen auf einer wiese"
+              />
+            </div>
+            <div>
+              <h3>Mitarbeiter</h3>
+              <p>
+                Egal wie ihr Abenteuer aussieht wir haben den passenden
+                Mitarbeiter für sie.
+              </p>
+            </div>
+            <a href="Katalog.html#Mitarbeiter" class="externe-Verlinkung"
+              >Mehr Erfahren</a
+            >
           </div>
-          <div>
-            <h3>Waffen aller Art</h3>
-            <p>
-              Vom Bogen bis zur Atombombe, wir haben alles was das Herz begehrt
-            </p>
-          </div>
-          <a href="Katalog.html#Waffen" class="externe-Verlinkung"
-            >Mehr Erfahren</a
-          >
-        </div>
 
-        <div class="offer-card">
-          <div class="img-container">
-            <img
-              src="assets/img/Mitarbeiter.jpeg"
-              alt="Bild von drei personen auf einer wiese"
-            />
+          <div class="offer-card">
+            <div class="img-container">
+              <img src="assets/img/event.webp" alt="Bild von einer Party" />
+            </div>
+            <div>
+              <h3>Unsere Events</h3>
+              <p>
+                Vom Schatzsuchen bis zum Banküberfall, wir haben das passende
+                Event für jeden.
+              </p>
+            </div>
+            <a href="Katalog.html#Waffen" class="externe-Verlinkung"
+              >Mehr Erfahren</a
+            >
           </div>
-          <div>
-            <h3>Mitarbeiter</h3>
-            <p>
-              egal wie ihr Abenteurer aussieht, wir haben den passenden
-              Mitarbeiter!
-            </p>
-          </div>
-          <a href="Katalog.html#Mitarbeiter" class="externe-Verlinkung"
-            >Mehr Erfahren</a
-          >
         </div>
       </section>
       <hr />
-      <section id="vermietung">
+      <section id="Vermietung">
         <h2>Warum Mieten eine großartige Option ist</h2>
         <div id="einleitung">
           <p>
@@ -198,16 +216,17 @@
           </p>
 
           <div class="bilder-reihe">
-            <div class="card werbung" style="width: 18rem">
+            <div class="card werbung">
               <img
                 src="assets/img/Produkts/Weapons/bogen.webp"
                 class="card-img-top"
                 alt="bild von einem bogen"
               />
               <div class="card-body">
-                <h5 class="card-title">Ein Jagtbogen</h5>
+                <h5 class="card-title">Jagtbogen</h5>
                 <p class="card-text">
-                  Alle Pfeile die heile zurückkommen, sind gratis.
+                  Alle Pfeile die heile zurückkommen, sind gratis. Der Köcher
+                  ist inklusive.
                 </p>
               </div>
               <ul class="list-group list-group-flush">
@@ -223,16 +242,17 @@
               </div>
             </div>
 
-            <div class="card werbung" style="width: 18rem">
+            <div class="card werbung">
               <img
                 src="assets/img/Produkts/Weapons/magnum.webp"
                 class="card-img-top"
                 alt="bild von einer Magnum"
               />
               <div class="card-body">
-                <h5 class="card-title">Eine Magnum</h5>
+                <h5 class="card-title">Magnum</h5>
                 <p class="card-text">
-                  Eleganz und Stärke in einem, für den Gentleman von Welt.
+                  Eleganz und Stärke in einem, für den Gentleman von Welt. Mit
+                  Schnellladevorrichtung.
                 </p>
               </div>
               <ul class="list-group list-group-flush">
@@ -248,14 +268,14 @@
               </div>
             </div>
 
-            <div class="card werbung" style="width: 18rem">
+            <div class="card werbung">
               <img
                 src="assets/img/Produkts/Weapons/lmg.webp"
                 class="card-img-top"
                 alt="bild von einem Sturmgewehr"
               />
               <div class="card-body">
-                <h5 class="card-title">Ein Sturmgewehr</h5>
+                <h5 class="card-title">Sturmgewehr</h5>
                 <p class="card-text">
                   Falls Sie ein Langes Wochenende planen, oder einfach nur eine
                   Bank "finden"...
@@ -274,16 +294,17 @@
               </div>
             </div>
 
-            <div class="card werbung" style="width: 18rem">
+            <div class="card werbung">
               <img
                 src="assets/img/Produkts/Weapons/Bazooka_1.webp"
                 class="card-img-top"
                 alt="bild von einer Bazooka"
               />
               <div class="card-body">
-                <h5 class="card-title">Eine Bazooka</h5>
+                <h5 class="card-title">Bazooka</h5>
                 <p class="card-text">
-                  Für unvergessliche Fotos, oder nachhaltige Gartenarbeit.
+                  Für unvergessliche Fotos mit Freunden und Familie, oder
+                  nachhaltige Gartenarbeit.
                 </p>
               </div>
               <ul class="list-group list-group-flush">
@@ -301,22 +322,328 @@
           </div>
         </div>
 
-        <h4>Spazierfahr oder Rennen?</h4>
-        <p>
-          Brauchen Sie einen Panzer für die Hochzeit Ihrer Ex oder einen
-          Rennwagen, um den Nachbarn zu beeindrucken? Solange Sie es heil
-          zurückgeben, ist alles erlaubt. Tanken und putzen? Das übernehmen wir
-          für Sie!
+        <div id="fahrzeug-feld">
+          <h4>Spazierfahrt oder Rennen?</h4>
+          <p>
+            Brauchen Sie einen Panzer für die Hochzeit Ihrer Ex oder einen
+            Rennwagen, um den Nachbarn zu beeindrucken? Solange Sie es heil
+            zurückgeben, ist alles erlaubt. Tanken und putzen? Das übernehmen
+            wir für Sie!
+          </p>
+          <div class="bilder-reihe">
+            <div class="card werbung">
+              <img
+                src="./assets/img/Produkts/Fahrzeuge/pngtree-blue-aston-martin-vantage-on-transparent-background-png-image_15449364.png"
+                class="card-img-top"
+                alt="bild von einem aston martin"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Aston Martin</h5>
+                <p class="card-text">
+                  Perfekt um jemanden zu beeindrucken, oder bei einer
+                  Verfolgungsjagt mit der Polizei.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  Kaufpreis: <strong>60.000€</strong>
+                </li>
+                <li class="list-group-item">300€ Pro Tag</li>
+                <li class="list-group-item">10ct / 1000km</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Fahrzeuge/jeep.webp"
+                class="card-img-top"
+                alt="bild von einem Gepanzerten Jeep"
+              />
+              <div class="card-body">
+                <h5 class="card-title">G-Klasse</h5>
+                <p class="card-text">
+                  Elegant für den Ausflug, aber auch strapazierfähig wenn man
+                  unter Beschuss gerät.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  Kaufpreis: <strong>50.000€</strong>
+                </li>
+                <li class="list-group-item">400€ Pro Tag</li>
+                <li class="list-group-item">15ct / 1000km</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Fahrzeuge/Panzer.webp"
+                class="card-img-top"
+                alt="bild von einem Panzer"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Moderner Panzer</h5>
+                <p class="card-text">
+                  Geländetaugich und Robust. Das ist ihr bester Freund, wenn es
+                  unvergesslich werden soll.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  Kaufpreis: <strong>200.000€</strong>
+                </li>
+                <li class="list-group-item">1150€ Pro Tag</li>
+                <li class="list-group-item">10 Schuss = 600€</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Fahrzeuge/Bike.webp"
+                class="card-img-top"
+                alt="bild von einem Rennbike"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Rennmotorad</h5>
+                <p class="card-text">
+                  Ein Date? Oder einfach nur die Freiheit genießen? Mit +300mk/h
+                  kein Problem.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                  Kaufpreis: <strong>8000€</strong>
+                </li>
+                <li class="list-group-item">210 Pro Tag</li>
+                <li class="list-group-item">16ct / 1000km</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="Mitarbeiter-feld">
+          <h4>Mitarbeiter</h4>
+          <p>
+            Wollen Sie ein Abenteuer erleben, wissen aber nicht, wen Sie fragen
+            sollen? Kein Problem, wir stellen die passenden Mitarbeiter! Ob
+            Panzerfahrer oder Waffenträger, volle Kompetenz und Diskretion
+            garantiert. Danach einfach zurückgeben - auf Nimmerwiedersehen!
+          </p>
+          <div class="bilder-reihe">
+            <div class="card werbung">
+              <img
+                src="./assets/img/Produkts/Mitabeiter/sushi-koch.webp"
+                class="card-img-top"
+                alt="bild von einem Sushi Koch"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Gerd Müller</h5>
+                <p class="card-text">
+                  Er kann das Abendessen kochen, aber hauptberuflich ist er
+                  Bodyguard.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Nationalität: Itali 🇮🇹</li>
+                <li class="list-group-item">
+                  Monatsgehalt: <strong>7500€</strong>
+                </li>
+                <li class="list-group-item">500€ Pro Tag</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Monatlich</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Täglich</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Mitabeiter/fluchwagenfahrer.webp"
+                class="card-img-top"
+                alt="bild von einem Gepanzerten Jeep"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Dirk Elster</h5>
+                <p class="card-text">
+                  Ein sehr disketer Ex-Rennfahrer der sie schnell und sicher aus
+                  jeder Gefahr bringt.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Nationalität: Spain 🇪🇸</li>
+                <li class="list-group-item">
+                  Monatsgehalt: <strong>11.000€</strong>
+                </li>
+                <li class="list-group-item">700€ Pro Tag</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Monatlich</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Täglich</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Mitabeiter/auftragskiller.webp"
+                class="card-img-top"
+                alt="bild von einem Panzer"
+              />
+              <div class="card-body">
+                <h5 class="card-title">Kevin Trainer</h5>
+                <p class="card-text">
+                  Er stellt keine Fragen und arbeite schnell und effizient.
+                  Manchmal spricht er auch.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Nationalität: Norwegen 🇳🇴</li>
+                <li class="list-group-item">
+                  Monatlich: <strong>600.000€</strong>
+                </li>
+                <li class="list-group-item">52.000€ Pro Ticket</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+
+            <div class="card werbung">
+              <img
+                src="assets/img/Produkts/Mitabeiter/Piloten.webp"
+                class="card-img-top"
+                alt="bild von einem Rennbike"
+              />
+              <div class="card-body">
+                <h5 class="card-title">die Tonis</h5>
+                <p class="card-text">
+                  Die beide gibt es nur im Doppel, unsere besten Piloten auch
+                  fürs Schlachfeld.
+                </p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Nationalität: Ghana 🇬🇭</li>
+                <li class="list-group-item">
+                  Monatsgehalt: <strong>25000€</strong>
+                </li>
+                <li class="list-group-item">800 Pro Tag</li>
+              </ul>
+              <div class="card-body">
+                <a href="Katalog.html#Waffen" class="card-link">Kaufen</a>
+                <a href="Vermietung.html#Waffen" class="card-link">Mieten</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <hr />
+      <section id="Karriere">
+        <h2>Karriere</h2>
+        <p id="einleitungsP">
+          Sie sind gut im finden von dingen, oder helfen gerne anderen bei ihren
+          Abendteuern. Es gibt viele möglichkeiten bei uns Karriere zu machen.
+          wir setzen auf Diskretion, Loyalität und Kompetenz, im Gegenzug bieten
+          wir ihnen das gleiche. Also Bonus können bekommen sie ein Abendteuer
+          ihrer Wahl auf unsere kosten.
         </p>
-        <h4>Mitarbeiter</h4>
-        <p>
-          Wollen Sie ein Abenteuer erleben, wissen aber nicht, wen Sie fragen
-          sollen? Kein Problem, wir stellen die passenden Mitarbeiter! Ob
-          Panzerfahrer oder Waffenträger, volle Kompetenz und Diskretion
-          garantiert. Danach einfach zurückgeben - auf Nimmerwiedersehen!
-        </p>
+
+        <h3>Hier sind einige offene Stellen bei uns.</h3>
+        <ol>
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>Spezialist für „Kreative Akquisitionen“</h5>
+            </a>
+            <p>
+              Aufgaben: Aufspüren und Beschaffen von „verlorenen“ Waffen,
+              Fahrzeugen und Artefakten durch geschickte und diskrete Methoden.
+            </p>
+          </li>
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>Historiker für „Unerwartete Funde“</h5>
+            </a>
+            <p>
+              Aufgaben: Recherche und Dokumentation der Herkunft und Geschichte
+              der entdeckten Objekte; Erstellen detaillierter Berichte und
+              Geschichten zu jedem Fund.
+            </p>
+          </li>
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>Berater für „Exklusive Kundenwünsche“</h5>
+            </a>
+            <p>
+              Aufgaben: Beratung und Unterstützung unserer Kunden bei der
+              Auswahl von Waffen, Fahrzeugen und Artefakten; maßgeschneiderte
+              Lösungsvorschläge.
+            </p>
+          </li>
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>Fahrzeug- und Ausrüstungs-Scout</h5>
+            </a>
+            <p>
+              Aufgaben: Aufspüren und Beschaffen von Fahrzeugen und
+              Ausrüstungen, die für spezielle Anforderungen oder Abenteuer
+              benötigt werden.
+            </p>
+          </li>
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>„Kreativ-Künstler“ für Restauration und Modifikation</h5>
+            </a>
+            <p>
+              Aufgaben: Restaurierung und Modifikation von Waffen und
+              Fahrzeugen, um sie in perfektem Zustand für unsere Kunden zu
+              bringen.
+            </p>
+          </li>
+
+          <li>
+            <a href="Karriere.html#Schnellbewerbung"
+              ><h5>Sicherheitsspezialist für „Unauffällige Operationen“</h5>
+            </a>
+            <p>
+              Aufgaben: Sicherstellung der physischen und digitalen Sicherheit
+              aller Operationen; Entwicklung und Implementierung von
+              Sicherheitsstrategien.
+            </p>
+          </li>
+        </ol>
+
+        <button id="Karriere-bnt">
+          <a
+            href="Karriere.html"
+            class="text-white bg-gradient-to-r from-red-400 via-red-500 to-red-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-red-300 dark:focus:ring-red-800 shadow-lg shadow-red-500/50 dark:shadow-lg dark:shadow-red-800/80 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2"
+            >Bewerben Sie sich heute!</a
+          >
+        </button>
       </section>
     </main>
+
+    <footer>
+      Haftungsausschluss: Kugelhagel & Co. betont, dass alle „Entdeckungen“
+      strikt innerhalb des Rahmens des Zufalls und des Gesetzes erfolgen. Wir
+      schätzen Ehrlichkeit und Transparenz - und wir sind sicher, dass die
+      Vorbesitzer all unserer Fundstücke ihren Verlust nur als "unglücklichen
+      Zufall" betrachten. <br />
+      Design & Webside by Norman Tetzlaff
+    </footer>
     <script>
       type = "module";
       src = "https://cdn.jsdelivr.net/npm/flowbite@2.4.1/dist/flowbite.min.js";
