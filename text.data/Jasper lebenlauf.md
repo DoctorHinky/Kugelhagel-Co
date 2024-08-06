@@ -15,5 +15,3 @@ In den folgenden Jahrzehnten reiste Jasper durch die USA und darüber hinaus, um
 
 Letzte Jahre und Erbe
 Nach einem erfüllten Leben, voller unvorhersehbarer Entdeckungen und geschickter Verhandlungen, zog sich Jasper 1905 nach San Francisco zurück. Hier widmete er seine letzten Jahre dem Schreiben seiner Memoiren und dem Ausbau seiner Sammlung. Er starb 1910, hinterließ jedoch ein unvergängliches Erbe und eine Firma, die nach wie vor auf Zufall und „kreative Entdeckungen“ setzt.
-
-

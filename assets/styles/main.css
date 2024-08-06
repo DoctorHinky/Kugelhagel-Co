@@ -99,6 +99,7 @@ label::after {
 #member:hover {
   background: linear-gradient(90deg, var(--gold), var(--red));
 }
+/* HEADER ENDE */
 
 #Home {
   background-image: url(../img/background.webp);
@@ -168,6 +169,14 @@ h2 {
 #Jasper div {
   width: 100%;
   overflow: hidden;
+}
+#Jasper-Img {
+  box-shadow: 5px 5px 2px var(--black);
+  border-radius: 50%;
+  transition: 0.5s;
+}
+#Jasper-Img:hover {
+  box-shadow: none;
 }
 
 #Jasper-Content {
