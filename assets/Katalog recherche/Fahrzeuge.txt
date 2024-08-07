@@ -1,0 +1,151 @@
+Fahrzeuge:
+	Unauffällige Autos:
+	
+		Audi A6 – Eleganter, aber unauffälliger Kombi oder Limousine.
+		BMW 530i – Leistungsstarker, aber dezenter Mittelklassewagen.
+		Mercedes-Benz E-Class – Komfortable Limousine oder Kombi.
+		Volvo V60 – Schwedische Limousine oder Kombi, bekannt für Sicherheit und Komfort.
+		Volkswagen Passat – Solides und unauffälliges Fahrzeug.
+		Skoda Superb – Geräumiger Kombi oder Limousine, bietet viel Platz.
+		Ford Mondeo – Gute Wahl für eine unauffällige Limousine oder Kombi.
+		Honda Accord – Verlässliche und diskrete Limousine.
+		Toyota Camry – Zuverlässig und unauffällig, ideal für lange Strecken.
+		Mazda6 – Sportliche Limousine oder Kombi, aber nicht auffällig.
+		Hyundai Sonata – Geräumige und komfortable Limousine.
+		Kia Optima – Solide Limousine, eher unauffällig.
+		Peugeot 508 – Elegante Limousine oder Kombi.
+		Seat Tarraco – SUV, aber unauffälliger als viele andere.
+		Skoda Kodiaq – Großer SUV, relativ unauffällig.
+		Opel Insignia – Komfortable Limousine oder Kombi.
+		Nissan Altima – Diskrete Limousine, geeignet für lange Strecken.
+		Audi A4 – Kompakter als der A6, aber ebenfalls unauffällig.
+		BMW 320i – Weniger auffällige Version der 3er Reihe.
+		Ford Fusion – Amerikanisches Modell, das in Europa weniger auffällt.
+	Sportwagen:
+		Porsche 911 Turbo S – Extrem leistungsstark und ikonisch, mit fortschrittlicher Technik.
+		Ferrari F8 Tributo – Ein leistungsstarker Ferrari mit beeindruckendem Design.
+		McLaren 720S – Hervorragende Performance und modernes Design.
+		Aston Martin Vantage – Eleganter Sportwagen mit kraftvoller Leistung.
+		Lamborghini Huracán EVO – Beeindruckende Leistung und aggressives Design.
+		Chevrolet Corvette C8 Z06 – Hochleistungs-Sportwagen aus den USA mit Mid-Engine-Layout.
+		Audi R8 V10 Performance – Hochwertiger Sportwagen mit dem Audi-Rennsport-Erbe.
+		BMW M4 G82 – Leistungsstarker Sportwagen mit fortschrittlicher Technik.
+		Mercedes-AMG GT R – Kraftvoll und elegant, ideal für die Rennstrecke.
+		Jaguar F-Type R – Britischer Sportwagen mit aggressivem Design und starker Leistung.
+		Porsche 718 Cayman GT4 – Kompakter und präziser Sportwagen.
+		Aston Martin DB9 – Klassischer Aston Martin mit luxuriösem Design und solider Leistung.
+		Maserati Alfieri – Sportliches Design und luxuriöse Ausstattung.
+		Nissan GT-R – Legendärer Sportwagen mit beeindruckender Leistung.
+		Lotus Evora GT – Leichtgewichtiger Sportwagen mit exzellenter Fahrdynamik.
+		Alfa Romeo 4C Spider – Klein und leicht, aber extrem leistungsfähig.
+		Porsche 911 Carrera 4S – Klassischer Porsche mit viel Leistung und Handling.
+		Lamborghini Gallardo – Ein Klassiker mit hervorragender Performance und auffälligem Design.
+		Bentley Continental GT Speed – Luxus-Sportwagen mit beeindruckender Geschwindigkeit.
+		Ferrari 488 GTB – Ein weiterer leistungsstarker Ferrari, bekannt für seine präzise Handhabung und exzellente Leistung.
+		
+	Luxus:
+		Mercedes-Benz S-Class (S 580) – Luxuslimousine mit hervorragender Ausstattung und Komfort.
+		BMW 7er (740i) – Große Limousine mit fortschrittlicher Technik und hochwertigem Innenraum.
+		Audi A8 (60 TFSI) – Elegante Limousine mit edlem Design und modernster Technik.
+		Jaguar XJ – Britische Limousine mit luxuriösem Interieur und erstklassigem Fahrkomfort.
+		Lexus LS 500 – Premium-Limousine mit luxuriösem Design und fortschrittlicher Technik.
+		Genesis G90 – Luxuriöse Limousine aus Südkorea mit viel Komfort und moderner Ausstattung.
+		Maserati Quattroporte – Italienische Limousine mit sportlichem Flair und exklusivem Innenraum.
+		Porsche Panamera (4S) – Sportlich orientierte Luxuslimousine mit exzellenter Performance.
+		Bentley Flying Spur V8 – Luxuslimousine mit edlem Design und außergewöhnlichem Komfort.
+		Rolls-Royce Ghost – Hochwertige Limousine mit überragendem Luxus und edlem Interieur.
+		Mercedes-Maybach S-Class – Premium-Limousine in der S-Klasse-Variante für höchste Ansprüche.
+		Audi A8L (60 TFSI) – Verlängerte Limousine für zusätzlichen Komfort und Raum.
+		BMW 7er (750Li) – Verlängerte Variante für extra Luxus und Fahrkomfort.
+		Land Rover Range Rover Autobiography – Hochwertiger SUV mit luxuriösem Innenraum und umfassender Ausstattung.
+		Rolls-Royce Wraith – Luxuriöses Coupé mit stilvollem Design und sportlichem Charakter.
+		Mercedes-Benz S-Class Maybach Pullman – Stretchlimousine für ultimative Luxus und Exklusivität.
+		Chrysler 300C Stretch Limousine – Klassische Stretchlimousine für besondere Anlässe.
+		Lincoln Continental – Amerikanische Luxuslimousine mit großem Innenraum und eleganter Ausstattung.
+		Cadillac XTS – Komfortable Luxuslimousine mit großzügigem Raumangebot und moderner Technik.
+		Alpina B7 – Hochleistungs-Limousine auf Basis des BMW 7er mit exklusiver Ausstattung.
+
+	gepanzert Wagen:
+		Mercedes-Benz G-Class (G 63 AMG Guard) – Gepanzerter Geländewagen, der Schutz gegen verschiedene Bedrohungen bietet.
+		BMW X5 Protection VR6 – Gepanzerter SUV, der Schutz gegen verschiedene Angriffe bietet.
+		Audi Q7 V12 TDI Protection – Gepanzerter SUV mit umfassendem Schutz und luxuriöser Ausstattung.
+		Range Rover Sentinel – Luxus-SUV mit Ballistikschutz und hohem Sicherheitsstandard.
+		Toyota Land Cruiser V8 Armored – Robuster Geländewagen mit gepanzerter Ausstattung.
+		Chevrolet Suburban Premier SUV Armored – Gepanzerter SUV mit umfassendem Schutz und geräumigem Innenraum.
+		Lexus LX 570 Armored – Luxuriöser SUV mit Ballistikschutz für erhöhten Schutz.
+		Ford Expedition XLT Armored – Gepanzerter SUV mit viel Platz und Schutz für Sicherheit.
+		Hummer H2 SUT Armored – Robustes und gepanzertes Fahrzeug für extreme Bedingungen.
+		Mitsubishi Pajero Armored – Gepanzerter Geländewagen für Schutz und Komfort.
+		Porsche Cayenne S Armored – Gepanzerter SUV, der Leistung und Schutz kombiniert.
+		GMC Yukon XL Denali Armored – Gepanzerter SUV mit großem Innenraum und Schutz.
+		Armored Mercedes-Benz S-Class (S 600 Guard) – Luxuslimousine mit umfassendem Ballistikschutz.
+		Bentley Bentayga Armored – Luxus-SUV mit hochwertigem Panzerungsschutz.
+		Rolls-Royce Phantom Armored – Luxuslimousine mit höchstem Ballistikschutz und Eleganz.
+		Range Rover Vogue SE Armored – Gepanzerter SUV mit luxuriösem Innenraum und Sicherheitsfeatures.
+		Audi A8 L Security – Luxuslimousine mit umfassendem Schutz gegen Bedrohungen.
+		Armored Lexus LS 460 – Luxuslimousine mit Ballistikschutz für zusätzliche Sicherheit.
+		Chevrolet Tahoe Premier Armored – Gepanzerter SUV, der Schutz und Komfort vereint.
+		Land Rover Defender 110 Armored – Robuster und gepanzerter Geländewagen für Sicherheit in schwierigen Umgebungen.
+	Bikes:
+		Kawasaki Ninja ZX-14R – Supersportler mit beeindruckender Leistung und Geschwindigkeit.
+		Honda CBR1000RR-R Fireblade – Hochleistungs-Supersportbike mit moderner Technologie.
+		Yamaha YZF-R1 – Leistungsstarkes Supersportbike mit Renntechnologie.
+		Ducati Panigale V4 – Italienischer Supersportler mit außergewöhnlicher Leistung.
+		BMW S1000RR – Hochentwickeltes Supersportbike für Leistung und Technologie.
+		Suzuki GSX-R1000 – Klassischer Supersportler mit exzellenter Performance.
+		Harley-Davidson Street Glide – Cruiser mit Komfort und modernem Design für lange Fahrten.
+		Indian Chief Classic – Amerikanischer Cruiser mit klassischem Design und Komfort.
+		Honda Gold Wing – Luxuriöser Tourer mit zahlreichen Komfort- und Sicherheitsfeatures.
+		BMW K1600GTL – Hochwertiger Tourer mit viel Leistung und Komfort für lange Reisen.
+		Kawasaki Versys 1000 – Adventure-Touring-Motorrad mit guter Vielseitigkeit und Komfort.
+		Triumph Tiger 900 – Abenteuer-Motorrad mit offroad-tauglicher Ausstattung und Technologie.
+		Ducati Multistrada V4 – Vielseitiges Adventure-Bike mit fortschrittlicher Technik und Leistung.
+		Royal Enfield Himalayan – Robustes Adventure-Bike für Offroad-Abenteuer.
+		Yamaha MT-09 – Naked Bike mit kräftigem Motor und sportlichem Design.
+		KTM 1290 Super Duke R – Leistungsstarkes Naked Bike für hohe Performance.
+		Honda CB650R – Naked Bike mit gutem Handling und solider Leistung.
+		Suzuki V-Strom 650 – Adventure-Touring-Bike mit guter Vielseitigkeit und Komfort.
+		Harley-Davidson Sportster Iron 883 – Klassischer Cruiser mit minimalistischer Ausstattung und Stil.
+		Aprilia Tuono V4 1100 – Leistungsstarkes Naked Bike mit Renntechnologie und hohem Fahrspaß.
+	Panzer:
+		Leopard 2A7 – Moderner deutscher Kampfpanzer mit fortschrittlicher Panzerung und Elektronik.
+		M1 Abrams (M1A2 SEP v3) – US-amerikanischer Kampfpanzer mit leistungsstarker Waffe und moderner Technologie.
+		T-90MS – Russischer Kampfpanzer mit starker Bewaffnung und moderner Panzerung.
+		Challenger 2 – Britischer Kampfpanzer, bekannt für seine starke Panzerung und Zuverlässigkeit.
+		Leclerc – Französischer Kampfpanzer, der für seine hohe Beweglichkeit und fortschrittliche Technik bekannt ist.
+		Type 99A – Chinesischer Kampfpanzer mit moderner Bewaffnung und Panzerung.
+		Merkava Mk.4 – Israelischer Kampfpanzer mit Schwerpunkt auf Schutz der Besatzung und Mobilität.
+		T-80U – Russischer Kampfpanzer, der für seine Feuerkraft und Panzerung bekannt ist.
+		M60 Patton – Historischer US-Kampfpanzer, der in vielen Konflikten verwendet wurde.
+		Panther (Panzer V) – Deutscher Panzer aus dem Zweiten Weltkrieg, bekannt für seine hohe Feuerkraft.
+		Tiger II (Königstiger) – Deutscher schwerer Panzer des Zweiten Weltkriegs mit starker Panzerung.
+		Sherman M4A3E8 – US-amerikanischer Panzer des Zweiten Weltkriegs, bekannt für seine Vielseitigkeit.
+		T-34/85 – Russischer Panzer des Zweiten Weltkriegs mit verbesserter Bewaffnung.
+		Stug III – Deutsches Sturmgeschütz des Zweiten Weltkriegs, bekannt für seine Feuerkraft.
+		Churchill Mk VII – Britischer Schlepper-Panzer des Zweiten Weltkriegs, bekannt für seine starke Panzerung.
+		M4A1 Sherman – US-amerikanischer Panzer des Zweiten Weltkriegs mit ikonischem Design.
+		Panzer IV – Deutscher Panzer des Zweiten Weltkriegs, der in verschiedenen Varianten produziert wurde.
+		T-55 – Russischer Panzer, der in vielen Ländern weltweit verwendet wird.
+		AMX-30 – Französischer Kampfpanzer, der für seine gute Leistung und Mobilität bekannt ist.
+		BMP-3 – Russisches Schützenpanzerfahrzeug mit starker Bewaffnung und Panzerung.
+	Sonderstücke:
+		Ferrari 250 GTO – Ein ikonischer Sportwagen aus den 1960er Jahren, bekannt für seine Leistung und Seltenheit.
+		Porsche 911 (Urmodell) – Der ursprüngliche 911er aus den 1960er Jahren, der den Grundstein für eine Legende legte.
+		Jaguar E-Type – Ein Klassiker aus den 1960er Jahren, berühmt für sein elegantes Design und seine Performance.
+		Shelby Cobra 427 – Ein amerikanischer Sportwagen der 1960er Jahre, bekannt für seine extreme Leistung und sein markantes Design.
+		Mercedes-Benz 300SL Gullwing – Ein ikonischer Sportwagen der 1950er Jahre mit seinen charakteristischen Flügeltüren.
+		Chevrolet Corvette Stingray (C2) – Der Corvette aus den 1960er Jahren, bekannt für sein markantes Design und seine Leistung.
+		Ford Mustang Fastback (1965) – Ein legendärer amerikanischer Muscle Car, der die Automobilgeschichte prägte.
+		Alfa Romeo 8C Competizione – Ein italienischer Sportwagen, der sowohl als Oldtimer als auch als moderner Klassiker gilt.
+		Aston Martin DB5 – Bekannt als James Bond's Auto, ein eleganter britischer Luxus-Sportwagen.
+		Lamborghini Miura – Ein revolutionärer italienischer Sportwagen aus den 1960er Jahren, der das Design von Supercars beeinflusste.
+		BMW Vision Next 100 – Ein futuristisches Konzeptfahrzeug von BMW, das einen Ausblick auf die Zukunft des Automobildesigns bietet.
+		Audi AI – Ein Konzeptauto von Audi, das den Fokus auf autonome Mobilität und urbane Mobilität legt.
+		Bugatti Type 35 – Ein Rennwagen aus den 1920er Jahren, der für seine Erfolge auf der Rennstrecke bekannt ist.
+		Duesenberg Model J – Ein luxuriöses Auto der 1930er Jahre, das für seine Eleganz und Leistung berühmt ist.
+		Rolls-Royce Phantom I – Ein luxuriöser Oldtimer aus den 1920er Jahren, bekannt für seine edlen Materialien und exquisite Handwerkskunst.
+		Packard Twelve – Ein amerikanischer Luxuswagen der 1930er Jahre, bekannt für seine fortschrittliche Technik und Eleganz.
+		Citroën Traction Avant – Ein innovativer französischer Oldtimer aus den 1930er Jahren, der für seine Technik und Stil bekannt ist.
+		Ford Model T – Das Auto, das die Massenmotorrad erschloss, produziert in den frühen 1900er Jahren.
+		Chrysler Airflow – Ein bahnbrechendes Designfahrzeug aus den 1930er Jahren, das Aerodynamik und Innovation verkörperte.
+		Maserati A6G/54 – Ein italienischer Sportwagen aus den 1950er Jahren, bekannt für seine elegante Form und Leistung.

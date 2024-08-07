@@ -1,0 +1,153 @@
+Waffen:
+	Pistolen:
+		Ruger LCP (.380 ACP)
+		Beretta 21A Bobcat (.22 LR)
+		Walther P22 (.22 LR)
+		Glock 43 (9mm Luger)
+		Smith & Wesson M&P Shield (9mm Luger)
+		Sig Sauer P320 Compact (9mm Luger)
+		Springfield XD-S (9mm Luger)
+		CZ P-07 (9mm Luger)
+		Glock 19 (9mm Luger)
+		Beretta 92FS (9mm Luger)
+		Smith & Wesson M&P9 (9mm Luger)
+		Springfield Armory XD-M (9mm Luger)
+		Sig Sauer P226 (.40 S&W)
+		Glock 22 (.40 S&W)
+		Smith & Wesson M&P .40 (.40 S&W)
+		Springfield Armory XD-M .40 (.40 S&W)
+		Colt 1911 (.45 ACP)
+		Smith & Wesson Model 625 (.45 ACP)
+		Kimber Ultra Carry II (.45 ACP)
+		Taurus Raging Bull (.454 Casull)
+	
+	MG's:
+		MP5 (Heckler & Koch) – Einer der bekanntesten Maschinenpistolen, entwickelt in den 1960er Jahren.
+		Uzi (IMI) – Ein ikonisches Modell, das erstmals in den 1950er Jahren entwickelt wurde.
+		Thompson M1A1 (Auto-Ordnance) – Berühmt aus dem Zweiten Weltkrieg, auch bekannt als „Tommy Gun“.
+		Sterling SMG (Sterling Armaments) – Entwickelt in den 1950er Jahren, eine britische Maschinenpistole.
+		MP7 (Heckler & Koch) – Ein modernes Modell, das in den frühen 2000er Jahren entwickelt wurde.
+		P90 (FN Herstal) – Bekannt für sein einzigartiges Design und seine hohe Feuerrate, entwickelt in den 1990er Jahren.
+		MAC-10 (Macao Arms) – Ein kompaktes Modell, das in den 1970er Jahren populär wurde.
+		Scorpion EVO 3 (CZ) – Ein modernes Modell mit fortschrittlicher Technologie, entwickelt 2009.
+		B&T MP9 (Brügger & Thomet) – Ein modernes Modell, das in den 2000er Jahren auf den Markt kam.
+		M3 Grease Gun (General Motors) – Ein amerikanisches Modell aus dem Zweiten Weltkrieg, bekannt für seine einfache Bauweise.
+		Madsen M50 (Madsen) – Eine dänische Maschinenpistole, entwickelt in den 1950er Jahren.
+		Bren Ten (Bren Ten) – Ein Modell aus den 1980er Jahren, bekannt für seine Kompaktheit.
+		Uzi Pro (IMI) – Eine moderne Version der klassischen Uzi, entwickelt in den 2000er Jahren.
+		H&K UMP45 (Heckler & Koch) – Eine .45 ACP Maschinenpistole, entwickelt in den 1990er Jahren.
+		KPOS (Kriti) – Ein modernes Konvertierungs-Kit für die Verwendung von verschiedenen Handfeuerwaffen.
+		Ingram MAC-11 (Ingram) – Ein noch kompakteres Modell als der MAC-10, entwickelt in den 1970er Jahren.
+		PP-19 Bizon (Izhmash) – Eine russische Maschinenpistole mit Trommelmagazin, entwickelt in den 1990er Jahren.
+		MP40 (Heckler & Koch) – Berühmt aus dem Zweiten Weltkrieg, bekannt für sein markantes Design.
+		B&T APC9 (Brügger & Thomet) – Ein modernes Modell mit modularer Bauweise, entwickelt in den 2010er Jahren.
+		Z-15 (Zastava) – Eine serbische Maschinenpistole, die für ihre Robustheit bekannt ist und in den 2000er Jahren entwickelt wurde.
+		
+	Sturmgewehre:
+		AK-47 (Kalashnikov) – Eines der bekanntesten Sturmgewehre, entwickelt in den späten 1940er Jahren.
+		M16A2 (Colt) – Ein amerikanisches Sturmgewehr, das in den 1960er Jahren eingeführt wurde.
+		FN SCAR-L (FN Herstal) – Ein modernes, modular aufgebautes Sturmgewehr, entwickelt in den 2000er Jahren.
+		G36 (Heckler & Koch) – Ein modernes Gewehr, das in den 1990er Jahren entwickelt wurde und weit verbreitet ist.
+		Steyr AUG (Steyr Mannlicher) – Ein bullpup-Design, das seit den 1970er Jahren verwendet wird.
+		Tavor TAR-21 (Israel Military Industries) – Ein bullpup-Sturmgewehr, das seit den frühen 2000er Jahren in Verwendung ist.
+		FAL (FN Herstal) – Ein belgisches Sturmgewehr, das in den 1950er Jahren entwickelt wurde.
+		M4 Carbine (Colt) – Eine moderne Weiterentwicklung des M16, weit verbreitet bei den US-Streitkräften.
+		HK416 (Heckler & Koch) – Eine moderne Version des M4, bekannt für ihre Zuverlässigkeit und Präzision.
+		G3 (Heckler & Koch) – Ein Sturmgewehr aus den 1950er Jahren, das weltweit verwendet wird.
+		M14 (Springfield Armory) – Ein Gewehr, das in den 1950er Jahren entwickelt wurde und für seine Genauigkeit bekannt ist.
+		AK-74 (Kalashnikov) – Eine verbesserte Version des AK-47, die in den 1970er Jahren entwickelt wurde.
+		SCAR-H (FN Herstal) – Eine schwere Variante des FN SCAR, entwickelt für größere Kaliber.
+		K-2 (Daewoo) – Ein südkoreanisches Sturmgewehr, das in den 1980er Jahren entwickelt wurde.
+		SAR-21 (ST Kinetics) – Ein bullpup-Sturmgewehr aus Singapur, das seit den 2000er Jahren verwendet wird.
+		Beryl (FB Radom) – Ein polnisches Sturmgewehr, das seit den 1990er Jahren in Gebrauch ist.
+		QBZ-95 (Norinco) – Ein chinesisches bullpup-Sturmgewehr, das seit den 1990er Jahren verwendet wird.
+		M1 Carbine (Inland Manufacturing) – Ein leichteres Gewehr, das im Zweiten Weltkrieg und in den 1950er Jahren verwendet wurde.
+		Type 89 (Japan Steel Works) – Ein japanisches Sturmgewehr, das seit den 1980er Jahren in Verwendung ist.
+		F2000 (FN Herstal) – Ein modernes bullpup-Sturmgewehr, entwickelt in den 2000er Jahren.
+		
+	Bögen & Armbrüste:
+		Bögen
+			Langbogen – Ein traditioneller englischer Bogen, bekannt für seine Einfachheit und Effektivität.
+			Recurvebogen – Ein klassischer Bogen, dessen Enden nach hinten gebogen sind, was ihm zusätzliche Power verleiht.
+			Compoundbogen – Ein moderner Bogen mit einem komplexen System von Riegeln und Sehnen, der höhere Genauigkeit und Leistung bietet.
+			Reflexbogen – Ein Bogen, bei dem die Wurfarme nach innen gebogen sind, was ihm zusätzliche Energie verleiht.
+			Klassischer Langbogen – Ein traditioneller Bogen aus Holz, der im Mittelalter weit verbreitet war.
+			Kohlenstoffbogen – Ein moderner Bogen, der aus Carbonfasern gefertigt ist und besonders leicht und stabil ist.
+			Hybridbogen – Ein Bogen, der Elemente von Recurve- und Compoundbögen kombiniert, um Vorteile beider Designs zu nutzen.
+			Tak-down Bogen – Ein Bogen, dessen Wurfarme abnehmbar sind, was den Transport erleichtert.
+			Selfbow – Ein Bogen, der aus einem einzigen Stück Holz gefertigt ist, ohne zusätzliche Komponenten.
+			Hybrid-Recurvebogen – Eine Mischung aus Recurve- und Reflexdesigns, die die Leistung verbessert.
+		Armbrüste
+			Kleine Armbrust – Eine einfach gebaute Armbrust, oft für den Freizeitgebrauch oder für Anfänger.
+			Recurve-Armbrust – Eine Armbrust mit Recurve-Design, das für zusätzliche Energie sorgt.
+			Kompaktarmbrust – Eine moderne, kompakte Armbrust, die für den Einsatz in engen Räumen oder für Jagdzwecke optimiert ist.
+			Kollimator-Armbrust – Eine Armbrust mit einem Kollimatorvisier für präzises Zielen.
+			Pneumatische Armbrust – Eine Armbrust, die durch Druckluft angetrieben wird und höhere Schusskraft bietet.
+			Stahlarmbrust – Eine robust gebaute Armbrust aus Stahl, die für hohe Haltbarkeit und Leistung sorgt.
+			Kohlenstoffarmbrust – Eine moderne Armbrust, die aus Carbonfasern gefertigt ist und besonders leicht und stark ist.
+			Bogenarmbrust – Eine Armbrust, bei der der Bogenmechanismus die Energie auf den Bolzen überträgt, ähnlich einem traditionellen Bogen.
+			Compound-Armbrust – Eine Armbrust mit einem Compound-Design, das eine höhere Energie und Genauigkeit bietet.
+			High-Tech-Armbrust – Eine moderne Armbrust, die mit fortschrittlicher Technologie wie elektronischen Visieren, Stabilisierungssystemen und präzisen Abzugssystemen ausgestattet ist.
+	Sniper:
+		M40 – Ein US-amerikanisches Scharfschützengewehr, das in verschiedenen Varianten und Kalibern wie .308 Winchester (7.62x51mm NATO) bekannt ist.
+		Remington 700 – Ein weit verbreitetes, vielseitiges Scharfschützengewehr, häufig in Kaliber .308 Winchester und .300 Winchester Magnum erhältlich.
+		Accuracy International AXMC – Ein modernes, modular aufgebautes Scharfschützengewehr, das in verschiedenen Kalibern wie .338 Lapua Magnum und .300 Winchester Magnum verfügbar ist.
+		Barrett M82 – Ein bekanntes, halbautomatisches Scharfschützengewehr im Kaliber .50 BMG (12.7x99mm NATO), das für extreme Reichweiten und Durchschlagskraft bekannt ist.
+		Sako TRG-42 – Ein hochpräzises Scharfschützengewehr, das häufig in Kaliber .338 Lapua Magnum verwendet wird.
+		Steyr SSG 08 – Ein Scharfschützengewehr mit modularer Bauweise, oft in Kaliber .308 Winchester und .300 Winchester Magnum erhältlich.
+		CheyTac M200 Intervention – Ein Scharfschützengewehr, das speziell für extreme Reichweiten entwickelt wurde und in Kaliber .408 CheyTac erhältlich ist.
+		Tikka T3x TAC A1 – Ein Scharfschützengewehr, das für seine Genauigkeit und Haltbarkeit bekannt ist und oft in Kaliber .308 Winchester und .260 Remington erhältlich ist.
+		McMillan TAC-50 – Ein präzises Scharfschützengewehr im Kaliber .50 BMG, das für seine Reichweite und Feuerkraft geschätzt wird.
+		HK PSG1 – Ein halbautomatisches Scharfschützengewehr, das für seine Genauigkeit und Zuverlässigkeit bekannt ist und in Kaliber 7.62x51mm NATO erhältlich ist.
+		FN SCAR-H PR – Ein modulares Scharfschützengewehr, das für seine Vielseitigkeit und Leistung bekannt ist, häufig in Kaliber 7.62x51mm NATO.
+		Desert Tech SRS – Ein bullpup-Scharfschützengewehr mit modularer Bauweise, das in verschiedenen Kalibern wie .338 Lapua Magnum und .308 Winchester erhältlich ist.
+		Winchester Model 70 – Ein klassisches Scharfschützengewehr, das in verschiedenen Kalibern wie .30-06 Springfield und .300 Winchester Magnum erhältlich ist.
+		Parker Hale M82 – Ein britisches Scharfschützengewehr, das in Kaliber .308 Winchester verwendet wird und für seine Präzision bekannt ist.
+		L115A3 – Ein britisches Scharfschützengewehr, das in Kaliber .338 Lapua Magnum verwendet wird und für seine Reichweite und Genauigkeit geschätzt wird.
+		Barrett M107 – Ein halbautomatisches Scharfschützengewehr im Kaliber .50 BMG, das für seine Feuerkraft und Reichweite bekannt ist.
+		Krieghoff Tactical 300 – Ein Scharfschützengewehr, das für seine Präzision und Haltbarkeit in Kaliber .300 Winchester Magnum erhältlich ist.
+		SIG Sauer SSG 3000 – Ein Scharfschützengewehr, das für seine hohe Genauigkeit bekannt ist und in Kaliber .308 Winchester erhältlich ist.
+		A.I. AW (Accuracy International Arctic Warfare) – Ein Scharfschützengewehr, das für extreme Bedingungen und in verschiedenen Kalibern wie .338 Lapua Magnum und .308 Winchester erhältlich ist.
+		M110 SASS (Semi-Automatic Sniper System) – Ein halbautomatisches Scharfschützengewehr im Kaliber 7.62x51mm NATO, das von der US-Armee verwendet wird.
+	Großkaliber:
+		M79 Grenade Launcher – Ein einläufiger, tragbarer Granatwerfer im Kaliber 40mm, bekannt für seine Einfachheit und Effektivität in verschiedenen Konflikten.
+		M203 Grenade Launcher – Ein unterlaufender Granatwerfer, der an AR-15/M16-Gewehren montiert werden kann und Granaten im Kaliber 40mm verschießt.
+		HK69A1 – Ein Granatwerfer im Kaliber 40mm, der für seine Präzision und einfache Handhabung bekannt ist.
+		M320 Grenade Launcher – Eine neuere Variante des M203, die als tragbarer Granatwerfer und als Unterlauf-Granatwerfer eingesetzt werden kann.
+		AG36 – Ein unterlaufender Granatwerfer von Heckler & Koch, der für das G36-Sturmgewehr entwickelt wurde und Granaten im Kaliber 40mm verschießt.
+		Mk 19 Grenade Launcher – Ein automatischer Granatwerfer im Kaliber 40mm, der für seine hohe Feuerkraft und hohe Feuerrate bekannt ist.
+		Carl Gustav M3 – Ein Mehrzweck-Raketenwerfer aus Schweden im Kaliber 84mm, der für verschiedene Munitionstypen wie Hohlladungen und Brandmunition verwendet wird.
+		RPG-7 – Ein tragbarer Raketenwerfer aus Russland im Kaliber 40mm, bekannt für seine Wirksamkeit gegen gepanzerte Fahrzeuge und Gebäude.
+		Panzerschreck (Raketenwerfer 43) – Ein deutscher Raketenwerfer aus dem Zweiten Weltkrieg, der Hohlladungs-Raketen im Kaliber 88mm verwendet.
+		Panzerfaust 3 – Ein moderner, tragbarer Panzerabwehr-Raketenwerfer aus Deutschland, der Hohlladungs-Raketen im Kaliber 110mm verschießt.
+		AT4 – Ein tragbarer, einwegiger Raketenwerfer aus Schweden, der eine Hohlladung im Kaliber 84mm abfeuert.
+		M72 LAW – Ein tragbarer, einwegiger Raketenwerfer aus den USA, der eine Hohlladung im Kaliber 66mm verwendet.
+		Javelin – Ein tragbares, hochmodernes, feuer- und vergess-Raketenabwehrsystem aus den USA, das eine Hohlladung im Kaliber 127mm verwendet.
+		TOW (Tube-launched, Optically tracked, Wire-guided) – Ein drahtgesteuertes Raketenabwehrsystem aus den USA, das Raketen im Kaliber 152mm abfeuert.
+		M141 Bunker Defeat Munition (BDM) – Ein tragbarer Raketenwerfer, der eine spezielle Munition für das Durchdringen von Gebäuden verwendet.
+		RPG-29 – Ein russischer Panzerabwehr-Raketenwerfer, der eine Hohlladung im Kaliber 105mm verschießt.
+		M202 FLASH – Ein Mehrfach-Raketenwerfer aus den USA, der Raketen im Kaliber 66mm abfeuert und primär für den Einsatz gegen Infrastruktur und Fahrzeuge konzipiert ist.
+		RPG-16 – Ein russischer Raketenwerfer, der im Kaliber 70mm Raketen verschießt, bekannt für seine Einfachheit und Effektivität.
+		BGM-71 TOW – Ein drahtgesteuertes Raketenabwehrsystem, das Raketen im Kaliber 152mm abfeuert und für seine hohe Präzision und Reichweite bekannt ist.
+		Davy Crockett – Ein tragbares, taktisches Kernwaffensystem aus den USA, das eine kleine Kernwaffe im Kaliber 280mm abfeuert.
+	Kampfmittel:
+		M67 Handgranate – Eine Fragmentgranate aus den USA, die für ihre hohe Effektivität in Infanteriegefechten bekannt ist. Sie enthält Sprengstoff und Metallfragmentierung.
+		RG-42 Handgranate – Eine Fragmentgranate aus dem Zweiten Weltkrieg, die in Russland entwickelt wurde und für ihre einfache Konstruktion bekannt ist.
+		M84 Stun Grenade – Eine Blend- und Schockgranate, die für ihre starke akustische und visuelle Wirkung bekannt ist, um Gegner temporär zu desorientieren.
+		L2A2 Stun Grenade – Eine britische Blendgranate, die einen starken Knall und helles Licht erzeugt, um Feinde zu blenden und zu desorientieren.
+		RPG-18 – Ein tragbarer Einweg-Raketenwerfer, der eine Hohlladung im Kaliber 64mm verwendet und hauptsächlich gegen gepanzerte Fahrzeuge gerichtet ist.
+		Kasper Handgranate – Eine moderne Fragmentgranate aus dem deutschen Militär, bekannt für ihre hohe Sprengkraft und fragmentarische Wirkung.
+		M18A1 Claymore – Eine antipersonelle Mine, die mit einer gerichteten Sprengladung ausgestattet ist, die eine breite Zone von Fragmenten in einem bestimmten Bereich abfeuert.
+		PMN-2 Mine – Eine russische antipersonelle Mine, die eine Vielzahl von Fragmenten freisetzt, um Personen im Umkreis zu verletzen.
+		M14 Mine – Eine antipersonelle Mine aus dem Vietnamkrieg, die mit einem Federmechanismus funktioniert und einen großen Bereich abdeckt.
+		Goliath – Ein ferngesteuertes Minenfahrzeug aus dem Zweiten Weltkrieg, das eine große Sprengladung enthält und für den Einsatz gegen Panzer konzipiert ist.
+		M2A4 Grenade – Eine spezielle Fragmentgranate der US-Armee, die für ihre hohe Zerstörungskraft bekannt ist.
+		C-4 Sprengstoff – Ein plastischer Sprengstoff, der in verschiedenen militärischen Anwendungen und für Sprengungen von Zielstrukturen verwendet wird.
+		TNT Sprengstoff – Ein klassischer Sprengstoff, der für seine Verlässlichkeit und Effektivität in verschiedenen militärischen und zivilen Anwendungen bekannt ist.
+		Bouncing Betty (S-Mine) – Eine antipersonelle Mine, die beim Auslösen eine vertikale Bewegung ausführt und ihre Fragmente in einem weiten Bereich verteilt.
+		AT-4 Mine – Eine antipanzermine, die speziell für den Einsatz gegen Fahrzeuge entwickelt wurde und große Zerstörungskraft besitzt.
+		M1919 Grenade – Eine amerikanische Handgranate aus dem Ersten Weltkrieg, bekannt für ihre Robustheit und einfache Handhabung.
+		Kampfpistole P8 – Eine Pistole, die speziell für die Verwendung von Munitionsgranaten und Ähnlichem konzipiert ist.
+		M24 Stun Grenade – Eine Blendgranate, die für ihre Fähigkeit bekannt ist, ein starkes Geräusch und helles Licht zu erzeugen.
+		Anti-Tank Grenade – Eine Granate, die speziell entwickelt wurde, um Panzer und andere gepanzerte Fahrzeuge zu bekämpfen, oft mit Hohlladungen.
+		M20A1 Claymore – Ein aktualisierter Claymore-Typ mit verbesserten Materialien und Zündmechanismen, der für seine Effektivität und Reichweite bekannt ist.
