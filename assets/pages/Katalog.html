@@ -3,23 +3,101 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Katalog von Kugelhagel und Co.</title>
+    <meta name="author" content="Norman Tetzlaff" />
+    <meta name="description" content="das ist ein fiktiver Katalog" />
+    <title>Katalog von Kugelhagel & Co.</title>
     <link rel="stylesheet" href="../styles/Katalog.css" />
   </head>
   <body>
     <header>
-      <h2>Kugelhagel & Co.</h2>
       <nav>
         <ul>
-          <li>
-            <input type="checkbox" id="waffen-check" />
-            <label for="waffen-check">Waffen</label>
-            <ul>
-              <li><a href="#Pistolen"></a></li>
-            </ul>
-          </li>
+          <li><a href="#">Home</a></li>
+          <li><a href="#Waffen">Waffen</a></li>
+          <li><a href="#Fahrzeuge">Fahrzeuge</a></li>
+          <li><a href="#Mitarbeiter">Mitarbeiter</a></li>
         </ul>
       </nav>
     </header>
+    <main>
+      <section id="Home">
+        <h1>Willkommen im Katalog</h1>
+        <p>
+          Entdecken Sie unsere vielfältige Auswahl an "gefundenen" Waffen und
+          Ausrüstung. Wir bieten für jede Anforderung die passende Lösung -
+          zuverlässig, sicher und professionell. Vertrauen Sie unserer
+          Expertise.
+        </p>
+
+        <div id="cta">
+          <a href="#Sonderangebote">Hier zu Sonderangebote</a>
+        </div>
+      </section>
+
+      <section id="Waffen">
+        <h2>Unsere Waffenkollektion</h2>
+        <div id="Waffen-Katalog">
+          <div id="Handfeuerwaffen" class="Vorschau">
+            <p class="covertext">Handfeuerwaffen</p>
+            <div id="Handfeuer-Content" class="content">
+              <p id="Revolver">Revolver</p>
+              <p id="Pistolen">Pistolen</p>
+            </div>
+          </div>
+          <div id="Maschienenpistolen" class="Vorschau">
+            <p id="Mp-cover" class="covertext">Maschienenpistolen</p>
+            <div id="Mp-Content" class="content">
+              <p id="Compact">Compact</p>
+              <p id="Standard">Standard</p>
+              <p id="Heavy">Heavy</p>
+              <p id="PDW">PDW</p>
+            </div>
+          </div>
+          <div id="Sturmegewehre" class="Vorschau">
+            <p class="covertext">Sturmegewehre</p>
+            <div id="Sturmgewehr-Content" class="content">
+              <p>leicht</p>
+              <p>Standart</p>
+              <p>Schwer</p>
+            </div>
+          </div>
+          <div id="Schrotflinten" class="Vorschau">
+            <p class="covertext">Schrotflinten</p>
+            <div id="Schrotflinten-Content" class="content">
+              <p>Pump-Action</p>
+              <p>Halb-automatisch</p>
+              <p>Doppelläufig</p>
+            </div>
+          </div>
+          <div id="Sniper" class="Vorschau">
+            <p class="covertext">ScharfschützenGewehre</p>
+            <div id="Sniper-Content" class="content">
+              <p>Bold-And-Action</p>
+              <p>Halb-automatisch</p>
+              <p>Taktisch</p>
+              <p>Anti-Material</p>
+              <p>Autonome</p>
+            </div>
+          </div>
+          <div id="Grosskaliber" class="Vorschau">
+            <p class="covertext">Großkaliber</p>
+            <div id="Grosskaliber-Content" class="content">
+              <p>Panzerabwehr</p>
+              <p>Granatwerfer</p>
+              <p>Raketenwerfer</p>
+              <p>Anti-Material</p>
+            </div>
+          </div>
+          <div id="Sonstiges" class="Vorschau">
+            <p class="covertext">Sonstiges</p>
+            <div id="Sonstiges-Content" class="content">
+              <p>Granaten</p>
+              <p>Bögen</p>
+              <p>Armbrüste</p>
+              <p>Verteidigung</p>
+          </div>
+        </div>
+      </section>
+    </main>
   </body>
 </html>
