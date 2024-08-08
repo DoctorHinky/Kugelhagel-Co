@@ -112,6 +112,7 @@ Waffen:
 			MPi 69 - Leicht, klappbare Schulterstütze, einfache Bedienung und Wartung.
 			B&T APC9K - Kompaktes Design, modularer Aufbau, hohe Zuverlässigkeit und Präzision.
 			ST Kinetics CPW - Leicht, ergonomisch, vielseitig einsetzbar, entwickelt in Singapur.
+
 		Standard SMG's:
 			Heckler & Koch MP5 - Ein Klassiker, weltweit bei Militär und Polizei im Einsatz, bekannt für Zuverlässigkeit und Präzision.
 			Uzi - Berühmte israelische Maschinenpistole, robust und einfach zu bedienen.

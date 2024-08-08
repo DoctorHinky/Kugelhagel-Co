@@ -112,3 +112,83 @@ section {
   width: 80%;
   margin: 0 auto;
 }
+.covertext {
+  position: absolute;
+  font-size: 2rem;
+}
+.Vorschau {
+  cursor: default;
+}
+.Vorschau:hover .covertext {
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: 1s;
+}
+.Vorschau:hover .content {
+  opacity: 1;
+  transition: 1s;
+  transition-delay: 0.5s;
+}
+.content {
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+}
+.content:hover::after {
+  width: 100%;
+  transition: 0.5s;
+}
+#Handfeuer-Content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+.content > * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Pistolen {
+  transform: translate(10%, 10%);
+  transition: transform 1s;
+}
+#Revolver {
+  transform: translate(-10%, -10%);
+  transition: transform 1s;
+}
+
+.Vorschau:hover #Pistolen,
+.Vorschau:hover #Revolver {
+  transform: translate(0%, 0%);
+  transition: transform 1s;
+  transition-delay: 0.5s;
+}
+#Mp-Content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+#Compact-Mp {
+  transform: translate(-10%, -10%);
+  transition: transform 1s;
+}
+#Standard-Mp {
+  transform: translate(10%, -10%);
+  transition: transform 1s;
+}
+#Heavy-Mp {
+  transform: translate(-10%, 10%);
+  transition: transform 1s;
+}
+#PDW-Mp {
+  transform: translate(10%, 10%);
+  transition: transform 1s;
+}
+.Vorschau:hover #Compact-Mp,
+.Vorschau:hover #Standard-Mp,
+.Vorschau:hover #Heavy-Mp,
+.Vorschau:hover #PDW-Mp {
+  transform: translate(0%, 0%);
+  transition: transform 1s;
+  transition-delay: 0.5s;
+}
