@@ -312,7 +312,6 @@ Personal:
 			Beschreibung: Ein erfahrener Feldarzt, der auch inoffiziell arbeitet und illegale medizinische Hilfe bietet.
 			Er hat viele Leben gerettet und ist für seine unkonventionellen Methoden bekannt.
 
-
 	Auftragsmörder:
 	
 		Victor Ivanov
@@ -410,6 +409,7 @@ Personal:
 			bekannt für seine außergewöhnlichen Fähigkeiten im Umgang mit verschiedenen Waffen 
 			und seine unerschütterliche Entschlossenheit. Er ist eine Legende in der Unterwelt und für seine
 			Effizienz und Unbarmherzigkeit berüchtigt.
+	
 	Bodyguards:
 		Alexander "Axel" Müller
 
@@ -512,6 +512,7 @@ Personal:
 			Beschreibung: Eine junge und talentierte Bodyguard, die für ihre Fähigkeiten 
 			im Umgang mit modernen Sicherheitstechnologien bekannt ist. 
 			Sie bringt frische Perspektiven und innovative Ansätze in den Schutzbereich ein.
+	
 	Diebe: 
 		Liam "Slick" Connors
 

@@ -10,3 +10,5 @@
 
 - Jaspers Lebenslauf ist ein Link zu seinen Memoirien.
   diese müssen noch geschrieben werden.
+
+### datenbank mit JSON anlegen

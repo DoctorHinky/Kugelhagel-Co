@@ -110,7 +110,7 @@ h2 {
   text-align: center;
   text-decoration: underline;
 }
-#waffenKatalog {
+.katalogSection {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
@@ -118,8 +118,7 @@ h2 {
   height: 80%;
   margin-top: 4%;
 }
-#fahrzeugKatalog > *,
-#waffenKatalog > * {
+.katalogSection > * {
   outline: 1px solid black;
   border-radius: 20px;
   display: flex;
@@ -127,8 +126,7 @@ h2 {
   align-items: center;
   font-size: 1.6rem;
 }
-#sonstiges,
-#sonderstücke {
+.longField {
   grid-column: span 3;
   width: 80%;
   margin: 0 auto;
@@ -361,4 +359,8 @@ h2 {
   align-items: center;
   font-size: 1.3rem;
   padding: 5%;
+}
+footer {
+  width: max-content;
+  margin: auto;
 }
