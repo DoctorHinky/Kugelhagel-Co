@@ -9,6 +9,25 @@
 body {
   background-color: rgb(240, 240, 240);
 }
+/* 
+a {
+  position: relative;
+}
+a::after {
+  content: "";
+  display: block;
+  top: 0;
+  left: 50%;
+  width: 0;
+  height: 2px;
+  background: var(--red);
+  transition: width 0.6s;
+  position: absolute;
+}
+a:hover::after {
+  width: 100%;
+  transition: width 0.6s;
+} */
 header {
   position: sticky;
   top: 0;
@@ -86,7 +105,7 @@ section {
   display: flex;
   justify-content: center;
 }
-#waffen h2 {
+h2 {
   font-size: 3rem;
   text-align: center;
   text-decoration: underline;
@@ -99,6 +118,7 @@ section {
   height: 80%;
   margin-top: 4%;
 }
+#fahrzeugKatalog > *,
 #waffenKatalog > * {
   outline: 1px solid black;
   border-radius: 20px;
@@ -107,7 +127,8 @@ section {
   align-items: center;
   font-size: 1.6rem;
 }
-#sonstiges {
+#sonstiges,
+#sonderstücke {
   grid-column: span 3;
   width: 80%;
   margin: 0 auto;
@@ -115,6 +136,7 @@ section {
 .covertext {
   position: absolute;
   font-size: 2rem;
+  transition: 1s;
 }
 .vorschau {
   cursor: default;
@@ -133,6 +155,7 @@ section {
   height: 100%;
   width: 100%;
   opacity: 0;
+  transition: 1s;
 }
 #handfeuerContent {
   display: grid;
@@ -316,9 +339,26 @@ section {
   transition-delay: 0.5s;
 }
 .waffenCover {
-  color: red;
-  pointer-events: default;
+  text-decoration: none;
+  color: var(--black);
 }
 .waffenCover:hover {
-  cursor: pointer;
+  text-decoration: underline;
+}
+/*  FAHRZEUGE  */
+
+#fahrzeugKatalog {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 20px;
+  height: 80%;
+  margin-top: 4%;
+}
+.info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3rem;
+  padding: 5%;
 }
