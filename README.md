@@ -1,14 +1,9 @@
-# Kugelhagel-Co
+# Todo-Liste:
 
-# FAKE SEITE DEKLARIREN IN DER SUBDOMAIN
+1. Datenbank fehlt
+2. main.js erstellen zum Abrufen der Datenbank (katalog.json)
+3. Responsiv design erstellen
 
-# Media Querries
+# wichtige änderungen:
 
-- ich habe sie alle entfernt und werde diese erst später hinzufügen
-
-## jasper
-
-- Jaspers Lebenslauf ist ein Link zu seinen Memoirien.
-  diese müssen noch geschrieben werden.
-
-### datenbank mit JSON anlegen
+- es muss noch die Handfeuer section von 2 auf 4 erweitert werden!!!

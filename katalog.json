@@ -1,3 +1,230 @@
 {
-  "katalog": ["section"]
+  "Katalog": {
+    "Waffen": {
+      "Handfeuerwaffen": {
+        "Revolver": [
+          {
+            "Name": "Colt Anaconda",
+            "Kaliber": "44 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.5kg - 1.6kg (je nach Lauflänge)",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "1500€ - 3000€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Colt Anaconda.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Anaconda"
+          },
+          {
+            "Name": "Colt Cobra",
+            "Kaliber": "38 Special",
+            "Magazin": "6",
+            "Gewicht": "leer: 0.7kg - 0.8kg (je nach Lauflänge)",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1950",
+            "Markpreis": "800€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Colt Cobra.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Cobra"
+          },
+          {
+            "Name": "Colt Detective Special",
+            "Kaliber": "38 Special",
+            "Magazin": "6",
+            "Gewicht": "leer: ca. 0.7kg",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1927",
+            "Markpreis": "800€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Colt Detective Special.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Detective_Special"
+          },
+          {
+            "Name": "Colt Python",
+            "Kaliber": "357 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.2kg",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1955",
+            "Markpreis": "1200€ - 3000€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Colt-Python.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Python"
+          },
+          {
+            "Name": "Colt Single Action Army",
+            "Kaliber": "45 MM",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.05kg",
+            "Hersteller": "Colt Firearms",
+            "Entwicklungsjahr": "1872",
+            "Markpreis": "1200€ - 3000€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Colt Single Action Army.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Single_Action_Army"
+          },
+          {
+            "Name": "Ruger Blackhawk",
+            "Kaliber": "44 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.305kg",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "1955",
+            "Markpreis": "700€- 1200€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Ruger Blackhawk.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Blackhawk"
+          },
+          {
+            "Name": "Ruger GP100",
+            "Kaliber": "357 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1kg - 1.3kg (je nach Lauflänge)",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "1985",
+            "Markpreis": "800€ - 1200€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Ruger GP100.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_GP100"
+          },
+          {
+            "Name": "Ruger Redhawk",
+            "Kaliber": "44 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.4kg - 1.6kg (je nach Lauflänge)",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "1979",
+            "Markpreis": "1000€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Ruger Redhawk.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Redhawk"
+          },
+          {
+            "Name": "Ruger Super Blackhawk",
+            "Kaliber": "44 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.2kg - 1.5kg (je nach Lauflänge)",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "1959",
+            "Markpreis": "800€ - 1300€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Ruger Super Blackhawk.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Super_Blackhawk"
+          },
+          {
+            "Name": "Ruger Vaquero",
+            "Kaliber": "45 Colt / 357 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.1kg - 1.4kg (je nach Lauflänge)",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "1993",
+            "Markpreis": "700€ - 1200€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Ruger Vaquero.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Vaquero"
+          },
+          {
+            "Name": "Smith & Wesson Model 10",
+            "Kaliber": "38 Special",
+            "Magazin": "6",
+            "Gewicht": "leer: 0.9kg - 1kg (je nach Lauflänge)",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1899",
+            "Markpreis": "400€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 10.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_10"
+          },
+          {
+            "Name": "Smith & Wesson Model 19",
+            "Kaliber": "357 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.1kg - 1.2kg (je nach Lauflänge)",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1955",
+            "Markpreis": "800€ - 1400€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 19.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_19"
+          },
+          {
+            "Name": "Smith & Wesson Model 29",
+            "Kaliber": "44 Magnum",
+            "Magazin": "6",
+            "Gewicht": "leer: 1.305kg",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1955",
+            "Markpreis": "1.000€ - 1200€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith_&_Wesson_Model_29.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_29"
+          },
+          {
+            "Name": "Smith & Wesson Model 36",
+            "Kaliber": "38 Special",
+            "Magazin": "5",
+            "Gewicht": "leer: ca. 0.7kg (je nach Lauflänge)",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1950",
+            "Markpreis": "600€ - 1000€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 36.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_36"
+          },
+          {
+            "Name": "Smith & Wesson Model 42",
+            "Kaliber": "38 Special",
+            "Magazin": "5",
+            "Gewicht": "leer: ca. 0.6kg - 0.7kg (je nach Lauflänge)",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1952",
+            "Markpreis": "500€ - 1000€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 42.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_42"
+          },
+          {
+            "Name": "Smith & Wesson Model 327",
+            "Kaliber": "357 Magnum / 38 Special",
+            "Magazin": "8",
+            "Gewicht": "leer: ca. 1kg",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "2006",
+            "Markpreis": "1200€ - 1800€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 327.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_327"
+          },
+          {
+            "Name": "Smith & Wesson Model 500",
+            "Kaliber": "500 S&W Magnum",
+            "Magazin": "5",
+            "Gewicht": "leer: 1.6kg- 1.8kg (je nach Lauflänge)",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "2003",
+            "Markpreis": "1200€ - 1600€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Smith & Wesson Model 500.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_500"
+          },
+          {
+            "Name": "Taurus Model 65",
+            "Kaliber": "357 Magnum / 38 Special",
+            "Magazin": "6",
+            "Gewicht": "leer: ca. 1.1kg",
+            "Hersteller": "Taurus International Manufacturing",
+            "Entwicklungsjahr": "1980er Jahre",
+            "Markpreis": "400€ - 700€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Taurus Model 65.webp",
+            "Wikipedia": null
+          },
+          {
+            "Name": "Taurus Model 85",
+            "Kaliber": "38 Special",
+            "Magazin": "5",
+            "Gewicht": "leer: 0.5kg - 0.7kg (je nach Lauflänge)",
+            "Hersteller": "Taurus International Manufacturing",
+            "Entwicklungsjahr": "1980er Jahre",
+            "Markpreis": "300€ - 500€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Taurus Model 85.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Model_85"
+          },
+          {
+            "Name": "Taurus Raging Bull",
+            "Kaliber": "44 Magnum / 454 Casull / 480 Ruger",
+            "Magazin": "6 / 5",
+            "Gewicht": "leer: 1.4kg - 1.9kg (je nach Lauflänge / Modell)",
+            "Hersteller": "Taurus International Manufacturing",
+            "Entwicklungsjahr": "1979",
+            "Markpreis": "800€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/Revolver/Taurus Raging Bull.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Raging_Bull"
+          }
+        ]
+      }
+    }
+  }
 }

@@ -1,93 +1,93 @@
 Waffen:
 	Handfeuerwaffen:
 		Revolver:
-			Colt Single Action Army
-			Smith & Wesson Model 29
-			Ruger Blackhawk
-			Smith & Wesson Model 686
-			Colt Python
-			Ruger GP100
-			Taurus Model 85
-			Smith & Wesson Model 19
-			Ruger Redhawk
-			Colt Anaconda
-			Smith & Wesson Model 500
-			Taurus Raging Bull
-			Ruger Vaquero
-			Smith & Wesson Model 36
-			Colt Detective Special
-			Ruger Super Blackhawk
-			Smith & Wesson Model 10
-			Taurus Model 65
-			Colt Cobra
-			Smith & Wesson Model 327
+				Colt Anaconda
+				Colt Cobra
+				Colt Detective Special
+				Colt Python
+				Colt Single Action Army
+				Ruger Blackhawk
+				Ruger GP100
+				Ruger Redhawk
+				Ruger Super Blackhawk
+				Ruger Vaquero
+				Smith & Wesson Model 10
+				Smith & Wesson Model 19
+				Smith & Wesson Model 29
+				Smith & Wesson Model 36
+				Smith & Wesson Model 42
+				Smith & Wesson Model 327
+				Smith & Wesson Model 500
+				Taurus Model 65
+				Taurus Model 85
+				Taurus Raging Bull
 		Pistolen:
 
-			halbautomatisch:
-				Glock 17 - Eine der bekanntesten und weit verbreiteten Dienstpistolen.
-				Beretta 92FS - Berühmt durch ihre Verwendung im Militär und bei der Polizei.
-				Sig Sauer P226 - Weit verbreitet bei Polizei und Militär weltweit.
-				Heckler & Koch USP - Beliebt für ihre Zuverlässigkeit und Präzision.
-				Smith & Wesson M&P 9 - Modern und modular, weit verbreitet bei Polizeibehörden.
-				CZ 75 - Ein tschechisches Modell, bekannt für seine Ergonomie und Genauigkeit.
-				Walther P99 - Bekannt durch ihre Verwendung bei verschiedenen Polizeibehörden.
-				Springfield Armory XD(M) - Beliebt für ihre Ergonomie und Vielseitigkeit.
-				Browning Hi-Power - Ein Klassiker, weit verbreitet bei Militär und Polizei.
-				FN Herstal FNX-9 - Bekannte für ihre Robustheit und Modularität.
-				Ruger SR9 - Beliebt für ihre Zuverlässigkeit und Erschwinglichkeit.
-				Taurus PT92 - Eine brasilianische Variante der Beretta 92, bekannt für ihre Qualität.
-				Kimber Custom II - Eine 1911-basierte Pistole, bekannt für ihre Präzision.
-				H&K P30 - Beliebt für ihre Ergonomie und Vielseitigkeit.
-				Beretta PX4 Storm - Bekannt für ihr einzigartiges Rotationslauf-Design.
-				Sig Sauer P320 - Modular und vielseitig, wird von vielen Polizeibehörden verwendet.
-				Glock 19 - Eine kompaktere Version der Glock 17, weit verbreitet bei Zivilisten und Polizei.
-				Colt 1911 - Ein Klassiker, der seit über einem Jahrhundert im Einsatz ist.
-				S&W Shield - Eine kompakte, leicht zu verbergende Pistole, beliebt bei Zivilisten.
-				Canik TP9 - Eine türkische Pistole, bekannt für ihre Qualität und Erschwinglichkeit.
+		halbautomatisch:
+			Beretta 92FS
+			Beretta PX4 Storm
+			Browning Hi-Power
+			Canik TP9
+			CZ 75
+			Colt 1911
+			FN Herstal FNX-9
+			Glock 17
+			Glock 19
+			H&K P30
+			Heckler & Koch USP
+			Kimber Custom II
+			Ruger SR9
+			Sig Sauer P22
+			Sig Sauer P320
+			Smith & Wesson M&P 9
+			S&W Shield
+			Springfield Armory XD(M)
+			Taurus PT92
+			Walther P99
+				
+		vollautomatisch:
+			Glock 18
+			Beretta 93R
+			Heckler & Koch VP70
+			Stechkin APS
+			Mauser C96 "Schnellfeuer"
+			CZ 75 Automatic
+			M93R
+			Heckler & Koch MP7
+			Intratec TEC-9 
+			Micro Uzi
+			Skorpion vz. 61
+			Colt SCAMP 
+			Ruger AC556
+			FN Herstal Five-seveN 
+			MAC-10
+			Heckler & Koch MP5K
+			Heckler & Koch UMP 
+			Glock 18C 
+			Walther MPL 
+			Ingram M11 
 
-			vollautomatisch:
-				Glock 18 - Eine vollautomatische Version der Glock 17, verwendet von Spezialeinheiten.
-				Beretta 93R - Eine modifizierte Beretta 92, die Dreischuss-Salven abfeuern kann.
-				Heckler & Koch VP70 - Eine der ersten Polymerrahmenpistolen, mit einer vollautomatischen Variante.
-				Stechkin APS - Eine sowjetische vollautomatische Pistole, verwendet von Spezialeinheiten.
-				Mauser C96 "Schnellfeuer" - Eine historische vollautomatische Variante der Mauser C96.
-				CZ 75 Automatic - Eine vollautomatische Version der beliebten CZ 75.
-				M93R - Italienische vollautomatische Pistole, bekannt für ihren Dreischuss-Modus.
-				Heckler & Koch MP7 - Kompakt und leistungsstark, beliebt bei Militär und Polizei.
-				Intratec TEC-9 - Eine umstrittene, aber bekannte vollautomatische Pistole.
-				Micro Uzi - Eine kompakte, vollautomatische Variante der Uzi.
-				Skorpion vz. 61 - Eine tschechische Maschinenpistole, die als vollautomatische Pistole gilt.
-				Colt SCAMP - Ein experimentelles vollautomatisches Pistolen-Design.
-				Ruger AC556 - Eine vollautomatische Variante des Mini-14, manchmal als Pistole konfiguriert.
-				FN Herstal Five-seveN - Eine vollautomatische Variante dieser modernen Pistole existiert.
-				MAC-10 - Eine kompakte Maschinenpistole, oft als vollautomatische Pistole eingestuft.
-				Heckler & Koch MP5K - Eine ultrakompakte Version der MP5, die als Pistole genutzt werden kann.
-				Heckler & Koch UMP - Eine Maschinenpistole, die in kompakten Konfigurationen genutzt wird.
-				Glock 18C - Eine kompakte, vollautomatische Version der Glock 18.
-				Walther MPL - Eine Maschinenpistole, die als vollautomatische Pistole genutzt werden kann.
-				Ingram M11 - Eine kompakte Maschinenpistole, oft als vollautomatische Pistole klassifiziert.
-	
-			Andere: 
-					Derringer - Kleine, zweischüssige Pistolen, oft für die Selbstverteidigung verwendet.
-					Volcanic Repeating Pistol - Frühe Repetierpistole aus dem 19. Jahrhundert.
-					Flintlock Pistol - Antike Feuerwaffe, die mit einem Steinschloss gezündet wird.
-					Matchlock Pistol - Frühe Feuerwaffe, die mit einem Luntenschloss gezündet wird.
-					Pepperbox - Mehrläufige Handfeuerwaffe mit rotierendem Zylinder, die vor den modernen Revolvern genutzt wurde.
-					Punt Gun Pistol - Miniaturversion einer Punt Gun, ursprünglich für die Vogeljagd verwendet.
-					Pistol Crossbow - Kleine Armbrust in Pistolenform.
-					Gyrojet Pistol - Pistole, die kleine Raketengeschosse abfeuert.
-					Flare Gun - Signalpistole, die Leuchtsignale abschießt.
-					Double Barrel Pistol - Zweiläufige Pistole, wie die Howdah-Pistole.
-					Single Shot Pistol - Einläufige Pistole, oft für Zielübungen oder als Notwehrwaffe.
-					CAP Gun - Spielzeugpistole, die kleine Explosivkapseln zündet.
-					Stun Gun - Elektroschockpistole zur Selbstverteidigung.
-					Airsoft Pistol - Pistole, die kleine Plastikkugeln verschießt, oft für Freizeit- und Trainingszwecke.
-					Paintball Pistol - Pistole, die Farbkugeln verschießt, verwendet im Paintball-Sport.
-					CO2 Pistol - Luftdruckpistole, die mit CO2 betrieben wird.
-					Nail Gun Pistol - Werkzeug, das Nägel abschießt, oft in der Bauindustrie verwendet.
-					Glue Gun Pistol - Werkzeug, das Heißkleber abgibt.
-					BB Gun Pistol - Pistole, die Metallkugeln verschießt, oft für Zielübungen oder kleine Jagdtiere.
-					Tranquilizer Pistol - Pistole, die Betäubungspfeile abschießt, oft in der Tiermedizin verwendet.
+		Andere: 
+				Derringer
+				Volcanic Repeating Pistol
+				Flintlock Pistol 
+				Matchlock Pistol 
+				Pepperbox 
+				Punt Gun Pistol 
+				Pistol Crossbow 
+				Gyrojet Pistol 
+				Flare Gun 
+				Double Barrel Pistol 
+				Single Shot Pistol 
+				CAP Gun 
+				Stun Gun 
+				Airsoft Pistol 
+				Paintball Pistol 
+				CO2 Pistol 
+				Nail Gun Pistol 
+				Glue Gun Pistol 
+				BB Gun Pistol 
+				Tranquilizer Pistol 
 		
 	Maschienenpistolen:
 
