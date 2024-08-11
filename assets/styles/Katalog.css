@@ -93,6 +93,9 @@ section {
   font-size: 1.6rem;
   text-decoration: none;
 }
+body {
+  background-color: red !important;
+}
 #home a:hover {
   background: rgb(0, 0, 0, 0.3);
   color: var(--black);
@@ -154,81 +157,46 @@ h2 {
   width: 100%;
   opacity: 0;
   transition: 1s;
-}
-#handfeuerContent {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr;
+  grid-template-rows: 1fr 1fr;
 }
 .content > * {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-#pistolen {
-  transform: translate(10%, 10%);
-  transition: transform 1s;
-}
-#revolver {
+.topleft {
   transform: translate(-10%, -10%);
-  transition: transform 1s;
+}
+.topright {
+  transform: translate(10%, -10%);
+}
+.downleft {
+  transform: translate(-10%, 10%);
+}
+.downright {
+  transform: translate(10%, 10%);
+}
+.vorschau:hover .topleft,
+.vorschau:hover .topright,
+.vorschau:hover .downleft,
+.vorschau:hover .downright {
+  transform: translate(0%, 0%);
+  transition-delay: 0.5s;
 }
 
-.vorschau:hover #pistolen,
-.vorschau:hover #revolver {
-  transform: translate(0%, 0%);
-  transition: transform 1s;
-  transition-delay: 0.5s;
-}
-#mpContent {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-}
-#compactMp {
-  transform: translate(-10%, -10%);
-  transition: transform 1s;
-}
-#standardMp {
-  transform: translate(10%, -10%);
-  transition: transform 1s;
-}
-#heavyMp {
-  transform: translate(-10%, 10%);
-  transition: transform 1s;
-}
-#PDW-Mp {
-  transform: translate(10%, 10%);
-  transition: transform 1s;
-}
-.vorschau:hover #compactMp,
-.vorschau:hover #standardMp,
-.vorschau:hover #heavyMp,
-.vorschau:hover #PDW-Mp {
-  transform: translate(0%, 0%);
-  transition: transform 1s;
-  transition-delay: 0.5s;
-}
-#sturmgewehrContent,
-#schrotflintenContent {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-}
 #leichtGewehr,
 #pumpAction {
   transform: translate(-10%, -10%);
-  transition: transform 1s;
 }
 #standardGewehr,
 #halbautomatisch {
   transform: translate(10%, -10%);
-  transition: transform 1s;
 }
 #heavyGewehr,
 #doppelläufig {
   transform: translateY(10%);
-  transition: transform 1s;
   grid-column: span 2;
 }
 .vorschau:hover #leichtGewehr,
@@ -237,8 +205,7 @@ h2 {
 .vorschau:hover #pumpAction,
 .vorschau:hover #halbautomatisch,
 .vorschau:hover #doppelläufig {
-  transform: translate(0%, 0%);
-  transition: transform 1s;
+  transform: translate(0%);
   transition-delay: 0.5s;
 }
 #sniperContent {
@@ -248,23 +215,18 @@ h2 {
 }
 #boldAndActionSniper {
   transform: translateX(-10%);
-  transition: transform 1s;
 }
 #halbAutomatischSniper {
   transform: translateX(10%);
-  transition: transform 1s;
 }
 #taktischSniper {
   transform: translateX(-20%);
-  transition: transform 1s;
 }
 #antiMaterialSniper {
   transform: translateX(20%);
-  transition: transform 1s;
 }
 #autonomeSniper {
   transform: translateY(20%);
-  transition: transform 1s;
   grid-column: span 2;
 }
 .vorschau:hover #boldAndActionSniper,
@@ -273,39 +235,9 @@ h2 {
 .vorschau:hover #antiMaterialSniper,
 .vorschau:hover #autonomeSniper {
   transform: translate(0%, 0%);
-  transition: transform 1s;
   transition-delay: 0.5s;
 }
 
-#grosskaliberContent {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
-}
-#panzerabwehrGrosskaliber {
-  transform: translate(-10%, -10%);
-  transition: transform 1s;
-}
-#granatwerferGrosskaliber {
-  transform: translate(10%, -10%);
-  transition: transform 1s;
-}
-#raketenwerferGrossklaiber {
-  transform: translate(-10%, 10%);
-  transition: transform 1s;
-}
-#antiMaterialGrosskaliber {
-  transform: translate(10%, 10%);
-  transition: transform 1s;
-}
-.vorschau:hover #panzerabwehrGrosskaliber,
-.vorschau:hover #granatwerferGrosskaliber,
-.vorschau:hover #raketenwerferGrossklaiber,
-.vorschau:hover #antiMaterialGrosskaliber {
-  transform: translate(0%, 0%);
-  transition: transform 1s;
-  transition-delay: 0.5s;
-}
 #sonstigesContent {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -314,45 +246,33 @@ h2 {
 }
 #granaten {
   transform: translateY(10%);
-  transition: transform 1s;
 }
 #bögen {
   transform: translateY(15%);
-  transition: transform 1s;
 }
 #armbrüste {
   transform: translateY(20%);
-  transition: transform 1s;
 }
 #verteidigung {
   transform: translateY(25%);
-  transition: transform 1s;
 }
 .vorschau:hover #granaten,
 .vorschau:hover #bögen,
 .vorschau:hover #armbrüste,
 .vorschau:hover #verteidigung {
   transform: translate(0%, 0%);
-  transition: transform 1s;
   transition-delay: 0.5s;
 }
 .waffenCover {
   text-decoration: none;
   color: var(--black);
+  transition: transform 1s;
 }
 .waffenCover:hover {
   text-decoration: underline;
 }
 /*  FAHRZEUGE  */
 
-#fahrzeugKatalog {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: 20px;
-  height: 80%;
-  margin-top: 4%;
-}
 .info {
   display: flex;
   justify-content: center;
