@@ -25,9 +25,9 @@ Waffen:
 
 		halbautomatisch:
 			Beretta 92FS
+			Beretta M9
 			Beretta PX4 Storm
 			Browning Hi-Power
-			Canik TP9
 			CZ 75
 			Colt 1911
 			FN Herstal FNX-9
@@ -37,7 +37,7 @@ Waffen:
 			Heckler & Koch USP
 			Kimber Custom II
 			Ruger SR9
-			Sig Sauer P22
+			Sig Sauer P226
 			Sig Sauer P320
 			Smith & Wesson M&P 9
 			S&W Shield

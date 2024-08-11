@@ -223,6 +223,228 @@
             "Bilder": "./assets/img/Katalog/Wafen/Revolver/Taurus Raging Bull.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Raging_Bull"
           }
+        ],
+        "Halbautomatische Pistolen": [
+          {
+            "Name": "Beretta 92FS",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "15 Schuss (erweiterbar auf bis zu 30 Schuss)",
+            "Gewicht": "leer: 0.95kg",
+            "Hersteller": "Fabbrica d'Armi Pietro Beretta",
+            "Entwicklungsjahr": "1984 (als 92FS, Ursprung der Serie: 1975)",
+            "Markpreis": "600€ - 900€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Beretta 92FS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_92"
+          },
+          {
+            "Name": "Beretta M9",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "15 Schuss",
+            "Gewicht": "leer: 0.95kg",
+            "Hersteller": "Fabbrica d'Armi Pietro Beretta",
+            "Entwicklungsjahr": "1985",
+            "Markpreis": "600€ - 900€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Beretta M9.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_M9"
+          },
+          {
+            "Name": "Beretta PX4 Storm",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP",
+            "Magazin": "15 Schuss (9mm) / 14 Schuss (40 S&W) / 9 Schuss (45 ACP)",
+            "Gewicht": "leer: 0.8kg - 0.9kg (je nach Modell)",
+            "Hersteller": "Fabbrica d'Armi Pietro Beretta",
+            "Entwicklungsjahr": "2004",
+            "Markpreis": "600€ - 900€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Beretta PX4 Storm.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_PX4_Storm"
+          },
+          {
+            "Name": "Browning Hi-Power",
+            "Kaliber": "9x19mm Parabellum / 40 S&W",
+            "Magazin": "13 Schuss (9mm) / 10 Schuss (40 S&W)",
+            "Gewicht": "leer: 0.88kg",
+            "Hersteller": "FN Herstal (unter Browning",
+            "Entwicklungsjahr": "1935",
+            "Markpreis": "800€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Browning Hi-Power.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Browning_Hi-Power"
+          },
+          {
+            "Name": "CZ 75",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 22 LR",
+            "Magazin": "15 Schuss / 16 Schuss / 10 Schuss",
+            "Gewicht": "leer: 1.1kg",
+            "Hersteller": "Česká zbrojovka",
+            "Entwicklungsjahr": "1975",
+            "Markpreis": "500€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/CZ 75.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/CZ_75"
+          },
+          {
+            "Name": "Colt 1911",
+            "Kaliber": "45 ACP",
+            "Magazin": "7 Schuss / 8 Schuss",
+            "Gewicht": "leer: 1.1kg",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1911",
+            "Markpreis": "800€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Colt 1911.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M1911_pistol"
+          },
+          {
+            "Name": "FN Herstal FNX-9",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "17 / 20 / 24 Schuss",
+            "Gewicht": "leer: 0.83kg",
+            "Hersteller": "FN Herstal",
+            "Entwicklungsjahr": "2009",
+            "Markpreis": "600€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/FN Herstal FNX-9.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FN_FNX"
+          },
+          {
+            "Name": "Glock 17",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "17 / 19 / 33 Schuss",
+            "Gewicht": "leer: 0.6kg",
+            "Hersteller": "Glock",
+            "Entwicklungsjahr": "1982",
+            "Markpreis": "500€ - 700€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Glock 17.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
+          },
+          {
+            "Name": "Glock 19",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "15 / 17 / 33 Schuss",
+            "Gewicht": "leer: 0.6kg",
+            "Hersteller": "Glock Ges.m.b.H.",
+            "Entwicklungsjahr": "1988",
+            "Markpreis": "500€ - 700€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Glock 19.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
+          },
+          {
+            "Name": "H&K P30",
+            "Kaliber": "9x19mm Parabellum / 40 S&W",
+            "Magazin": "15 Standard / 13 - 17 S&W",
+            "Gewicht": "leer: 0.8%kg",
+            "Hersteller": "Heckler & Koch",
+            "Entwicklungsjahr": "2006",
+            "Markpreis": "600€ - 900€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/H&K P30.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_P30"
+          },
+          {
+            "Name": "Heckler & Koch USP",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP",
+            "Magazin": "15 / 13 / 12 Schuss",
+            "Gewicht": "leer: 0.8kg - 1.1kg",
+            "Hersteller": "Heckler & Koch",
+            "Entwicklungsjahr": "1993",
+            "Markpreis": "600€ - 1000€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Heckler & Koch USP.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_USP"
+          },
+          {
+            "Name": "Kimber Custom II",
+            "Kaliber": "45 ACP",
+            "Magazin": "8 Schuss",
+            "Gewicht": "leer: 1.1kg",
+            "Hersteller": "Kimber Manufacturing",
+            "Entwicklungsjahr": "2005",
+            "Markpreis": "100€ - 1500€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Kimber Custom II.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Kimber_Manufacturing"
+          },
+          {
+            "Name": "Ruger SR9",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "10 / 17 Schuss",
+            "Gewicht": "leer: 0.8kg",
+            "Hersteller": "Sturm, Ruger & Co.",
+            "Entwicklungsjahr": "2007",
+            "Markpreis": "400€ - 600€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Ruger SR9.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_SR-Series"
+          },
+          {
+            "Name": "Sig Sauer P226",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 357 SIG",
+            "Magazin": "15 / 20 Parabellum - 12 / 13 S&W - 12 / 13 SIG",
+            "Gewicht": "leer: 0.9 - 1kg",
+            "Hersteller": "Sig Sauer",
+            "Entwicklungsjahr": "1984",
+            "Markpreis": "800€ - 1200€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Sig Sauer P226.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/SIG_Sauer_P226"
+          },
+          {
+            "Name": "Sig Sauer P320",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP / 357 SIG",
+            "Magazin": "17 / 21 Parabellum / 13 S&W / 10 ACP / 12 SIG",
+            "Gewicht": "leer: 0.8kg - 0.9kg",
+            "Hersteller": "Sig Sauer",
+            "Entwicklungsjahr": "2014",
+            "Markpreis": "600€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Sig Sauer P320.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/SIG_Sauer_P320"
+          },
+          {
+            "Name": "Smith & Wesson M&P 9",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP",
+            "Magazin": "17 / 10 / 21 Schuss",
+            "Gewicht": "leer: 0.7kg - 0.8kg",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "2005",
+            "Markpreis": "500€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Smith & Wesson M&P 9.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_M%26P"
+          },
+          {
+            "Name": "S&W Shield",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP",
+            "Magazin": "7 - 8 Parabellum / 6 - 7 S&W / 6 - 7 ACP",
+            "Gewicht": "leer: 0.5kg - 0.6kg",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "2012",
+            "Markpreis": "400€ - 600€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/S&W Shield.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_M%26P"
+          },
+          {
+            "Name": "Springfield Armory XD(M)",
+            "Kaliber": "9x19mm Parabellum / 40 S&W / 45 ACP",
+            "Magazin": "16 / 19 Parabellum / 16 S&W / 13 ACP",
+            "Gewicht": "leer: 0.8kg - 1kg",
+            "Hersteller": "Springfield Armory",
+            "Entwicklungsjahr": "2007",
+            "Markpreis": "600€ - 900€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Springfield Armory XD(M).webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Springfield_Armory_XD"
+          },
+          {
+            "Name": "Taurus PT92",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "15 / 17 / 20 Schuss",
+            "Gewicht": "leer: 0.9kg",
+            "Hersteller": "Taurus International Manufacturing",
+            "Entwicklungsjahr": "1980er Jahre",
+            "Markpreis": "400€ - 600€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Taurus PT92.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_PT92"
+          },
+          {
+            "Name": "Walther P99",
+            "Kaliber": "9x19mm Parabellum / 40 S&W",
+            "Magazin": "10 / 15 / 16 Parrabellum - 10 / 12 S&W",
+            "Gewicht": "leer: 0.75kg",
+            "Hersteller": "Walter Arms",
+            "Entwicklungsjahr": "1996",
+            "Markpreis": "600€ - 800€",
+            "Bilder": "./assets/img/Katalog/Wafen/halbautomatik/Walther P99.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Walther_P99"
+          }
         ]
       }
     }
