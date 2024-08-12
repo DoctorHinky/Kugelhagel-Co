@@ -183,25 +183,19 @@ h2 {
   transition-delay: 0.5s;
 }
 
-#leichtGewehr,
-#pumpAction {
+.oneOfThree {
   transform: translate(-10%, -10%);
 }
-#standardGewehr,
-#halbautomatisch {
+.twoOfThree {
   transform: translate(10%, -10%);
 }
-#heavyGewehr,
-#doppelläufig {
+.threeOfThree {
   transform: translateY(10%);
   grid-column: span 2;
 }
-.vorschau:hover #leichtGewehr,
-.vorschau:hover #standardGewehr,
-.vorschau:hover #heavyGewehr,
-.vorschau:hover #pumpAction,
-.vorschau:hover #halbautomatisch,
-.vorschau:hover #doppelläufig {
+.vorschau:hover .oneOfThree,
+.vorschau:hover .twoOfThree,
+.vorschau:hover .threeOfThree {
   transform: translate(0%);
   transition-delay: 0.5s;
 }

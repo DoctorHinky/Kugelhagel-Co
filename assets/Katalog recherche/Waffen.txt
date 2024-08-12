@@ -45,73 +45,40 @@ Waffen:
 			Taurus PT92
 			Walther P99
 				
-		vollautomatisch:
-			Glock 18
-			Beretta 93R
-			Heckler & Koch VP70
-			Stechkin APS
-			Mauser C96 "Schnellfeuer"
-			CZ 75 Automatic
-			M93R
-			Heckler & Koch MP7
-			Intratec TEC-9 
-			Micro Uzi
-			Skorpion vz. 61
-			Colt SCAMP 
-			Ruger AC556
-			FN Herstal Five-seveN 
-			MAC-10
-			Heckler & Koch MP5K
-			Heckler & Koch UMP 
-			Glock 18C 
-			Walther MPL 
-			Ingram M11 
-
 		Andere: 
-				Derringer
-				Volcanic Repeating Pistol
-				Flintlock Pistol 
-				Matchlock Pistol 
-				Pepperbox 
-				Punt Gun Pistol 
-				Pistol Crossbow 
-				Gyrojet Pistol 
-				Flare Gun 
-				Double Barrel Pistol 
-				Single Shot Pistol 
-				CAP Gun 
-				Stun Gun 
-				Airsoft Pistol 
-				Paintball Pistol 
-				CO2 Pistol 
-				Nail Gun Pistol 
-				Glue Gun Pistol 
-				BB Gun Pistol 
+				COP 357 Derringer
+				Queen Anne Pistol
+				Allen & Thurber 
+				Leuchtpistole M8 
+				Arsenal Firearms AF2011-A1 
+				Smith & Wesson Third Model Single Shot
+				Glock 18
+				Glock 18C 
 				Tranquilizer Pistol 
 		
 	Maschienenpistolen:
 
 		Compact SMG:
-			Heckler & Koch MP5K - Sehr kompakt, ideal für enge Räume und verdeckte Einsätze.
-			Uzi Pro	- Modernisierte Version des klassischen Uzi, kompakt und zuverlässig.
-			FN P90 - Futuristisches Design, hohe Magazinkapazität, ideal für CQB.
-			CZ Scorpion Evo 3 A1 - Leicht, modular, einfach zu bedienen, beliebt bei Sicherheitskräften.
-			SIG Sauer MPX-K - Modulares Design, vielseitig einsetzbar, hohe Präzision.
-			Brügger & Thomet MP9 - 	Kompakt, leicht, klappbare Schulterstütze, schnelle Einsatzbereitschaft.
-			Steyr TMP - Bullpup-Design, kompakt und leicht, effizient in urbanen Umgebungen.
-			Beretta PMX - Ergonomisches Design, modularer Aufbau, hohe Zuverlässigkeit.
-			Heckler & Koch UMP45 - Kompakt, höhere Durchschlagskraft durch größeres Kaliber (.45 ACP).
-			Colt 9mm SMG - Kompakte Version des klassischen M16-Designs, robust und bewährt.
-			IMI Mini Uzi - Kleinere Version des Uzi, sehr kompakt, bekannt für einfache Handhabung.
-			FN F2000 Tactical - Kompaktes Bullpup-Design, futuristisches Aussehen, vielseitig einsetzbar.
-			PP-2000 - Leicht und kompakt, entwickelt für russische Streitkräfte, hohe Feuerrate.
-			H&K MP7 - Kompakt, hohe Penetrationskraft durch spezielles Kaliber (4.6x30mm).
-			Ingram MAC-10 - Sehr kompakt, hohe Feuerrate, bekannt aus vielen Filmen und Spielen.
-			KRISS Vector - Recoil-Reduktionstechnologie, kompakt, präzise und kontrollierbar.
-			Sa vz. 61 Skorpion - Sehr kompakt, klappbare Schulterstütze, ideal für verdeckte Operationen.
-			MPi 69 - Leicht, klappbare Schulterstütze, einfache Bedienung und Wartung.
-			B&T APC9K - Kompaktes Design, modularer Aufbau, hohe Zuverlässigkeit und Präzision.
-			ST Kinetics CPW - Leicht, ergonomisch, vielseitig einsetzbar, entwickelt in Singapur.
+			Uzi
+			Micro Uzi
+			Uzi Mini
+			B&T APC9
+			B&T MP9
+			Heckler & Koch MP5K
+			CZ Scorpion Evo 3 A1
+			SIG Sauer MPX-K
+			Steyr TMP
+			Ingram MAC-10
+			KRISS Vector
+			PP-19 Bizon
+			FN P90
+			Beretta PMX
+			Brügger & Thomet MP9
+			Heckler & Koch MP7
+			Sa vz. 61 Skorpion
+			Colt SMG (9mm)
+			IMI Mini Uzi
+			ST Kinetics CPW
 
 		Standard SMG's:
 			Heckler & Koch MP5 - Ein Klassiker, weltweit bei Militär und Polizei im Einsatz, bekannt für Zuverlässigkeit und Präzision.
