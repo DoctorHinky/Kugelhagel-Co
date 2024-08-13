@@ -11,7 +11,7 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1990",
             "Markpreis": "1500€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Colt Anaconda.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Anaconda.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Anaconda"
           },
           {
@@ -22,7 +22,7 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1950",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Colt Cobra.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Cobra.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Cobra"
           },
           {
@@ -33,7 +33,7 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1927",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Colt Detective Special.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Detective Special.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Detective_Special"
           },
           {
@@ -44,7 +44,7 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1955",
             "Markpreis": "1200€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Colt-Python.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt-Python.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Python"
           },
           {
@@ -55,7 +55,7 @@
             "Hersteller": "Colt Firearms",
             "Entwicklungsjahr": "1872",
             "Markpreis": "1200€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Colt Single Action Army.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Single Action Army.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Single_Action_Army"
           },
           {
@@ -66,7 +66,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1955",
             "Markpreis": "700€- 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Ruger Blackhawk.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Blackhawk.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Blackhawk"
           },
           {
@@ -77,7 +77,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1985",
             "Markpreis": "800€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Ruger GP100.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger GP100.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_GP100"
           },
           {
@@ -88,7 +88,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1979",
             "Markpreis": "1000€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Ruger Redhawk.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Redhawk.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Redhawk"
           },
           {
@@ -99,7 +99,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1959",
             "Markpreis": "800€ - 1300€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Ruger Super Blackhawk.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Super Blackhawk.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Super_Blackhawk"
           },
           {
@@ -110,7 +110,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1993",
             "Markpreis": "700€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Ruger Vaquero.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Vaquero.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Vaquero"
           },
           {
@@ -121,7 +121,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1899",
             "Markpreis": "400€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 10.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 10.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_10"
           },
           {
@@ -132,7 +132,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1955",
             "Markpreis": "800€ - 1400€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 19.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 19.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_19"
           },
           {
@@ -143,7 +143,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1955",
             "Markpreis": "1.000€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith_&_Wesson_Model_29.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith_&_Wesson_Model_29.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_29"
           },
           {
@@ -154,7 +154,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1950",
             "Markpreis": "600€ - 1000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 36.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 36.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_36"
           },
           {
@@ -165,7 +165,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1952",
             "Markpreis": "500€ - 1000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 42.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 42.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_42"
           },
           {
@@ -176,7 +176,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2006",
             "Markpreis": "1200€ - 1800€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 327.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 327.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_327"
           },
           {
@@ -187,7 +187,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2003",
             "Markpreis": "1200€ - 1600€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Smith & Wesson Model 500.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 500.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_500"
           },
           {
@@ -198,7 +198,7 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "400€ - 700€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Taurus Model 65.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 65.webp",
             "Wikipedia": null
           },
           {
@@ -209,7 +209,7 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "300€ - 500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Taurus Model 85.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 85.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Model_85"
           },
           {
@@ -220,7 +220,7 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1979",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Revolver/Taurus Raging Bull.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Raging Bull.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Raging_Bull"
           }
         ],
@@ -233,7 +233,7 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "1984 (als 92FS, Ursprung der Serie: 1975)",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Beretta 92FS.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta 92FS.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_92"
           },
           {
@@ -244,7 +244,7 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "1985",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Beretta M9.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta M9.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_M9"
           },
           {
@@ -255,7 +255,7 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "2004",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Beretta PX4 Storm.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta PX4 Storm.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_PX4_Storm"
           },
           {
@@ -266,7 +266,7 @@
             "Hersteller": "FN Herstal (unter Browning",
             "Entwicklungsjahr": "1935",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Browning Hi-Power.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Browning Hi-Power.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Browning_Hi-Power"
           },
           {
@@ -277,7 +277,7 @@
             "Hersteller": "Česká zbrojovka",
             "Entwicklungsjahr": "1975",
             "Markpreis": "500€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/CZ 75.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/CZ 75.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/CZ_75"
           },
           {
@@ -288,7 +288,7 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1911",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Colt 1911.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Colt 1911.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/M1911_pistol"
           },
           {
@@ -299,7 +299,7 @@
             "Hersteller": "FN Herstal",
             "Entwicklungsjahr": "2009",
             "Markpreis": "600€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/FN Herstal FNX-9.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/FN Herstal FNX-9.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/FN_FNX"
           },
           {
@@ -310,7 +310,7 @@
             "Hersteller": "Glock",
             "Entwicklungsjahr": "1982",
             "Markpreis": "500€ - 700€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Glock 17.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Glock 17.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
           },
           {
@@ -321,7 +321,7 @@
             "Hersteller": "Glock Ges.m.b.H.",
             "Entwicklungsjahr": "1988",
             "Markpreis": "500€ - 700€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Glock 19.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Glock 19.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
           },
           {
@@ -332,7 +332,7 @@
             "Hersteller": "Heckler & Koch",
             "Entwicklungsjahr": "2006",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/H&K P30.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/H&K P30.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_P30"
           },
           {
@@ -343,7 +343,7 @@
             "Hersteller": "Heckler & Koch",
             "Entwicklungsjahr": "1993",
             "Markpreis": "600€ - 1000€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Heckler & Koch USP.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Heckler & Koch USP.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_USP"
           },
           {
@@ -354,7 +354,7 @@
             "Hersteller": "Kimber Manufacturing",
             "Entwicklungsjahr": "2005",
             "Markpreis": "100€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Kimber Custom II.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Kimber Custom II.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Kimber_Manufacturing"
           },
           {
@@ -365,7 +365,7 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "2007",
             "Markpreis": "400€ - 600€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Ruger SR9.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Ruger SR9.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_SR-Series"
           },
           {
@@ -376,7 +376,7 @@
             "Hersteller": "Sig Sauer",
             "Entwicklungsjahr": "1984",
             "Markpreis": "800€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Sig Sauer P226.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Sig Sauer P226.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/SIG_Sauer_P226"
           },
           {
@@ -387,7 +387,7 @@
             "Hersteller": "Sig Sauer",
             "Entwicklungsjahr": "2014",
             "Markpreis": "600€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Sig Sauer P320.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Sig Sauer P320.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/SIG_Sauer_P320"
           },
           {
@@ -398,7 +398,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2005",
             "Markpreis": "500€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Smith & Wesson M&P 9.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Smith & Wesson M&P 9.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_M%26P"
           },
           {
@@ -409,7 +409,7 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2012",
             "Markpreis": "400€ - 600€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/S&W Shield.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/S&W Shield.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_M%26P"
           },
           {
@@ -420,7 +420,7 @@
             "Hersteller": "Springfield Armory",
             "Entwicklungsjahr": "2007",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Springfield Armory XD(M).webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Springfield Armory XD(M).webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Springfield_Armory_XD"
           },
           {
@@ -431,7 +431,7 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "400€ - 600€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Taurus PT92.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Taurus PT92.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_PT92"
           },
           {
@@ -442,7 +442,7 @@
             "Hersteller": "Walter Arms",
             "Entwicklungsjahr": "1996",
             "Markpreis": "600€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/halbautomatik/Walther P99.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Walther P99.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Walther_P99"
           }
         ],
@@ -455,7 +455,7 @@
             "Hersteller": "COP Inc.",
             "Entwicklungsjahr": "1983",
             "Markpreis": "300€ - 500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Andere/COP 357 Derringer.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/COP 357 Derringer.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/COP_357_Derringer"
           },
           {
@@ -466,7 +466,7 @@
             "Hersteller": "Unbekannt",
             "Entwicklungsjahr": "1700er Jahre",
             "Markpreis": "Hohe Sammlerpreise (3000- 15000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Andere/Queen Anne Pistol.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Queen Anne Pistol.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Queen_Anne_pistol"
           },
           {
@@ -477,7 +477,7 @@
             "Hersteller": "Allen & Thurber",
             "Entwicklungsjahr": "1837",
             "Markpreis": "Hohe Sammlerpreise (600- 2000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Andere/Allen & Thurber Pepper-box.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Allen & Thurber Pepper-box.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Pepper-box"
           },
           {
@@ -488,7 +488,7 @@
             "Hersteller": "US Army",
             "Entwicklungsjahr": "1942",
             "Markpreis": "100€ - 300€",
-            "Bilder": "./assets/img/Katalog/Waffen/Andere/Leuchtpistole M8.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Leuchtpistole M8.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Flare_gun"
           },
           {
@@ -499,10 +499,272 @@
             "Hersteller": "Arsenal Firearms",
             "Entwicklungsjahr": "2012",
             "Markpreis": "3000€ - 4500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Andere/Arsenal Firearms AF2011-A1.webp",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Arsenal Firearms AF2011-A1.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Arsenal_Firearms_AF2011A1"
+          },
+          {
+            "Name": "Smith & Wesson Third Model Single Shot",
+            "Kaliber": "22 LR",
+            "Magazin": "1",
+            "Gewicht": "leer: ca. 1kg",
+            "Hersteller": "Smith & Wesson",
+            "Entwicklungsjahr": "1909",
+            "Markpreis": "Hohe Sammlerpreise (1400- 3000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Smith & Wesson Third Model Single Shot.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_1"
+          },
+          {
+            "Name": "Glock 18",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "17 / 19 / 33 Schuss",
+            "Gewicht": "leer: 0.6kg",
+            "Hersteller": "Glock",
+            "Entwicklungsjahr": "1986",
+            "Markpreis": "2000€ - 3000€ normaler Weise nur für Behörden",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Glock 18.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
+          },
+          {
+            "Name": "Glock 18C sonderversion mit Compensator",
+            "Kaliber": "9x19mm Parabellum",
+            "Magazin": "17 / 19 / 33 Schuss",
+            "Gewicht": "leer: 0.6kg",
+            "Hersteller": "Glock",
+            "Entwicklungsjahr": "1986",
+            "Markpreis": "2000€ - 3000€ normaler Weise nur für Behörden",
+            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Andere/Glock 18C.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Glock"
           }
         ]
+      },
+      {
+        "Maschinenpistolen": {
+          "Compact_Smg":[
+            {
+              "Name": "B&T APC9",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "15 / 20 / 25 / 30 Schuss",
+              "Gewicht": "leer: 2.6kg",
+              "Hersteller": "B&T AG (Brügger & Thomet)",
+              "Entwicklungsjahr": "2011",
+              "Markpreis": "2000€ - 3000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/B&T APC9.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/B%26T_APC9"
+            },
+            {
+              "Name": "Brügger & Thomet MP9",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "15 / 20 / 25 / 30 Schuss",
+              "Gewicht": "leer: 1.4kg",
+              "Hersteller": "B&T AG (Brügger & Thomet)",
+              "Entwicklungsjahr": "2004",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/B&T MP9.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Br%C3%BCgger_%26_Thomet_MP9"
+            },
+            {
+              "Name": "Beretta PMX",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "30 Schuss",
+              "Gewicht": "leer: 2.4kg",
+              "Hersteller": "Fabbrica d'Armi Pietro Beretta",
+              "Entwicklungsjahr": "2018",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Beretta PMX.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_PMX"
+            },
+            {
+              "Name": "Cold SMG (9mm)",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "32 Schuss",
+              "Gewicht": "leer: 2.8kg",
+              "Hersteller": "Colt's Manufacturing Company",
+              "Entwicklungsjahr": "1983",
+              "Markpreis": "1.200€ - 2000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Cold SMG 9mm.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Colt_9mm_SMG"
+            },
+            {
+              "Name": "CZ Scorpion Evo 3 A1",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 30 Schuss",
+              "Gewicht": "leer: 2.8kg",
+              "Hersteller": "Česká zbrojovka",
+              "Entwicklungsjahr": "2009",
+              "Markpreis": "1000€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/CZ Scorpion Evo 3 A1.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/CZ_Scorpion_Evo_3_A1"
+            },
+            {
+              "Name": "FN P90",
+              "Kaliber": "5.7x28mm",
+              "Magazin": "50 Schuss",
+              "Gewicht": "leer: 2.6kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "1990",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/FN P90.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/FN_P90"
+            },
+            {
+              "Name": "Heckler & Koch MP5K",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "15 / 20 / 30 Schuss",
+              "Gewicht": "leer: 1.4kg",
+              "Hersteller": "Heckler & Koch",
+              "Entwicklungsjahr": "1976",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Heckler & Koch MP5K.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP5"
+            },
+            {
+              "Name": "Heckler & Koch MP7",
+              "Kaliber": "4.6x30mm",
+              "Magazin": "20 / 40 Schuss",
+              "Gewicht": "leer: 1.7kg",
+              "Hersteller": "Heckler & Koch",
+              "Entwicklungsjahr": "2001",
+              "Markpreis": "2000€ - 3000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Heckler & Koch MP7.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP7"
+            },
+            {
+              "Name": "IMI Mini Uzi",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 32 Schuss",
+              "Gewicht": "leer: 2.3kg",
+              "Hersteller": "Israel Military Industries",
+              "Entwicklungsjahr": "1983",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/IMI Mini Uzi.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/IMI_Mini_Uzi"
+            },
+            {
+              "Name": "Ingram MAC-10",
+              "Kaliber": "9x19mm Parabellum / 45 ACP",
+              "Magazin": "30 Schuss jeweils",
+              "Gewicht": "leer: 2.9kg",
+              "Hersteller": "Military Armament Corporation (MAC)",
+              "Entwicklungsjahr": "1963",
+              "Markpreis": "1000€ - 2000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Ingram MAC-10.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Ingram_MAC-10"
+            },
+            {
+              "Name": "KRISS Vector",
+              "Kaliber": "9x19mm Parabellum / .40 S&W / .45 ACP",
+              "Magazin": "13 / 23 (9mm) | 10 / 13 .40 S&W | 13 / 25 (.45 ACP)",
+              "Gewicht": "leer: 2.6kg",
+              "Hersteller": "KRISS USA",
+              "Entwicklungsjahr": "2006",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/KRISS Vector.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/KRISS_Vector"
+            },
+            {
+              "Name": "Micro Uzi",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 32 Schuss",
+              "Gewicht": "leer: 1.6kg",
+              "Hersteller": "Israel Military Industries (IMI)",
+              "Entwicklungsjahr": "1983",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Micro UZIi.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/IMI_Micro_Uzi"
+            },
+            {
+              "Name": "PP-19 Bizon",
+              "Kaliber": "9x18mm Makarov / 9x19mm Parabellum",
+              "Magazin": "53 / 64 Schuss",
+              "Gewicht": "leer: 2.8kg",
+              "Hersteller": "Izhmash",
+              "Entwicklungsjahr": "1996",
+              "Markpreis": "1200€ - 2000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/PP-19 Bizon.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/PP-19_Bizon"
+            },
+            {
+              "Name": "Sa vz. 61 Skorpion",
+              "Kaliber": "7.65x17mm | .32 ACP",
+              "Magazin": "10 | 20 Schuss",
+              "Gewicht": "leer: 2.3kg",
+              "Hersteller": "Česká zbrojovka",
+              "Entwicklungsjahr": "1961",
+              "Markpreis": "800€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Sa vz. 61 Skorpion.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/%C5%A0korpion_vz._61"
+            },
+            {
+              "Name": "SIG Sauer MPX-K",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 30 Schuss",
+              "Gewicht": "leer: 2.1kg",
+              "Hersteller": "Sig Sauer",
+              "Entwicklungsjahr": "2015",
+              "Markpreis": "1500€ - 2500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/SIG Sauer MPX-K.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/SIG_Sauer_MPX"
+            },
+            {
+              "Name": "ST Kinetics CPW",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 30 Schuss",
+              "Gewicht": "leer: 2.6kg",
+              "Hersteller": "ST Kinetics",
+              "Entwicklungsjahr": "2004",
+              "Markpreis": "1000€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/ST Kinetics CPW.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/ST_Kinetics_CPW"
+            },
+            {
+              "Name": "Steyr TMP",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "15 / 30 Schuss",
+              "Gewicht": "leer: 1.8kg",
+              "Hersteller": "Steyr Mannlicher",
+              "Entwicklungsjahr": "1988",
+              "Markpreis": "1000€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Steyr TMP.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Steyr_TMP"
+            },
+            {
+              "Name": "Uzi",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "25 / 32 Schuss",
+              "Gewicht": "leer: 3.5kg",
+              "Hersteller": "Israel Military Industries (IMI)",
+              "Entwicklungsjahr": "1950",
+              "Markpreis": "1000 - 2000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Uzi.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Uzi"
+            },
+            {
+              "Name": "Uzi Pro",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "20 / 25 Schuss",
+              "Gewicht": "leer: 2.3kg",
+              "Hersteller": "Israel Weapon Industries (IWI)",
+              "Entwicklungsjahr": "2010",
+              "Markpreis": "1000€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Uzi Pro.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Uzi"
+            },
+            {
+              "Name": "Walther MPK",
+              "Kaliber": "9x19mm Parabellum",
+              "Magazin": "15 / 30 Schuss",
+              "Gewicht": "leer: 2.3kg",
+              "Hersteller": "Walter Arms",
+              "Entwicklungsjahr": "1960",
+              "Markpreis": "1000€ - 1500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Maschinenpistolen/Compact/Walther MPK.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Walther_MP"
+            }
+          ],
+          "Standard_Smg":[
+            
+          ]
+        }
       }
     }
   }

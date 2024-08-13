@@ -1,11 +1,11 @@
 :root {
   --dark-green: #2c3e50;
   --olive-green: #6c7a89;
-  --black: #000000;
-  --hover: #d4b483;
   --grey: #bdc3c7;
   --red: #e74c3c;
   --gold: #f39c12;
+  --hover: #d4b483;
   --white: #ffffff;
+  --black: #000000;
 }
 @import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");

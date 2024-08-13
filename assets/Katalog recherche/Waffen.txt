@@ -54,53 +54,52 @@ Waffen:
 				Smith & Wesson Third Model Single Shot
 				Glock 18
 				Glock 18C 
-				Tranquilizer Pistol 
 		
 	Maschienenpistolen:
 
 		Compact SMG:
-			Uzi
-			Micro Uzi
-			Uzi Mini
 			B&T APC9
-			B&T MP9
-			Heckler & Koch MP5K
-			CZ Scorpion Evo 3 A1
-			SIG Sauer MPX-K
-			Steyr TMP
-			Ingram MAC-10
-			KRISS Vector
-			PP-19 Bizon
-			FN P90
 			Beretta PMX
 			Brügger & Thomet MP9
-			Heckler & Koch MP7
-			Sa vz. 61 Skorpion
 			Colt SMG (9mm)
+			CZ Scorpion Evo 3 A1
+			FN P90
+			Heckler & Koch MP5K
+			Heckler & Koch MP7
 			IMI Mini Uzi
+			Ingram MAC-10
+			KRISS Vector
+			Micro Uzi
+			PP-19 Bizon
+			Sa vz. 61 Skorpion
+			SIG Sauer MPX-K
 			ST Kinetics CPW
+			Steyr TMP
+			Uzi
+			Uzi Mini
+			Walther MPK
 
 		Standard SMG's:
-			Heckler & Koch MP5 - Ein Klassiker, weltweit bei Militär und Polizei im Einsatz, bekannt für Zuverlässigkeit und Präzision.
-			Uzi - Berühmte israelische Maschinenpistole, robust und einfach zu bedienen.
-			FN P90 - Futuristisches Design mit hoher Magazinkapazität und geringer Rückstoß.
-			CZ Scorpion Evo 3 - Modernes Design, modular, leicht und vielseitig einsetzbar.
-			SIG Sauer MPX - Hohe Präzision, modularer Aufbau, verwendet von vielen Spezialeinheiten.
-			Brügger & Thomet MP5 - Moderne Variante des MP5, mit verbessertem Ergonomie und Zubehör.
-			Steyr AUG Para - Bullpup-Design, kompakt und leicht, bekannt für seine Modularität.
-			Beretta M12 - Italienische Maschinenpistole, bekannt für ihre Zuverlässigkeit und einfache Handhabung.
-			Heckler & Koch UMP - Moderner Ersatz für den MP5, größere Kaliberoptionen (.45 ACP, .40 S&W, 9mm).
-			Colt M635 - Auf der Basis des M16, bekannt für seine Robustheit und Zuverlässigkeit.
-			IMI Mini Uzi - Kleinere und leichtere Version des Uzi, ideal für mobile Einsätze.
-			FN F2000 - Bullpup-Design, bekannt für seine Vielseitigkeit und futuristische Optik.
-			PPSh-41 - Berühmte sowjetische Maschinenpistole aus dem Zweiten Weltkrieg, hohe Feuerrate.
-			H&K MP7 - Kompakt, hohe Penetrationskraft durch spezielles Kaliber (4.6x30mm), beliebt bei Sondereinheiten.
-			Ingram MAC-10 - Kompakt, hohe Feuerrate, berühmt aus vielen Filmen und Spielen.
-			KRISS Vector - Innovatives Recoil-Reduktion-System, präzise und kontrollierbar.
-			Sa vz. 23 - Tschechoslowakische Maschinenpistole, robust und zuverlässig.
-			MPi 81 - Leichte Maschinenpistole, bekannt für einfache Bedienung und Wartung.
-			B&T APC9 - Modernes Design, modular, hohe Zuverlässigkeit und Präzision.
-			ST Kinetics CPW - Ergonomisch, vielseitig, entwickelt in Singapur, verwendet von verschiedenen Sicherheitskräften.
+			B&T APC9
+			Beretta M12
+			Brügger & Thomet MP5
+			Colt M635
+			CZ Scorpion Evo 3
+			FN F2000
+			FN P90
+			H&K MP7
+			Heckler & Koch MP5
+			Heckler & Koch UMP
+			IMI Mini Uzi
+			Ingram MAC-10
+			KRISS Vector
+			MPi 81
+			PPSh-41
+			Sa vz. 23
+			SIG Sauer MPX
+			ST Kinetics CPW
+			Steyr AUG Para
+			Uzi
 
 		Heay SMG:
 			Heckler & Koch MP5/10 - Anpassung des klassischen MP5 für das stärkere 10mm Auto Kaliber, bietet höhere Durchschlagskraft.
