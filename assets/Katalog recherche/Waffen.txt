@@ -81,8 +81,8 @@ Waffen:
 
 		Standard SMG's:
 			B&T APC9
+			B&T MP9
 			Beretta M12
-			Brügger & Thomet MP5
 			Colt M635
 			CZ Scorpion Evo 3
 			FN F2000
@@ -102,48 +102,48 @@ Waffen:
 			Uzi
 
 		Heay SMG:
-			Heckler & Koch MP5/10 - Anpassung des klassischen MP5 für das stärkere 10mm Auto Kaliber, bietet höhere Durchschlagskraft.
-			Uzi Pro - Modernisierte Version der klassischen Uzi, verbesserte Ergonomie und erhöhte Feuerrate.
-			FN P90 Tactical - Weiterentwicklung des P90, speziell für militärische Einsätze mit zusätzlicher Ausrüstung.
-			CZ Scorpion EVO 3 S2 - Schwere Variante des Scorpion Evo 3, angepasst für höhere Kaliber und längere Einsätze.
-			SIG Sauer MPX K - Kompakte, schwerere Version der MPX, geeignet für größere Kaliber.
-			Brügger & Thomet APC45 - Entwickelt für .45 ACP, bietet hohe Durchschlagskraft und Zuverlässigkeit.
-			Steyr TMP - Kompakte, aber leistungsstarke Maschinenpistole, bekannt für hohe Feuerrate und Präzision.
-			Beretta PMX - Robuste und zuverlässige Maschinenpistole, entwickelt für militärische und polizeiliche Anwendungen.
-			Heckler & Koch UMP45 - Schwere Variante der UMP-Serie, optimiert für .45 ACP Munition.
-			Colt M231 FPW - Entwickelt für den Einsatz in gepanzerten Fahrzeugen, hohe Feuerrate und Durchschlagskraft.
-			IMI Uzi .45 - Angepasste Version des Uzi für .45 ACP, bietet hohe Schlagkraft bei kompakter Größe.
-			FN SCAR PDW - Kompakte Version des SCAR, optimiert für schwere Kaliber und taktische Einsätze.
-			PP-19 Bizon-2-01 - Russische Maschinenpistole mit hoher Magazinkapazität und ausgezeichneter Feuerrate.
-			Heckler & Koch MP7A2 - Weiterentwicklung des MP7, bietet höhere Kaliberoptionen und verbesserte Ergonomie.
-			Ingram MAC-11 - Schwerere Version des MAC-10, geeignet für größere Kaliber und längere Einsätze.
-			KRISS Vector .45 ACP - Schwere Variante des Vector, bekannt für sein innovatives Recoil-Reduktion-System.
-			Sa vz. 61 Skorpion - Kompakte, aber leistungsstarke Maschinenpistole, entwickelt für schwere Kaliber.
-			MPi 69 - Österreichische Maschinenpistole, bekannt für Robustheit und Zuverlässigkeit.
-			B&T P26 - Moderne Maschinenpistole, entwickelt für hohe Kaliber und vielseitige Einsätze.
-			ST Kinetics CPW - Ergonomisch, vielseitig, entwickelt in Singapur, verwendet von verschiedenen Sicherheitskräften.
+			B&T APC45
+			B&T P26
+			Beretta PMX
+			Colt M231 FPW
+			CZ Scorpion EVO 3 S2
+			FN P90 Tactical
+			FN SCAR PDW
+			Heckler & Koch MP5/10
+			Heckler & Koch MP7A2
+			Heckler & Koch UMP45
+			IMI Uzi .45
+			Ingram MAC-11
+			KRISS Vector .45 ACP
+			MPi 69
+			PP-19 Bizon-2-01
+			Sa vz. 61 Skorpion
+			SIG Sauer MPX K
+			STEYR TMP
+			ST Kinetics CPW
+			Uzi Pro
 
 		PDW:
-			FN P90 - Kompakte und leichte PDW, bekannt für ihr einzigartiges Bullpup-Design und hohe Magazinkapazität.
-			Heckler & Koch MP7 - Hochmoderne PDW, entwickelt für eine hohe Feuerrate und geringes Gewicht, ideal für enge Räume.
-			CZ Scorpion EVO 3 - Vielseitige PDW, kompakt mit einer guten Balance zwischen Größe und Feuerkraft.
-			Steyr TMP - Kompakte und leistungsstarke PDW, bekannt für ihre Robustheit und hohe Feuerrate.
-			KRISS Vector - Innovatives Design mit einem außergewöhnlichen Recoil-Reduktion-System für bessere Kontrolle.
-			B&T MP9 - Schweizer PDW, bekannt für ihre hohe Präzision und Zuverlässigkeit im taktischen Einsatz.
-			Uzi Pro - Modernisierte Version der klassischen Uzi, bietet erhöhte Effizienz und ergonomisches Design.
-			Beretta M12 - Italienische PDW, bekannt für ihre Zuverlässigkeit und hohe Feuerrate in einem kompakten Format.
-			SIG Sauer MPX - Flexible PDW mit modularer Bauweise und verschiedenen Kaliberoptionen.
-			PP-19 Bizon - Russische PDW mit hoher Magazinkapazität und robuster Bauweise.
-			HK UMP - Schwere PDW, entwickelt für militärische und Polizeieinsätze, geeignet für verschiedene Kaliber.
-			Colt M231 FPW - Entwickelt für den Einsatz in gepanzerten Fahrzeugen, bietet hohe Feuerrate und Robustheit.
-			IMI Uzi - Klassische PDW mit kompaktem Design, bekannt für ihre Zuverlässigkeit und Einfachheit.
-			B&T APC9 - Modulare PDW, entwickelt für eine breite Palette von taktischen Anwendungen.
-			FN Five-seveN - Leichte und präzise PDW, bekannt für ihre geringe Rückstoßkraft und hohe Durchschlagskraft.
-			MP-5K - Kompakte Version des MP5, bietet hohe Feuerrate und Genauigkeit in einem kleinen Format.
-			Sterling L2A3 - Britische PDW, bekannt für ihre einfache Bedienung und Robustheit im Einsatz.
-			SIG MPX K - Kompakte Variante der MPX, bietet hohe Feuerrate und Flexibilität im Einsatz.
-			B&T P26 - Moderne PDW mit verbessertem Design für hohe Effizienz und Leistung im taktischen Bereich.
-			B&T MP5 - Erweiterte Version des klassischen MP5, angepasst für verschiedene taktische Einsatzszenarien.
+			B&T APC9
+			B&T MP5
+			B&T MP9
+			B&T P26
+			Beretta M12
+			Colt M231 FPW
+			CZ Scorpion EVO 3
+			FN Five-seveN
+			FN P90
+			HK UMP
+			IMI Uzi
+			KRISS Vector
+			MP-5K
+			PP-19 Bizon
+			SIG MPX K
+			SIG Sauer MPX
+			Steyr TMP
+			Sterling L2A3
+			Uzi Pro
+			Heckler & Koch MP7
 
 	Schrotflinten:
 		Pump-Action:
