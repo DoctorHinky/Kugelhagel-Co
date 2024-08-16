@@ -147,26 +147,27 @@ Waffen:
 
 	Schrotflinten:
 		Pump-Action:
-			Remington 870
-			Mossberg 500
-			Winchester Model 12
-			Benelli Nova
-			Ithaca Model 37
-			Remington 590
-			Mossberg 590A1
-			Winchester SXP
-			Benelli Supernova
-			Stoeger P3500
-			Mossberg 535
-			Ithaca Model 37 Defense
-			Maverick 88
-			Remington 870P
 			Benelli M4
-			Mossberg 930
-			Winchester 1300
-			Remington 870 Tactical
+			Benelli Nova
+			Benelli Supernova
+			Ithaca Model 37
+			Ithaca Model 37 Defense
 			KEL-TEC KSG
+			Maverick 88
+			Mossberg 500
+			Mossberg 535
+			Mossberg 590A1
+			Mossberg 930
+			Remington 590
+			Remington 870
+			Remington 870 Tactical
+			Remington 870P
 			S&W M&P15-22 Shotgun
+			Stoeger P3500
+			Winchester 1300
+			Winchester Model 12
+			Winchester SXP
+			
 		halbautomatisch:
 			Benelli M2
 			Beretta 1301
