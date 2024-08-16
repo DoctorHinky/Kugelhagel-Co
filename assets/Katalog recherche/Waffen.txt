@@ -170,46 +170,47 @@ Waffen:
 			
 		halbautomatisch:
 			Benelli M2
-			Beretta 1301
+			Benelli M3
 			Benelli M4
-			Remington Versa Max
-			Winchester SX3
-			Browning Auto-5
-			Mossberg 930
-			Benelli R1
-			Stoeger M3000
-			Franchi Affinity
-			Remington 1100
-			Browning A5
 			Benelli Super Black Eagle II
+			Beretta A300 Outlander
+			Beretta 1301
 			Beretta AL391
+			Browning A5
+			Browning Auto-5
+			FN SLP Mark I
+			Franchi Affinity
+			Mossberg 930
 			Mossberg 935
-			Ithaca Model 37 Semi-Auto
-			Benelli Supernova Tactical
-			Browning BPS
-			Remington 887 Nitro Mag
-			KEL-TEC KSG
+			Remington 1100
+			Remington 11-87
+			Remington V3
+			Remington Versa Max
+			Weatherby SA-08
+			Winchester Model 1400
+			Winchester SX3
+
 		Doppelläufig:
-			Browning Citori
-			Winchester Model 21
-			Savage Fox B
-			Beretta 686 Silver Pigeon
-			H&R Partner
-			Mossberg Silver Reserve
-			Stoeger Condor
-			Ithaca Model 37
-			CZ 712
-			SKB Model 700
-			Remington 1894
-			Winchester 101
-			Browning B725
+			AYA Matador
 			Beretta 686 Onyx Pro
-			Savage Fox A
+			Beretta 686 Silver Pigeon
+			Browning B725
+			Browning Citori
+			CZ 712 G2
+			Fausti Class
+			H&R Pardner
+			Ithaca Model 37 Featherlight
 			Krieghoff K-20
 			Merkel 147
+			Mossberg Silver Reserve
+			Remington 3200
 			Ruger Red Label
-			Fausti Class
-			AYA Matador
+			Savage Fox A
+			Savage Fox B
+			SKB Model 700
+			Stoeger Condor
+			Winchester 101
+			Winchester Model 21
 
 	Sturmgewehre:
 		leichte Sturmgewehre:
@@ -221,18 +222,19 @@ Waffen:
 			SIG MCX
 			Beretta ARX160
 			Bushmaster ACR
-			Kriss Vector
-			Troy Defense PAR
-			FN F2000
 			Colt LE6920
-			SIG Sauer MCX Rattler
-			Heckler & Koch UMP45
-			Ares Defense SCR
-			H&K UMP9
 			LWRC IC-DI
 			Steyr AUG
-			Beretta Cx4 Storm
 			KAC SR-15
+			IWI X95
+			FN F2000
+			H&K G36
+			HK 416
+			Zastava M21
+			FAMAS F1
+			QBZ-95
+			AUG A1
+
 		standard:
 			M16A4
 			AK-47
