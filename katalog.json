@@ -2539,7 +2539,643 @@
               "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Standard/Zastava M70.webp",
               "Wikipedia": "https://en.wikipedia.org/wiki/Zastava_M70"
           }
-         ]
+         ],
+         "Schwere": [
+          {
+              "Name": "AR-10",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 25 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "Armalite",
+              "Entwicklungsjahr": "1956",
+              "Markpreis": "2.000€ - 3.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/AR-10.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Armalite_AR-10"
+          },
+          {
+              "Name": "Armalite AR-10A2",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 25 Schuss",
+              "Gewicht": "leer: 4.1 kg",
+              "Hersteller": "Armalite",
+              "Entwicklungsjahr": "1994",
+              "Markpreis": "2.500€ - 4.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/Armalite AR-10A2.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Armalite_AR-10"
+          },
+          {
+              "Name": "CETME LV",
+              "Kaliber": "5.56x45mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 3.5 kg",
+              "Hersteller": "CETME",
+              "Entwicklungsjahr": "1980",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Leichte/CETME LV.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/CETME"
+          },
+          {
+              "Name": "CETME Model C",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "CETME",
+              "Entwicklungsjahr": "1957",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/CETME Model C.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/CETME_Model_C"
+          },
+          {
+              "Name": "FN CAL 7,62",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 3.7 kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "1980",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/FN CAL 7,62.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/FN_CAL"
+          },
+          {
+              "Name": "FN FAL",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "1953",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/FN FAL.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/FN_FAL"
+          },
+          {
+              "Name": "FN SCAR 17S",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 25 Schuss",
+              "Gewicht": "leer: 3.7 kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "2009",
+              "Markpreis": "2.500€ - 3.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/FN SCAR 17S.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/FN_SCAR"
+          },
+          {
+              "Name": "FN SCAR-H",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 30 Schuss",
+              "Gewicht": "leer: 3.8 kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "2004",
+              "Markpreis": "2.500€ - 3.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/FN SCAR-H.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/FN_SCAR"
+          },
+          {
+              "Name": "Galil ACE 52",
+              "Kaliber": "7.62x39mm",
+              "Magazin": "30 Schuss",
+              "Gewicht": "leer: 3.9 kg",
+              "Hersteller": "Israel Weapon Industries",
+              "Entwicklungsjahr": "2012",
+              "Markpreis": "2.000€ - 3.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/Galil ACE 52.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Galil"
+          },
+          {
+              "Name": "Heckler & Koch G3",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "Heckler & Koch",
+              "Entwicklungsjahr": "1959",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/Heckler & Koch G3.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/HK_G3"
+          },
+          {
+              "Name": "HK417",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 30 Schuss",
+              "Gewicht": "leer: 4.1 kg",
+              "Hersteller": "Heckler & Koch",
+              "Entwicklungsjahr": "2004",
+              "Markpreis": "2.500€ - 3.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/HK417.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_HK417"
+          },
+          {
+              "Name": "IMBEL FAL",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "IMBEL",
+              "Entwicklungsjahr": "1964",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/IMBEL FAL.webp",
+              "Wikipedia": null
+          },
+          {
+              "Name": "L1A1 SLR",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.2 kg",
+              "Hersteller": "FN Herstal",
+              "Entwicklungsjahr": "1957",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/L1A1 SLR.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/L1A1_SLR"
+          },
+          {
+              "Name": "M14",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.3 kg",
+              "Hersteller": "Springfield Armory",
+              "Entwicklungsjahr": "1959",
+              "Markpreis": "1.000€ - 2.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/M14.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/M14_rifle"
+          },
+          {
+              "Name": "M14 EBR",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 Schuss",
+              "Gewicht": "leer: 4.5 kg",
+              "Hersteller": "Springfield Armory",
+              "Entwicklungsjahr": "2005",
+              "Markpreis": "2.500€ - 4.000€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/M14 EBR.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/M14_rifle"
+          },
+          {
+              "Name": "SA58 OSW",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 Schuss",
+              "Gewicht": "leer: 4.1 kg",
+              "Hersteller": "DSA",
+              "Entwicklungsjahr": "2004",
+              "Markpreis": "2.500€ - 3.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/SA58 OSW.webp",
+              "Wikipedia": null
+          },
+          {
+              "Name": "SIG SG 542",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "20 / 30 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "SIG Sauer",
+              "Entwicklungsjahr": "1980",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/SIG SG 542.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/SIG_SG_542"
+          },
+          {
+              "Name": "SR-25",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 / 25 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "Knight's Armament Company",
+              "Entwicklungsjahr": "1990",
+              "Markpreis": "3.000€ - 4.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/SR-25.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/SR-25"
+          },
+          {
+              "Name": "Vepr-308",
+              "Kaliber": "7.62x51mm NATO",
+              "Magazin": "10 / 20 Schuss",
+              "Gewicht": "leer: 4.2 kg",
+              "Hersteller": "VEPR",
+              "Entwicklungsjahr": "2008",
+              "Markpreis": "1.500€ - 2.500€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/Vepr-308.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Vepr"
+          },
+          {
+              "Name": "Zastava M77",
+              "Kaliber": "7.62x39mm",
+              "Magazin": "10 / 20 / 30 Schuss",
+              "Gewicht": "leer: 4.0 kg",
+              "Hersteller": "Zastava Arms",
+              "Entwicklungsjahr": "1977",
+              "Markpreis": "800€ - 1.200€",
+              "Bilder": "./assets/img/Katalog/Waffen/Sturmgewehre/Schwere/Zastava M77.webp",
+              "Wikipedia": "https://en.wikipedia.org/wiki/Zastava_M77"
+          }
+        ]  
+        },
+        "Scharfschützengewehre": {
+          "Bold-Action": [
+            {
+                "Name": "Accuracy International AWM",
+                "Kaliber": "7.62x51mm NATO / .338 Lapua Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 5.4 kg",
+                "Hersteller": "Accuracy International",
+                "Entwicklungsjahr": "1989",
+                "Markpreis": "4.000€ - 7.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Accuracy International AWM.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Accuracy_International_AWM"
+            },
+            {
+                "Name": "Barrett M95",
+                "Kaliber": ".50 BMG",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 7.7 kg",
+                "Hersteller": "Barrett Firearms",
+                "Entwicklungsjahr": "1995",
+                "Markpreis": "7.000€ - 10.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Barrett M95.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Barrett_M95"
+            },
+            {
+                "Name": "Blaser R93",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 3.4 kg",
+                "Hersteller": "Blaser",
+                "Entwicklungsjahr": "1993",
+                "Markpreis": "2.500€ - 4.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Blaser R93.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Blaser_R93"
+            },
+            {
+                "Name": "CheyTac M200 Intervention",
+                "Kaliber": ".408 CheyTac",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 6.8 kg",
+                "Hersteller": "CheyTac",
+                "Entwicklungsjahr": "2001",
+                "Markpreis": "10.000€ - 15.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/CheyTac M200 Intervention.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/CheyTac_M200"
+            },
+            {
+                "Name": "Mauser M12",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 3.2 kg",
+                "Hersteller": "Mauser",
+                "Entwicklungsjahr": "2012",
+                "Markpreis": "2.000€ - 3.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Mauser M12.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Mauser_M12"
+            },
+            {
+                "Name": "Mosin-Nagant M91/30",
+                "Kaliber": "7.62x54mmR",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 3.9 kg",
+                "Hersteller": "Soviet Union",
+                "Entwicklungsjahr": "1930",
+                "Markpreis": "200€ - 500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Mosin-Nagant M91-30.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Mosin%E2%80%93Nagant"
+            },
+            {
+                "Name": "Remington 40X",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 4.0 kg",
+                "Hersteller": "Remington",
+                "Entwicklungsjahr": "1960",
+                "Markpreis": "2.000€ - 3.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Remington 40X.webp",
+                "Wikipedia": "https://de.wikipedia.org/wiki/M40_(Gewehr)"
+            },
+            {
+                "Name": "Remington 700",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "4 Schuss",
+                "Gewicht": "leer: 3.5 kg",
+                "Hersteller": "Remington",
+                "Entwicklungsjahr": "1962",
+                "Markpreis": "1.000€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Remington 700.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Remington_700"
+            },
+            {
+                "Name": "Ruger Precision Rifle",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 4.1 kg",
+                "Hersteller": "Ruger",
+                "Entwicklungsjahr": "2015",
+                "Markpreis": "1.500€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Ruger Precision Rifle.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Precision_Rifle"
+            },
+            {
+                "Name": "Sako TRG 22",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 3.7 kg",
+                "Hersteller": "Sako",
+                "Entwicklungsjahr": "2000",
+                "Markpreis": "2.500€ - 4.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Sako TRG 22.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Sako_TRG"
+            },
+            {
+                "Name": "Sako TRG 42",
+                "Kaliber": ".338 Lapua Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 4.0 kg",
+                "Hersteller": "Sako",
+                "Entwicklungsjahr": "2001",
+                "Markpreis": "3.000€ - 5.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Sako TRG 42.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Sako_TRG"
+            },
+            {
+                "Name": "Savage Model 10",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "4 Schuss",
+                "Gewicht": "leer: 3.5 kg",
+                "Hersteller": "Savage",
+                "Entwicklungsjahr": "2003",
+                "Markpreis": "1.000€ - 2.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Savage Model 10.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "Steyr SSG 69",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 4.0 kg",
+                "Hersteller": "Steyr",
+                "Entwicklungsjahr": "1969",
+                "Markpreis": "2.000€ - 3.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Steyr SSG 69.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Steyr_SSG_69"
+            },
+            {
+                "Name": "Tikka T3x",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "3 / 5 Schuss",
+                "Gewicht": "leer: 3.0 kg",
+                "Hersteller": "Tikka",
+                "Entwicklungsjahr": "2017",
+                "Markpreis": "1.500€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Tikka T3x.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Tikka_T3"
+            },
+            {
+                "Name": "Winchester Model 70",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "3 Schuss",
+                "Gewicht": "leer: 3.4 kg",
+                "Hersteller": "Winchester",
+                "Entwicklungsjahr": "1936",
+                "Markpreis": "1.000€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Winchester Model 70.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Winchester_Model_70"
+            },
+            {
+                "Name": "FN Herstal SPR",
+                "Kaliber": ".338 Lapua Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 5.2 kg",
+                "Hersteller": "FN Herstal",
+                "Entwicklungsjahr": "2008",
+                "Markpreis": "4.000€ - 6.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/FN Herstal SPR.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "RWS 700",
+                "Kaliber": ".308 Winchester / .300 Winchester Magnum",
+                "Magazin": "5 Schuss",
+                "Gewicht": "leer: 3.5 kg",
+                "Hersteller": "RWS",
+                "Entwicklungsjahr": "2012",
+                "Markpreis": "2.000€ - 3.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/RWS 700.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "Zastava M70",
+                "Kaliber": "7.62x39mm",
+                "Magazin": "10 / 20 / 30 Schuss",
+                "Gewicht": "leer: 4.0 kg",
+                "Hersteller": "Zastava Arms",
+                "Entwicklungsjahr": "1970",
+                "Markpreis": "800€ - 1.200€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Zastava M70.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Zastava_M70"
+            },
+            {
+                "Name": "Sako TRG M10",
+                "Kaliber": ".338 Lapua Magnum / .300 Winchester Magnum",
+                "Magazin": "5 / 10 Schuss",
+                "Gewicht": "leer: 5.0 kg",
+                "Hersteller": "Sako",
+                "Entwicklungsjahr": "2011",
+                "Markpreis": "4.000€ - 6.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Bold-Action/Sako TRG M10.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Sako_TRG"
+            }
+          ],
+          "Semi-Automatisch": [
+            {
+                "Name": "AAI Prowler",
+                "Kaliber": "5.56x45mm NATO",
+                "Magazin": "30 Schuss",
+                "Gewicht": "leer: 4.1 kg",
+                "Hersteller": "AAI Corporation",
+                "Entwicklungsjahr": "1986",
+                "Markpreis": "N/A",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/AAI Prowler.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/AAI_ACR"
+            },
+            {
+                "Name": "Armalite AR-10",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 4.4 kg",
+                "Hersteller": "Armalite",
+                "Entwicklungsjahr": "1956",
+                "Markpreis": "2.000€ - 3.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Armalite AR-10.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Armalite_AR-10"
+            },
+            {
+                "Name": "Barrett M82",
+                "Kaliber": ".50 BMG",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 14 kg",
+                "Hersteller": "Barrett Firearms",
+                "Entwicklungsjahr": "1982",
+                "Markpreis": "8.000€ - 12.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Barrett M82.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Barrett_M82"
+            },
+            {
+                "Name": "Bushmaster BA50",
+                "Kaliber": ".50 BMG",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 13.5 kg",
+                "Hersteller": "Bushmaster Firearms International",
+                "Entwicklungsjahr": "2005",
+                "Markpreis": "6.000€ - 8.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Bushmaster BA50.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "Dragunov SVD",
+                "Kaliber": "7.62x54mmR",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 4.3 kg",
+                "Hersteller": "Kalashnikov Concern",
+                "Entwicklungsjahr": "1963",
+                "Markpreis": "2.000€ - 4.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Dragunov SVD.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Dragunov_SVD"
+            },
+            {
+                "Name": "FN SCAR 20S",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 5.0 kg",
+                "Hersteller": "FN Herstal",
+                "Entwicklungsjahr": "2017",
+                "Markpreis": "3.500€ - 4.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/FN SCAR 20S.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/FN_SCAR"
+            },
+            {
+                "Name": "FN SCAR-H",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 3.5 kg",
+                "Hersteller": "FN Herstal",
+                "Entwicklungsjahr": "2009",
+                "Markpreis": "3.000€ - 4.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/FN SCAR-H.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/FN_SCAR"
+            },
+            {
+                "Name": "HK G28",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "10 / 20 Schuss",
+                "Gewicht": "leer: 5.8 kg",
+                "Hersteller": "Heckler & Koch",
+                "Entwicklungsjahr": "2011",
+                "Markpreis": "8.000€ - 10.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/HK G28.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_&_Koch_G28"
+            },
+            {
+                "Name": "HK PSG1",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "5 / 20 Schuss",
+                "Gewicht": "leer: 8.1 kg",
+                "Hersteller": "Heckler & Koch",
+                "Entwicklungsjahr": "1972",
+                "Markpreis": "10.000€ - 15.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/HK PSG1.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_&_Koch_PSG1"
+            },
+            {
+                "Name": "Knight's Armament M110 SASS",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 6.5 kg",
+                "Hersteller": "Knight's Armament Company",
+                "Entwicklungsjahr": "2005",
+                "Markpreis": "5.000€ - 7.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Knight's Armament M110 SASS.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/M110_Semi-Automatic_Sniper_System"
+            },
+            {
+                "Name": "M110",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 7.7 kg",
+                "Hersteller": "Knight's Armament Company",
+                "Entwicklungsjahr": "2007",
+                "Markpreis": "5.000€ - 8.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/M110.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/M110_Semi-Automatic_Sniper_System"
+            },
+            {
+                "Name": "M14",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 4.5 kg",
+                "Hersteller": "Springfield Armory",
+                "Entwicklungsjahr": "1959",
+                "Markpreis": "1.500€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/M14.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/M14_rifle"
+            },
+            {
+                "Name": "M14 EBR",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 5.3 kg",
+                "Hersteller": "Springfield Armory",
+                "Entwicklungsjahr": "2004",
+                "Markpreis": "2.000€ - 3.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/M14 EBR.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "POF P308",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 3.8 kg",
+                "Hersteller": "Patriot Ordnance Factory",
+                "Entwicklungsjahr": "2004",
+                "Markpreis": "2.500€ - 4.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/POF P308.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "Remington R25",
+                "Kaliber": ".308 Winchester",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 3.6 kg",
+                "Hersteller": "Remington Arms",
+                "Entwicklungsjahr": "2008",
+                "Markpreis": "1.500€ - 2.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Remington R25.webp",
+                "Wikipedia": null
+            },
+            {
+                "Name": "SR-25",
+                "Kaliber": "7.62x51mm NATO",
+                "Magazin": "20 Schuss",
+                "Gewicht": "leer: 4.88 kg",
+                "Hersteller": "Knight's Armament Company",
+                "Entwicklungsjahr": "1990",
+                "Markpreis": "5.000€ - 7.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/SR-25.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/SR-25"
+            },
+            {
+                "Name": "Valmet M76",
+                "Kaliber": "7.62x39mm",
+                "Magazin": "30 Schuss",
+                "Gewicht": "leer: 4.3 kg",
+                "Hersteller": "Valmet",
+                "Entwicklungsjahr": "1976",
+                "Markpreis": "3.000€ - 4.500€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Valmet M76.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Valmet_Rk_62"
+            },
+            {
+                "Name": "Zastava M91",
+                "Kaliber": "7.62x54mmR",
+                "Magazin": "10 Schuss",
+                "Gewicht": "leer: 4.9 kg",
+                "Hersteller": "Zastava Arms",
+                "Entwicklungsjahr": "1991",
+                "Markpreis": "2.000€ - 3.000€",
+                "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Semi-Automatisch/Zastava M91.webp",
+                "Wikipedia": "https://en.wikipedia.org/wiki/Zastava_M91"
+            }
+        ]
+        
         }
       }
     }

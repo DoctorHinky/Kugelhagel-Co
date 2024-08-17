@@ -236,154 +236,148 @@ Waffen:
 			AUG A1
 
 		standard:
-			M16A4
 			AK-47
-			G36
-			M4 Carbine
-			FAMAS F1
-			HK416
-			SCAR-L
-			Steyr AUG A3
-			SIG SG 550
+			AK-74
+			AUG A1
+			Colt M733
 			FN FAL
-			Tavor TAR-21
+			FN SCAR-L
+			FAMAS F1
 			G3
-			M14
-			SA80
-			AUG
-			SAR-21
-			XM8
+			G36
+			HK416
 			IWI Tavor X95
-			Bushmaster ACR
-			Beretta ARX160
+			M14
+			M16A4
+			M4 Carbine
+			QBZ-95
+			SA80
+			SIG SG 550
+			Steyr AUG A3
+			Tavor TAR-21
+			Zastava M70
+
 		schwer:
-			FN SCAR-H
-			HK417
-			SR-25
 			AR-10
-			M110 SASS
-			G3SG/1
-			SIG SG 551
-			Barrett REC7
-			IWI Tavor X95 LMG
-			HK G28
-			KAC SR-25 EMC
-			PTR 91
+			Armalite AR-10A2
+			CETME LV
+			CETME Model C
+			FN CAL 7,62
+			FN FAL
+			FN SCAR 17S
+			FN SCAR-H
+			Galil ACE 52
+			Heckler & Koch G3
+			HK417
+			IMBEL FAL
+			L1A1 SLR
+			M14
 			M14 EBR
-			FN FAL Para
-			Steyr AUG A3 CQC
-			FAMAS G2
-			SIG MCX Rattler
-			Bushmaster BA-50
-			KSVK
-			PWS MK1
+			SA58 OSW
+			SIG SG 542
+			SR-25
+			Vepr-308
+			Zastava M77
 
 	Scharfschützengewehr:
-		Bold-and-Action:
-			Remington 700
+		Bolt-Action:
 			Accuracy International AWM
-			Steyr SSG 69
-			CheyTac M200 Intervention
 			Barrett M95
-			Tikka T3x
-			Sako TRG 22
-			Mauser M12
 			Blaser R93
+			CheyTac M200 Intervention
+			Mauser M12
 			Mosin-Nagant M91/30
 			Remington 40X
+			Remington 700
 			Ruger Precision Rifle
+			Sako TRG 22
 			Sako TRG 42
 			Savage Model 10
-			RWS 700
-			H&K PSG1
+			Steyr SSG 69
+			Tikka T3x
 			Winchester Model 70
-			Remington 7400
 			FN Herstal SPR
+			RWS 700
 			Zastava M70
-		semi-automatische:
-			Barrett M82
-			SR-25
-			M14EBR
-			FN SCAR-H
-			HK PSG1
-			Remington R25
-			Steyr SSG 08
-			Desert Tech SRS
-			Tikka T3x TAC A1
-			Sako TRG-22
-			M110
-			POF P308
-			Armalite AR-10
-			AAI Prowler
-			M14
-			FN FAL
-			HK G28
-			Ruger Precision Rifle
-			SIG Sauer SSG 3000
-			Valmet M76
-		Taktische:
-			Barrett M82
-			Remington 700P
-			Accuracy International AXMC
-			Sako TRG 42
-			Steyr SSG 08
-			Desert Tech SRS-A2
-			M110 SASS
-			CheyTac M200
-			Tikka T3x TAC A1
-			HK PSG1
-			FN SCAR-H
-			Ruger Precision Rifle
-			SIG Sauer SSG 3000
-			AR-10
-			PGM Hécate II
-			Barrett M98B
-			M14 EBR
-			KAC SR-25
-			PWS MK216
-			Valmet M76
-		Anti-matiral:
-			Barrett M82A1
-			Barrett M107
-			CheyTac M200 Intervention
-			PGM Hécate II
-			Steyr HS .50
-			Desert Tech SRS-A1
-			McMillan TAC-50
-			Accuracy International AXMC
-			Blaser R93 LRS2
 			Sako TRG M10
-			FNH USA SCAR-H
-			Remington MSR (Modular Sniper Rifle)
-			KAC SR-25
-			H&K G28
-			Tikka T3x TAC A1
-			Springfield Armory M1A SOCOM II
-			DTA Stealth Recon Scout
-			Barrett M95
-			M40A5
-			AI AWM (Arctic Warfare Magnum)
-		Vollautomatisch / Selbstschießend / Laserbasiert
-			H&K G28
-			Barrett M82A1
+			
+		Semi-Automatische:
+			AAI Prowler
+			Armalite AR-10
+			Barrett M82
+			Bushmaster BA50
+			Dragunov SVD
+			FN SCAR 20S
 			FN SCAR-H
-			KAC SR-25
-			Steyr HS .50
+			HK G28
+			HK PSG1
+			Knight's Armament M110 SASS
+			M110
+			M14
+			M14 EBR
+			POF P308
+			Remington R25
+			SR-25
+			Valmet M76
+			Zastava M91
+
+		Taktische:
 			Accuracy International AXMC
+			AR-10
+			Barrett M82
+			Barrett M98B
+			CheyTac M200
+			Desert Tech SRS-A2
+			FN SCAR-H
+			HK PSG1
+			KAC SR-25
+			M110 SASS
+			PGM Hécate II
+			Ruger Precision Rifle
+			Sako TRG 42
+			SIG Sauer SSG 3000
+			Steyr SSG 08
+			Tikka T3x TAC A1
+			Valmet M76
+
+		Anti-Material:
+			Accuracy International AXMC
+			AI AWM (Arctic Warfare Magnum)
+			Barrett M107
+			Barrett M82A1
+			Barrett M95
+			Blaser R93 LRS2
+			CheyTac M200 Intervention
+			Desert Tech SRS-A1
+			FNH USA SCAR-H
+			H&K G28
+			KAC SR-25
+			McMillan TAC-50
+			PGM Hécate II
+			Remington MSR (Modular Sniper Rifle)
+			Sako TRG M10
+			Springfield Armory M1A SOCOM II
+			Steyr HS .50
+			Tikka T3x TAC A1
+
+		Vollautomatisch / Selbstschießend / Laserbasiert:
+			Accuracy International AXMC
+			Barrett M82A1
+			Blaser R93 LRS2
+			CheyTac M200 Intervention
+			Desert Tech SRS-A1
+			FN SCAR-H
+			H&K G28
+			KAC SR-25
+			M40A5
+			PGM Hécate II
 			Remington MSR (Modular Sniper Rifle)
 			Sako TRG 42
-			Desert Tech SRS-A1
-			AI AWM (Arctic Warfare Magnum)
-			PGM Hécate II
-			CheyTac M200 Intervention
-			M40A5
-			M82 Barrett
-			Tikka T3x TAC A1
-			Blaser R93 LRS2
 			Savage Model 10/110 BA
-			Kris Super V
 			Springfield Armory M1A SOCOM II
+			Tikka T3x TAC A1
 			Walther WA 2000
+
 
 	Großkaliber:
 		Panzerabwehrwaffen
