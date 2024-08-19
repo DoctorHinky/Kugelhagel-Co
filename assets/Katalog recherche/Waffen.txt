@@ -322,23 +322,26 @@ Waffen:
 			Zastava M91
 
 		Taktische:
+			Accuracy International AWSM
 			Accuracy International AXMC
-			AR-10
-			Barrett M82
 			Barrett M98B
-			CheyTac M200
+			Blaser Tactical 2
+			CheyTac M300 Intervention
 			Desert Tech SRS-A2
-			FN SCAR-H
+			FN Ballista
+			FN SCAR 20S
 			HK PSG1
 			KAC SR-25
 			M110 SASS
+			McMillan TAC-338
 			PGM Hécate II
+			Remington MSR (Modular Sniper Rifle)
 			Ruger Precision Rifle
 			Sako TRG 42
+			Savage 110 BA Stealth
 			SIG Sauer SSG 3000
 			Steyr SSG 08
 			Tikka T3x TAC A1
-			Valmet M76
 
 		Anti-Material:
 			Accuracy International AXMC
@@ -359,6 +362,8 @@ Waffen:
 			Springfield Armory M1A SOCOM II
 			Steyr HS .50
 			Tikka T3x TAC A1
+			McMillan TAC-300
+			CheyTac M300 Intervention
 
 		Vollautomatisch / Selbstschießend / Laserbasiert:
 			Accuracy International AXMC
