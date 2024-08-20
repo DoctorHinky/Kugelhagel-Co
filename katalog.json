@@ -3616,6 +3616,564 @@
             "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/Anti-Material/CheyTac M300 Intervention.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/CheyTac_Intervention"
           }
+        ],
+        "High-End": [
+          {
+            "Name": "Accuracy International AXMC",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "10 Schuss",
+            "Gewicht": "leer: 7.3 kg",
+            "Hersteller": "Accuracy International",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "7.000€ - 9.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/Accuracy International AXMC.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Accuracy_International_AXMC"
+          },
+          {
+            "Name": "AI AW50 (Arctic Warfare 50)",
+            "Kaliber": ".50 BMG",
+            "Magazin": "5 Schuss",
+            "Gewicht": "leer: 7.5 kg",
+            "Hersteller": "Accuracy International",
+            "Entwicklungsjahr": "2000",
+            "Markpreis": "10.000€ - 12.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/AI AW50.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Accuracy_International_AWM"
+          },
+          {
+            "Name": "Barrett MRAD",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "10 Schuss",
+            "Gewicht": "leer: 6.6 kg",
+            "Hersteller": "Barrett Firearms",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "6.000€ - 8.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/Barrett MRAD.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Barrett_MRAD"
+          },
+          {
+            "Name": "CheyTac M200 Intervention",
+            "Kaliber": ".408 CheyTac",
+            "Magazin": "7 Schuss",
+            "Gewicht": "leer: 10.4 kg",
+            "Hersteller": "CheyTac USA",
+            "Entwicklungsjahr": "2001",
+            "Markpreis": "10.000€ - 12.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/CheyTac M200 Intervention.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/CheyTac_Intervention"
+          },
+          {
+            "Name": "Desert Tech SRS-A2",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "5 Schuss",
+            "Gewicht": "leer: 5.6 kg",
+            "Hersteller": "Desert Tech",
+            "Entwicklungsjahr": "2011",
+            "Markpreis": "6.000€ - 8.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/Desert Tech SRS-A2.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Desert_Tech_SRS"
+          },
+          {
+            "Name": "FN Ballista",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "10 Schuss",
+            "Gewicht": "leer: 7.4 kg",
+            "Hersteller": "FN Herstal",
+            "Entwicklungsjahr": "2011",
+            "Markpreis": "8.000€ - 10.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/FN Ballista.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FN_Ballista"
+          },
+          {
+            "Name": "Knight's Armament M110 SASS",
+            "Kaliber": "7.62x51mm NATO",
+            "Magazin": "20 Schuss",
+            "Gewicht": "leer: 4.7 kg",
+            "Hersteller": "Knight's Armament Company",
+            "Entwicklungsjahr": "2007",
+            "Markpreis": "5.000€ - 7.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/Knight's Armament M110 SASS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M110_SASS"
+          },
+          {
+            "Name": "PGM Ultima Ratio",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "10 Schuss",
+            "Gewicht": "leer: 7.0 kg",
+            "Hersteller": "PGM Précision",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "7.000€ - 9.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/PGM Ultima Ratio.webp",
+            "Wikipedia": null
+          },
+          {
+            "Name": "Remington MSR (Modular Sniper Rifle)",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "10 Schuss",
+            "Gewicht": "leer: 6.5 kg",
+            "Hersteller": "Remington Arms",
+            "Entwicklungsjahr": "2009",
+            "Markpreis": "6.000€ - 8.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/Remington MSR.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Remington_Modular_Sniper_Rifle"
+          },
+          {
+            "Name": "TrackingPoint Precision-Guided Firearm",
+            "Kaliber": ".338 Lapua Magnum",
+            "Magazin": "5 Schuss",
+            "Gewicht": "leer: 7.3 kg",
+            "Hersteller": "TrackingPoint",
+            "Entwicklungsjahr": "2013",
+            "Markpreis": "20.000€ - 25.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Scharfschützengewehre/High-End/TrackingPoint Precision-Guided Firearm.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/TrackingPoint"
+          }
+        ]
+      },
+      "Großkaliber": {
+        "Panzerabwehr": [
+          {
+            "Name": "AT-13 Metis",
+            "Kaliber": "9M115 (Missile)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "9.5 kg (Kommandoeinheit)",
+            "Hersteller": "KBP Instrument Design Bureau",
+            "Entwicklungsjahr": "1980",
+            "Markpreis": "15.000€ - 35000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/AT-13 Metis.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/9K115_Metis"
+          },
+          {
+            "Name": "AT-4",
+            "Kaliber": "84 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.6 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "1987",
+            "Markpreis": "500€ - 1.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/AT-4.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AT4"
+          },
+          {
+            "Name": "AT-4 CS",
+            "Kaliber": "84 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.6 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2003",
+            "Markpreis": "500€ - 1.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/AT-4 CS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AT4"
+          },
+          {
+            "Name": "Carl Gustaf M3",
+            "Kaliber": "84 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "7.7 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2000",
+            "Markpreis": "2.500€ - 4.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Carl Gustaf M3.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Carl_Gustaf_8.4_cm_recoilless_rifle"
+          },
+          {
+            "Name": "C90",
+            "Kaliber": "90 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.9 kg",
+            "Hersteller": "Expal",
+            "Entwicklungsjahr": "1980",
+            "Markpreis": "800€ - 1.200€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/C90.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/C90-CR_(M3)"
+          },
+          {
+            "Name": "Javelin (FGM-148)",
+            "Kaliber": "127 mm (Missile)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "22.3 kg (Startgerät und Lenkwaffe)",
+            "Hersteller": "Raytheon / Lockheed Martin",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "80.000€ - 100.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Javelin.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FGM-148_Javelin"
+          },
+          {
+            "Name": "M3 MAAWS (Multi-role Anti-Armor Anti-Personnel Weapon System)",
+            "Kaliber": "84 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "6.5 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2002",
+            "Markpreis": "1.500€ - 2.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/M3 MAAWS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/MAAWS"
+          },
+          {
+            "Name": "M40A1",
+            "Kaliber": "106 mm (Recoiless Rifle)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "7.6 kg",
+            "Hersteller": "Hughes Aircraft",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/M40A1.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M40_recoilless_rifle"
+          },
+          {
+            "Name": "M72 LAW",
+            "Kaliber": "66 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.3 kg",
+            "Hersteller": "RCA / Law Industries",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "300€ - 500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/M72 LAW.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M72_LAW"
+          },
+          {
+            "Name": "M136 AT4",
+            "Kaliber": "84 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.6 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2001",
+            "Markpreis": "500€ - 1.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/M136 AT4.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AT4"
+          },
+          {
+            "Name": "Milkor MGL (Multiple Grenade Launcher)",
+            "Kaliber": "40 mm (Granaten)",
+            "Magazin": "6 Schuss",
+            "Gewicht": "4.5 kg",
+            "Hersteller": "Milkor",
+            "Entwicklungsjahr": "1983",
+            "Markpreis": "3.000€ - 4.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Milkor MGL.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Milkor_MGL"
+          },
+          {
+            "Name": "Panzerfaust 3",
+            "Kaliber": "110 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "5.7 kg",
+            "Hersteller": "Dynetics",
+            "Entwicklungsjahr": "1989",
+            "Markpreis": "600€ - 1.200€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Panzerfaust 3.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerfaust_3"
+          },
+          {
+            "Name": "Panzerfaust 60",
+            "Kaliber": "148 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "4.9 kg",
+            "Hersteller": "Rheinmetall",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Panzerfaust 60.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerfaust"
+          },
+          {
+            "Name": "Panzerschreck",
+            "Kaliber": "88 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "6.7 kg",
+            "Hersteller": "Rheinmetall",
+            "Entwicklungsjahr": "1943",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Panzerschreck.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerschreck"
+          },
+          {
+            "Name": "Panzerschreck 54",
+            "Kaliber": "88 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "7.0 kg",
+            "Hersteller": "Rheinmetall",
+            "Entwicklungsjahr": "1954",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/Panzerschreck 54.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerschreck"
+          },
+          {
+            "Name": "RPG-18",
+            "Kaliber": "64 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.3 kg",
+            "Hersteller": "Bazalt",
+            "Entwicklungsjahr": "1970",
+            "Markpreis": "300€ - 500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/RPG-18.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-18"
+          },
+          {
+            "Name": "RPG-26",
+            "Kaliber": "72.5 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "4.3 kg",
+            "Hersteller": "Bazalt",
+            "Entwicklungsjahr": "1985",
+            "Markpreis": "400€ - 600€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/RPG-26.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-26"
+          },
+          {
+            "Name": "RPG-29",
+            "Kaliber": "105 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "6.0 kg",
+            "Hersteller": "Bazalt",
+            "Entwicklungsjahr": "1989",
+            "Markpreis": "500€ - 800€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/RPG-29.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-29"
+          },
+          {
+            "Name": "RPG-7",
+            "Kaliber": "40 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "7.0 kg",
+            "Hersteller": "Bazalt",
+            "Entwicklungsjahr": "1961",
+            "Markpreis": "200€ - 400€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/RPG-7.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-7"
+          },
+          {
+            "Name": "RPG-30",
+            "Kaliber": "105 mm (Raketengranate)",
+            "Magazin": "1 Schuss",
+            "Gewicht": "7.0 kg",
+            "Hersteller": "Bazalt",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "600€ - 1.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Panzerabwehr/RPG-30.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-30"
+          }
+        ],
+        "Granatenwerfer": [
+          {
+            "Name": "AG36",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.5 kg",
+            "Hersteller": "Heckler & Koch",
+            "Entwicklungsjahr": "1995",
+            "Markpreis": "1.000€ - 2.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/AG36.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AG36"
+          },
+          {
+            "Name": "BG-15",
+            "Kaliber": "40 mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.3 kg",
+            "Hersteller": "Izhmash",
+            "Entwicklungsjahr": "1980",
+            "Markpreis": "800€ - 1.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/BG-15.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/GP-25"
+          },
+          {
+            "Name": "China Lake Grenade Launcher",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "3 Schuss",
+            "Gewicht": "3.4 kg",
+            "Hersteller": "Naval Air Weapons Station China Lake",
+            "Entwicklungsjahr": "1968",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/China Lake Grenade Launcher.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/China_Lake_grenade_launcher"
+          },
+          {
+            "Name": "Colt M203",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.36 kg",
+            "Hersteller": "Colt's Manufacturing Company",
+            "Entwicklungsjahr": "1969",
+            "Markpreis": "1.200€ - 1.800€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Colt M203.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M203_grenade_launcher"
+          },
+          {
+            "Name": "Daewoo K4",
+            "Kaliber": "40x53mm Granaten",
+            "Magazin": "Gurtmagazin, 24 Schuss",
+            "Gewicht": "65.9 kg",
+            "Hersteller": "S&T Motiv",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Daewoo K4.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Daewoo_K4"
+          },
+          {
+            "Name": "FN40GL",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.06 kg",
+            "Hersteller": "FN Herstal",
+            "Entwicklungsjahr": "2001",
+            "Markpreis": "1.500€ - 2.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/FN40GL.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FN40GL"
+          },
+          {
+            "Name": "GP-25",
+            "Kaliber": "40 mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.5 kg",
+            "Hersteller": "Izhmash",
+            "Entwicklungsjahr": "1978",
+            "Markpreis": "1.000€ - 2.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/GP-25.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/GP-25"
+          },
+          {
+            "Name": "GP-30",
+            "Kaliber": "40 mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.3 kg",
+            "Hersteller": "Izhmash",
+            "Entwicklungsjahr": "1989",
+            "Markpreis": "1.000€ - 2.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/GP-30.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/GP-30"
+          },
+          {
+            "Name": "Heckler & Koch GMG",
+            "Kaliber": "40x53mm Granaten",
+            "Magazin": "Gurtmagazin, 32 Schuss",
+            "Gewicht": "29 kg",
+            "Hersteller": "Heckler & Koch",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Heckler & Koch GMG.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Heckler_%26_Koch_GMG"
+          },
+          {
+            "Name": "M79",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.7 kg",
+            "Hersteller": "Springfield Armory",
+            "Entwicklungsjahr": "1961",
+            "Markpreis": "1.500€ - 2.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/M79.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M79_grenade_launcher"
+          },
+          {
+            "Name": "M320",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "1.5 kg",
+            "Hersteller": "Heckler & Koch",
+            "Entwicklungsjahr": "2008",
+            "Markpreis": "2.000€ - 3.500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/M320.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M320_grenade_launcher"
+          },
+          {
+            "Name": "Mk 19",
+            "Kaliber": "40x53mm Granaten",
+            "Magazin": "Gurtmagazin, 32 oder 48 Schuss",
+            "Gewicht": "35.3 kg",
+            "Hersteller": "Saco Defense",
+            "Entwicklungsjahr": "1968",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Mk 19.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mk_19_grenade_launcher"
+          },
+          {
+            "Name": "Mk 47 Striker",
+            "Kaliber": "40x53mm Granaten",
+            "Magazin": "Gurtmagazin, 24 Schuss",
+            "Gewicht": "18 kg",
+            "Hersteller": "General Dynamics",
+            "Entwicklungsjahr": "2006",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Mk 47 Striker.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mk_47_Striker"
+          },
+          {
+            "Name": "Milkor MGL",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "6 Schuss",
+            "Gewicht": "5.3 kg",
+            "Hersteller": "Milkor Ltd.",
+            "Entwicklungsjahr": "1983",
+            "Markpreis": "3.000€ - 5.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Milkor MGL.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Milkor_MGL"
+          },
+          {
+            "Name": "Milkor M32A1",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "6 Schuss",
+            "Gewicht": "6.35 kg",
+            "Hersteller": "Milkor USA",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "3.500€ - 6.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Milkor M32A1.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Milkor_MGL"
+          },
+          {
+            "Name": "M32 Multiple Grenade Launcher (MGL)",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "6 Schuss",
+            "Gewicht": "5.3 kg",
+            "Hersteller": "Milkor Ltd.",
+            "Entwicklungsjahr": "1983",
+            "Markpreis": "3.000€ - 5.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/M32 Multiple Grenade Launcher.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Milkor_MGL"
+          },
+          {
+            "Name": "RGM-40 Kastet",
+            "Kaliber": "40 mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "3.0 kg",
+            "Hersteller": "TsKIB SOO",
+            "Entwicklungsjahr": "2000",
+            "Markpreis": "1.500€ - 3.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/RGM-40 Kastet.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RGM-40"
+          },
+          {
+            "Name": "RG-6",
+            "Kaliber": "40 mm Granaten",
+            "Magazin": "6 Schuss",
+            "Gewicht": "6.2 kg",
+            "Hersteller": "TsKIB SOO",
+            "Entwicklungsjahr": "1994",
+            "Markpreis": "3.000€ - 5.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/RG-6.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RG-6"
+          },
+          {
+            "Name": "RM-79",
+            "Kaliber": "40x46mm Granaten",
+            "Magazin": "1 Schuss",
+            "Gewicht": "2.5 kg",
+            "Hersteller": "Various",
+            "Entwicklungsjahr": "1960er Jahre",
+            "Markpreis": "1.000€ - 2.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/RM-79.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M79_grenade_launcher"
+          },
+          {
+            "Name": "Type 87 Grenade Launcher",
+            "Kaliber": "35 mm Granaten",
+            "Magazin": "Gurtmagazin, 30 Schuss",
+            "Gewicht": "16 kg",
+            "Hersteller": "Norinco",
+            "Entwicklungsjahr": "1987",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Type 87 Grenade Launcher.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Type_87_grenade_launcher"
+          }
         ]
       }
     }

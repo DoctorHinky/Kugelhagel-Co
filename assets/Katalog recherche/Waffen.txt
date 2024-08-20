@@ -365,68 +365,61 @@ Waffen:
 			McMillan TAC-300
 			CheyTac M300 Intervention
 
-		Vollautomatisch / Selbstschießend / Laserbasiert:
+		High end:
 			Accuracy International AXMC
-			Barrett M82A1
-			Blaser R93 LRS2
+			AI AW50 (Arctic Warfare 50)
+			Barrett MRAD (Multi-Role Adaptive Design)
 			CheyTac M200 Intervention
-			Desert Tech SRS-A1
-			FN SCAR-H
-			H&K G28
-			KAC SR-25
-			M40A5
-			PGM Hécate II
+			Desert Tech SRS-A2
+			FN Ballista
+			Knight’s Armament M110 SASS
+			PGM Ultima Ratio
 			Remington MSR (Modular Sniper Rifle)
-			Sako TRG 42
-			Savage Model 10/110 BA
-			Springfield Armory M1A SOCOM II
-			Tikka T3x TAC A1
-			Walther WA 2000
-
+			TrackingPoint Precision-Guided Firearm
 
 	Großkaliber:
 		Panzerabwehrwaffen
-			Panzerfaust 3
-			RPG-7
-			M72 LAW
-			AT4
-			Javelin (FGM-148)
-			Panzerfaust 60
-			RPG-29
-			M136 AT4
-			Carl Gustaf M3
-			M3 MAAWS (Multi-role Anti-Armor Anti-Personnel Weapon System)
-			RPG-26
-			RPG-18
-			Laws (Light Anti-Tank Weapon)
 			AT-13 Metis
+			AT-4
 			AT-4 CS
+			Carl Gustaf M3
 			C90
+			Javelin (FGM-148)
+			M3 MAAWS (Multi-role Anti-Armor Anti-Personnel Weapon System)
+			M40A1
+			M72 LAW
+			M136 AT4
+			Milkor MGL (Multiple Grenade Launcher)
+			Panzerfaust 3
+			Panzerfaust 60
 			Panzerschreck
 			Panzerschreck 54
-			M40A1
-			Milkor MGL (Multiple Grenade Launcher)
-		Granatwerfer
-			M203
-			M320
-			AG36
-			HK GMG
-			RG-6
-			Mk 19
-			GP-25
-			GP-30
-			Milkor MGL
-			Mk 47 Striker
-			Type 63
-			RPG-7
-			RPG-29
-			RG-33
-			M79
 			RPG-18
-			M60
-			B-10
-			B-11
-			LPO-50
+			RPG-26
+			RPG-29
+			RPG-7
+			RPG-30
+		Granatwerfer
+			AG36 - Unterlauf-Granatwerfer.
+			BG-15 - Unterlauf-Granatwerfer, meist verwendet mit AK-74.
+			China Lake Grenade Launcher - Pump-Action Granatwerfer.
+			Colt M203 - Unterlauf-Granatwerfer.
+			Daewoo K4 - Automatischer Granatwerfer.
+			FN40GL - Unterlauf-Granatwerfer.
+			GP-25 - Unterlauf-Granatwerfer.
+			GP-30 - Unterlauf-Granatwerfer.
+			Heckler & Koch GMG - Automatischer Granatwerfer.
+			M79 - Eigenständiger Granatwerfer.
+			M320 - Unterlauf-Granatwerfer, kann auch eigenständig genutzt werden.
+			Mk 19 - Automatischer Granatwerfer.
+			Mk 47 Striker - Automatischer Granatwerfer.
+			Milkor MGL - Revolver-Granatwerfer.
+			Milkor M32A1 - Modernisierte Version des Milkor MGL.
+			M32 Multiple Grenade Launcher (MGL) - Revolver-Granatwerfer, korrekt.
+			RGM-40 Kastet - Russischer Handgranatwerfer.
+			RG-6 - Russischer Revolver-Granatwerfer.
+			RM-79 - Eigenständiger Granatwerfer.
+			Type 87 Grenade Launcher - Chinesischer Automatik-Granatwerfer.
 		Raketenwerfer
 			BM-21 Grad
 			MLRS (M270 Multiple Launch Rocket System)
