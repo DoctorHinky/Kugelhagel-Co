@@ -4174,6 +4174,614 @@
             "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Granatenwerfer/Type 87 Grenade Launcher.webp",
             "Wikipedia": "https://en.wikipedia.org/wiki/Type_87_grenade_launcher"
           }
+        ],
+        "Raketenwerfer": [
+          {
+            "Name": "AT4",
+            "Kaliber": "84 mm",
+            "Gewicht": "6.7 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "1980er Jahre",
+            "Markpreis": "1500 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/AT4.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AT4"
+          },
+          {
+            "Name": "Bazooka",
+            "Kaliber": "60 mm / 89 mm",
+            "Gewicht": "6.8 kg",
+            "Hersteller": "United States",
+            "Entwicklungsjahr": "1942",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Bazooka.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Bazooka"
+          },
+          {
+            "Name": "Carl Gustaf M3",
+            "Kaliber": "84 mm",
+            "Gewicht": "8.5 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "1991",
+            "Markpreis": "20,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Carl_Gustaf_M3.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Carl_Gustaf_8.4_cm_recoilless_rifle"
+          },
+          {
+            "Name": "Cobra",
+            "Kaliber": "107 mm",
+            "Gewicht": "14.3 kg",
+            "Hersteller": "Israel",
+            "Entwicklungsjahr": "1990er Jahre",
+            "Markpreis": "Nicht allgemein verfügbar",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Cobra.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Cobra_(missile)"
+          },
+          {
+            "Name": "ERYX",
+            "Kaliber": "137 mm",
+            "Gewicht": "13 kg",
+            "Hersteller": "MBDA",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "100,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/ERYX.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/ERYX"
+          },
+          {
+            "Name": "FGM-148 Javelin",
+            "Kaliber": "127 mm",
+            "Gewicht": "22.3 kg",
+            "Hersteller": "Raytheon / Lockheed Martin",
+            "Entwicklungsjahr": "1996",
+            "Markpreis": "175,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/FGM-148_Javelin.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FGM-148_Javelin"
+          },
+          {
+            "Name": "M136 AT4",
+            "Kaliber": "84 mm",
+            "Gewicht": "6.7 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "1980er Jahre",
+            "Markpreis": "1500 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/M136_AT4.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/AT4"
+          },
+          {
+            "Name": "M72 LAW",
+            "Kaliber": "66 mm",
+            "Gewicht": "2.5 kg",
+            "Hersteller": "Nammo Raufoss AS",
+            "Entwicklungsjahr": "1963",
+            "Markpreis": "2000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/M72_LAW.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M72_LAW"
+          },
+          {
+            "Name": "MATADOR",
+            "Kaliber": "90 mm",
+            "Gewicht": "8.9 kg",
+            "Hersteller": "Dynamit Nobel Defence",
+            "Entwicklungsjahr": "2000er Jahre",
+            "Markpreis": "3000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/MATADOR.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/MATADOR_(weapon)"
+          },
+          {
+            "Name": "MBT LAW (NLAW)",
+            "Kaliber": "150 mm",
+            "Gewicht": "12.5 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2002",
+            "Markpreis": "30,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/NLAW.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/MBT_LAW"
+          },
+          {
+            "Name": "Panzerfaust 3",
+            "Kaliber": "110 mm",
+            "Gewicht": "13 kg",
+            "Hersteller": "Dynamit Nobel Defence",
+            "Entwicklungsjahr": "1987",
+            "Markpreis": "11,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Panzerfaust_3.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerfaust_3"
+          },
+          {
+            "Name": "Panzerschreck",
+            "Kaliber": "88 mm",
+            "Gewicht": "9.25 kg",
+            "Hersteller": "Germany",
+            "Entwicklungsjahr": "1943",
+            "Markpreis": "4200€ - 5500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Panzerschreck.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Panzerschreck"
+          },
+          {
+            "Name": "RPG-18",
+            "Kaliber": "64 mm",
+            "Gewicht": "2.6 kg",
+            "Hersteller": "Soviet Union",
+            "Entwicklungsjahr": "1972",
+            "Markpreis": "2200€ - 3000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/RPG-18.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-18"
+          },
+          {
+            "Name": "RPG-22",
+            "Kaliber": "72.5 mm",
+            "Gewicht": "2.7 kg",
+            "Hersteller": "Soviet Union",
+            "Entwicklungsjahr": "1980",
+            "Markpreis": "3100€ - 4300€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/RPG-22.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-22"
+          },
+          {
+            "Name": "RPG-26",
+            "Kaliber": "72.5 mm",
+            "Gewicht": "2.9 kg",
+            "Hersteller": "Soviet Union",
+            "Entwicklungsjahr": "1985",
+            "Markpreis": "3400€ - 2100€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/RPG-26.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-26"
+          },
+          {
+            "Name": "RPG-29",
+            "Kaliber": "105 mm",
+            "Gewicht": "11.5 kg",
+            "Hersteller": "Soviet Union",
+            "Entwicklungsjahr": "1989",
+            "Markpreis": "6.000€ - 8.000€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/RPG-29.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-29"
+          },
+          {
+            "Name": "RPG-7",
+            "Kaliber": "40 mm",
+            "Gewicht": "7 kg",
+            "Hersteller": "Soviet Union",
+            "Entwicklungsjahr": "1961",
+            "Markpreis": "2300€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/RPG-7.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-7"
+          },
+          {
+            "Name": "SMAW (Shoulder-Launched Multipurpose Assault Weapon)",
+            "Kaliber": "83 mm",
+            "Gewicht": "7.54 kg",
+            "Hersteller": "McDonnell Douglas",
+            "Entwicklungsjahr": "1984",
+            "Markpreis": "14,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/SMAW.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Shoulder-launched_Multipurpose_Assault_Weapon"
+          },
+          {
+            "Name": "Type 69 RPG",
+            "Kaliber": "40 mm",
+            "Gewicht": "5.6 kg",
+            "Hersteller": "China",
+            "Entwicklungsjahr": "1969",
+            "Markpreis": "5400€ - 6500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/Type_69_RPG.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Type_69_RPG"
+          },
+          {
+            "Name": "WASP 58",
+            "Kaliber": "58 mm",
+            "Gewicht": "3 kg",
+            "Hersteller": "Belgium",
+            "Entwicklungsjahr": "2000er Jahre",
+            "Markpreis": "4000€ - 6500€",
+            "Bilder": "./assets/img/Katalog/Waffen/Großkaliber/Raketenwerfer/WASP_58.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Wasp_58 "
+          }
+        ],
+        "Anti-Material": [
+          {
+            "Name": "ATGM (Anti-Tank Guided Missile)",
+            "Kaliber": "N/A",
+            "Gewicht": "Varriert je nach Modell",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "Verschiedene",
+            "Markpreis": "Varriert je nach Modell",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Anti-tank_guided_missile"
+          },
+          {
+            "Name": "Barrett M82",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "14 kg",
+            "Hersteller": "Barrett Firearms Manufacturing",
+            "Entwicklungsjahr": "1982",
+            "Markpreis": "8,000 - 12,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Barrett_M82.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Barrett_M82"
+          },
+          {
+            "Name": "Barrett M107",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "13.6 kg",
+            "Hersteller": "Barrett Firearms Manufacturing",
+            "Entwicklungsjahr": "2000",
+            "Markpreis": "10,000 - 12,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Barrett_M107.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Barrett_M82"
+          },
+          {
+            "Name": "Carl Gustaf M4",
+            "Kaliber": "84mm",
+            "Gewicht": "7.5 kg",
+            "Hersteller": "Saab Bofors Dynamics",
+            "Entwicklungsjahr": "2014",
+            "Markpreis": "Ungefähr 30,000 - 40,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Carl_Gustaf_M4.webp",
+            "Wikipedia": "https://de.wikipedia.org/wiki/FFV_Carl_Gustaf"
+          },
+          {
+            "Name": "CornerShot",
+            "Kaliber": "N/A",
+            "Gewicht": "3.6 kg (ohne Waffe)",
+            "Hersteller": "Corner Shot Holdings",
+            "Entwicklungsjahr": "2003",
+            "Markpreis": "15,000 - 20,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/CornerShot.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/CornerShot"
+          },
+          {
+            "Name": "Desert Tech HTI",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "9.97 kg",
+            "Hersteller": "Desert Tech",
+            "Entwicklungsjahr": "2012",
+            "Markpreis": "5,000 - 7,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Desert_Tech_HTI.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Desert_Tech_HTI"
+          },
+          {
+            "Name": "DroneGun Tactical",
+            "Kaliber": "N/A",
+            "Gewicht": "3.5 kg",
+            "Hersteller": "DroneShield",
+            "Entwicklungsjahr": "2018",
+            "Markpreis": "10,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/DroneGun_Tactical.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/EDM4S"
+          },
+          {
+            "Name": "FN EVOLYS",
+            "Kaliber": "N/A",
+            "Gewicht": "Unbekannt",
+            "Hersteller": "FN Herstal",
+            "Entwicklungsjahr": "Verschiedene",
+            "Markpreis": "50,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/FN_EVOLYS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FN_EVOLYS"
+          },
+          {
+            "Name": "FN Herstal M2HB-QCB",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "38 kg",
+            "Hersteller": "FN Herstal",
+            "Entwicklungsjahr": "1930",
+            "Markpreis": "10,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/FN_Herstal_M2HB-QCB.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M2_Browning"
+          },
+          {
+            "Name": "GAU-19/B",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "42 kg",
+            "Hersteller": "General Dynamics",
+            "Entwicklungsjahr": "2000er Jahre",
+            "Markpreis": "25,000 - 30,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/GAU-19B.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/GAU-19"
+          },
+          {
+            "Name": "Javelin (FGM-148)",
+            "Kaliber": "127mm",
+            "Gewicht": "22.3 kg (mit Transport- und Starteinheit)",
+            "Hersteller": "Lockheed Martin / Raytheon",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "80,000 - 100,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Javelin_FGM-148.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/FGM-148_Javelin"
+          },
+          {
+            "Name": "M134 Minigun",
+            "Kaliber": "7.62x51mm NATO",
+            "Gewicht": "21.3 kg",
+            "Hersteller": "General Electric",
+            "Entwicklungsjahr": "1960er Jahre",
+            "Markpreis": "30,000 - 50,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/M134_Minugun.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M134_Minigun"
+          },
+          {
+            "Name": "M202 FLASH",
+            "Kaliber": "66mm",
+            "Gewicht": "3.5 kg",
+            "Hersteller": "General Dynamics",
+            "Entwicklungsjahr": "1960er Jahre",
+            "Markpreis": "4,000 - 6,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/M202_FLASH.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M202_FLASH"
+          },
+          {
+            "Name": "M2 Browning",
+            "Kaliber": ".50 BMG (12.7x99mm NATO)",
+            "Gewicht": "38 kg",
+            "Hersteller": "Browning",
+            "Entwicklungsjahr": "1930",
+            "Markpreis": "10,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/M2_Browning.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M2_Browning"
+          },
+          {
+            "Name": "Mk 19 Grenade Launcher",
+            "Kaliber": "40mm",
+            "Gewicht": "14.5 kg",
+            "Hersteller": "General Dynamics",
+            "Entwicklungsjahr": "1966",
+            "Markpreis": "30,000 - 35,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Mk_19_Grenade_Launcher.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Mk_19_grenade_launcher"
+          },
+          {
+            "Name": "QinetiQ MAARS",
+            "Kaliber": "N/A",
+            "Gewicht": "2.5 kg (Base Unit)",
+            "Hersteller": "QinetiQ",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "250,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/QinetiQ_MAARS.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/MAARS"
+          },
+          {
+            "Name": "Switchblade 600",
+            "Kaliber": "N/A",
+            "Gewicht": "5.9 kg (einschließlich Sprengkopf)",
+            "Hersteller": "AeroVironment",
+            "Entwicklungsjahr": "2010",
+            "Markpreis": "60,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Switchblade_600.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Switchblade_600"
+          },
+          {
+            "Name": "Thermite Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "1.1 kg",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "Verschiedene",
+            "Markpreis": "200 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/Thermite_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Thermite"
+          },
+          {
+            "Name": "XM25 CDTE",
+            "Kaliber": "25mm",
+            "Gewicht": "4.2 kg",
+            "Hersteller": "Alliant Techsystems",
+            "Entwicklungsjahr": "2000er Jahre",
+            "Markpreis": "35,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/XM25_CDTE.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/XM25_CDTE"
+          },
+          {
+            "Name": "XM556 Microgun",
+            "Kaliber": "5.56x45mm NATO",
+            "Gewicht": "2.7 kg",
+            "Hersteller": "General Dynamics",
+            "Entwicklungsjahr": "2010er Jahre",
+            "Markpreis": "30,000 USD",
+            "Bilder": "./assets/img/Katalog/Waffen/Anti-Material/XM556_Microgun.webp",
+            "Wikipedia": "https://de.wikipedia.org/wiki/XM214"
+          }
+        ]
+      },
+      "Sonstiges": {
+        "Kampfmittel": [
+          {
+            "Name": "Anti-Tank Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.5 kg",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "Verschiedene",
+            "Markpreis": "ca. 100 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Anti-Tank_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Anti-tank_grenade"
+          },
+          {
+            "Name": "AT-4 Mine",
+            "Kaliber": "N/A",
+            "Gewicht": "3 kg",
+            "Hersteller": "Sowjetunion",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 150 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/AT-4_Mine.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Anti-tank_mine"
+          },
+          {
+            "Name": "Bouncing Betty (S-Mine)",
+            "Kaliber": "N/A",
+            "Gewicht": "3.5 kg",
+            "Hersteller": "Deutschland",
+            "Entwicklungsjahr": "1939",
+            "Markpreis": "ca. 100 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Bouncing_Betty.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/S_mine"
+          },
+          {
+            "Name": "C-4 Sprengstoff",
+            "Kaliber": "N/A",
+            "Gewicht": "1.25 kg (Standardblock)",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 60 USD (pro Block)",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/C4_Sprengstoff.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/C-4_(explosive)"
+          },
+          {
+            "Name": "Goliath",
+            "Kaliber": "N/A",
+            "Gewicht": "121 kg",
+            "Hersteller": "Deutschland",
+            "Entwicklungsjahr": "1940",
+            "Markpreis": "ca. 10,000 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Goliath.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Goliath_remote_controlled_mine"
+          },
+          {
+            "Name": "Kasper Handgranate",
+            "Kaliber": "N/A",
+            "Gewicht": "0.45 kg",
+            "Hersteller": "Deutschland",
+            "Entwicklungsjahr": "Modern",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Kasper_Handgranate.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Hand_grenade"
+          },
+          {
+            "Name": "L2A2 Stun Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.27 kg",
+            "Hersteller": "British Army",
+            "Entwicklungsjahr": "1970",
+            "Markpreis": "ca. 60 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/L2A2_Stun_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/L2A2_stun_grenade"
+          },
+          {
+            "Name": "M14 Mine",
+            "Kaliber": "N/A",
+            "Gewicht": "1.2 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M14_Mine.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M14_mine"
+          },
+          {
+            "Name": "M18A1 Claymore",
+            "Kaliber": "N/A",
+            "Gewicht": "1.3 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 200 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M18A1_Claymore.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Claymore_mine"
+          },
+          {
+            "Name": "M1919 Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.5 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1919",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M1919_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Hand_grenade"
+          },
+          {
+            "Name": "M24 Stun Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.3 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1980",
+            "Markpreis": "ca. 60 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M24_Stun_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M24_stun_grenade"
+          },
+          {
+            "Name": "M2A4 Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.4 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1940",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M2A4_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Hand_grenade"
+          },
+          {
+            "Name": "M67 Handgranate",
+            "Kaliber": "40mm",
+            "Gewicht": "0.4 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1968",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M67_Handgranate.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M67_grenade"
+          },
+          {
+            "Name": "M84 Stun Grenade",
+            "Kaliber": "N/A",
+            "Gewicht": "0.3 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "1984",
+            "Markpreis": "ca. 70 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M84_Stun_Grenade.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/M84_stun_grenade"
+          },
+          {
+            "Name": "PMN-2 Mine",
+            "Kaliber": "N/A",
+            "Gewicht": "1.2 kg",
+            "Hersteller": "Sowjetunion",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 50 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/PMN-2_Mine.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/PMN-2"
+          },
+          {
+            "Name": "RG-42 Handgranate",
+            "Kaliber": "N/A",
+            "Gewicht": "0.45 kg",
+            "Hersteller": "Sowjetunion",
+            "Entwicklungsjahr": "1942",
+            "Markpreis": "ca. 30 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/RG-42_Handgranate.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RG-42"
+          },
+          {
+            "Name": "RPG-18",
+            "Kaliber": "64mm",
+            "Gewicht": "3.4 kg",
+            "Hersteller": "Sowjetunion",
+            "Entwicklungsjahr": "1960",
+            "Markpreis": "ca. 200 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/RPG-18.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-18"
+          },
+          {
+            "Name": "TNT Sprengstoff",
+            "Kaliber": "N/A",
+            "Gewicht": "1 kg (Standard)",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "1860",
+            "Markpreis": "ca. 20 USD (pro kg)",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/TNT_Sprengstoff.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/TNT"
+          },
+          {
+            "Name": "M20A1 Claymore",
+            "Kaliber": "N/A",
+            "Gewicht": "1.2 kg",
+            "Hersteller": "US Military",
+            "Entwicklungsjahr": "2000",
+            "Markpreis": "ca. 200 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/M20A1_Claymore.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Claymore_mine"
+          },
+          {
+            "Name": "Kampfpistole P8",
+            "Kaliber": "N/A",
+            "Gewicht": "0.9 kg",
+            "Hersteller": "Deutschland",
+            "Entwicklungsjahr": "1990",
+            "Markpreis": "ca. 500 USD",
+            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Kampfpistole_P8.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/P8_pistol"
+          }
         ]
       }
     }

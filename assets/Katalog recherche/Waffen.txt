@@ -421,47 +421,47 @@ Waffen:
 			RM-79 - Eigenständiger Granatwerfer.
 			Type 87 Grenade Launcher - Chinesischer Automatik-Granatwerfer.
 		Raketenwerfer
-			BM-21 Grad
-			MLRS (M270 Multiple Launch Rocket System)
-			Tornado (Tornado-G)
-			Smerch
-			Katyusha
-			Lynx
-			HIMARS (High Mobility Artillery Rocket System)
-			Tornado (Tornado-U)
-			S-300
-			S-400
-			VLS (Vertical Launch System)
-			TR-77
-			WS-1
-			Polaris M270
-			LUNA
-			FROG-7
-			Smerch Multiple Launch Rocket System
-			Tornado GR1
-			T-300 Kasirga
-			BMD-1
+			AT4
+			Bazooka
+			Carl Gustaf M3
+			Cobra
+			ERYX
+			FGM-148 Javelin
+			M136 AT4
+			M72 LAW
+			MATADOR
+			MBT LAW (NLAW)
+			Panzerfaust 3
+			Panzerschreck
+			RPG-18
+			RPG-22
+			RPG-26
+			RPG-29
+			RPG-7
+			SMAW (Shoulder-Launched Multipurpose Assault Weapon)
+			Type 69 RPG
+			WASP 58
 		Anti-Material-Waffen
-			Barrett M82 (Anti-Material Variante)
-			M107 Long Range Anti-Armor Weapon
-			PGM Hécate II
-			Desert Tech SRS-A1 (Anti-Material)
-			Steyr HS .50
+			Accuracy International AS50
+			Armalite AR-50
+			Barrett M82
 			Barrett M95
-			CheyTac M200 Intervention
-			Remington 50 Cal
-			Accuracy International AXMC
-			M82A1 Barrett
-			Sako TRG-42
-			A&W G22
-			Hecate II
-			Sako TRG M10
-			NTW-20
-			PGM Mini Hécate
-			Blaser R93 LRS2
-			McMillan TAC-50
-			SRS A1
 			Barrett M98B
+			Barrett M99
+			Barrett M107
+			CheyTac M200 Intervention
+			CIS 50MG
+			Desert Tech HTI
+			M93 Black Arrow
+			McMillan TAC-50
+			NTW-20
+			OM 50 Nemesis
+			PGM Hécate II
+			PGM Mini Hécate
+			Steyr HS .50
+			Steyr IWS 2000
+			Vidhwansak
+			Zastava M93 Black Arrow
 
 	Kampfmittel:
 			M67 Handgranate – Eine Fragmentgranate aus den USA, die für ihre hohe Effektivität in Infanteriegefechten bekannt ist. Sie enthält Sprengstoff und Metallfragmentierung.
