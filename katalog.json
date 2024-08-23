@@ -11,7 +11,10 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1990",
             "Markpreis": "1500€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Anaconda.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Anaconda.webp",
+              "alt": "thats a picture of a Colt Anaconda"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Anaconda"
           },
           {
@@ -22,7 +25,10 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1950",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Cobra.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Cobra.webp",
+              "alt": "thats a picture of a Colt Cobra"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Cobra"
           },
           {
@@ -33,7 +39,10 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1927",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Detective Special.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Detective Special.webp",
+              "alt": "thats a picture of a Colt Detective Special"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Detective_Special"
           },
           {
@@ -44,7 +53,10 @@
             "Hersteller": "Colt's Manufacturing Company",
             "Entwicklungsjahr": "1955",
             "Markpreis": "1200€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt-Python.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Python.webp",
+              "alt": "thats a picture of a Colt Python"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Python"
           },
           {
@@ -55,7 +67,10 @@
             "Hersteller": "Colt Firearms",
             "Entwicklungsjahr": "1872",
             "Markpreis": "1200€ - 3000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Single Action Army.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Colt Single Action Army.webp",
+              "alt": "thats a picture of a Colt Single Action Army"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Colt_Single_Action_Army"
           },
           {
@@ -66,7 +81,10 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1955",
             "Markpreis": "700€- 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Blackhawk.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Blackhawk.webp",
+              "alt": "thats a picture of a Ruger Blackhawk"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Blackhawk"
           },
           {
@@ -77,7 +95,10 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1985",
             "Markpreis": "800€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger GP100.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger GP100.webp",
+              "alt": "thats a picture of a Ruger GP100"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_GP100"
           },
           {
@@ -88,7 +109,10 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1979",
             "Markpreis": "1000€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Redhawk.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Redhawk.webp",
+              "alt": "thats a picture of a Ruger Redhawk"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Redhawk"
           },
           {
@@ -99,7 +123,10 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1959",
             "Markpreis": "800€ - 1300€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Super Blackhawk.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Super Blackhawk.webp",
+              "alt": "thats a picture of a Ruger Super Blackhawk"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Super_Blackhawk"
           },
           {
@@ -110,7 +137,10 @@
             "Hersteller": "Sturm, Ruger & Co.",
             "Entwicklungsjahr": "1993",
             "Markpreis": "700€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Vaquero.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Ruger Vaquero.webp",
+              "alt": "thats a picture of a Ruger Vaquero"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Ruger_Vaquero"
           },
           {
@@ -121,7 +151,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1899",
             "Markpreis": "400€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 10.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 10.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 10"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_10"
           },
           {
@@ -132,7 +165,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1955",
             "Markpreis": "800€ - 1400€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 19.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 19.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 19"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_19"
           },
           {
@@ -143,7 +179,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1955",
             "Markpreis": "1.000€ - 1200€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith_&_Wesson_Model_29.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 29.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 29"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_29"
           },
           {
@@ -154,7 +193,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1950",
             "Markpreis": "600€ - 1000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 36.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 36.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 36"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_36"
           },
           {
@@ -165,7 +207,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "1952",
             "Markpreis": "500€ - 1000€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 42.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 42.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 42"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_42"
           },
           {
@@ -176,7 +221,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2006",
             "Markpreis": "1200€ - 1800€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 327.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 327.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 327"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_327"
           },
           {
@@ -187,7 +235,10 @@
             "Hersteller": "Smith & Wesson",
             "Entwicklungsjahr": "2003",
             "Markpreis": "1200€ - 1600€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 500.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Smith & Wesson Model 500.webp",
+              "alt": "thats a picture of a Smith & Wesson Model 500"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Smith_%26_Wesson_Model_500"
           },
           {
@@ -198,7 +249,10 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "400€ - 700€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 65.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 65.webp",
+              "alt": "thats a picture of a Taurus Model 65"
+            },
             "Wikipedia": null
           },
           {
@@ -209,7 +263,10 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "300€ - 500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 85.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Model 85.webp",
+              "alt": "thats a picture of a Taurus Model 85"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Model_85"
           },
           {
@@ -220,7 +277,10 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1979",
             "Markpreis": "800€ - 1500€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Raging Bull.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/Revolver/Taurus Raging Bull.webp",
+              "alt": "thats a picture of a Taurus Raging Bull"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_Raging_Bull"
           }
         ],
@@ -233,7 +293,10 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "1984 (als 92FS, Ursprung der Serie: 1975)",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta 92FS.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta 92FS.webp",
+              "alt": "thats a picture of a Beretta 92FS"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_92"
           },
           {
@@ -244,7 +307,10 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "1985",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta M9.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta M9.webp",
+              "alt": "thats a picture of a Beretta M9"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_M9"
           },
           {
@@ -255,7 +321,10 @@
             "Hersteller": "Fabbrica d'Armi Pietro Beretta",
             "Entwicklungsjahr": "2004",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta PX4 Storm.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Beretta PX4 Storm.webp",
+              "alt": "thats a picture of a Beretta PX4 Storm"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Beretta_PX4_Storm"
           },
           {
@@ -420,7 +489,10 @@
             "Hersteller": "Springfield Armory",
             "Entwicklungsjahr": "2007",
             "Markpreis": "600€ - 900€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Springfield Armory XD(M).webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Springfield Armory XD(M).webp",
+              "alt": "thats a picture of a Springfield Armory XD(M)"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Springfield_Armory_XD"
           },
           {
@@ -431,7 +503,10 @@
             "Hersteller": "Taurus International Manufacturing",
             "Entwicklungsjahr": "1980er Jahre",
             "Markpreis": "400€ - 600€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Taurus PT92.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Taurus PT92.webp",
+              "alt": "thats a picture of a Taurus PT92"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Taurus_PT92"
           },
           {
@@ -442,7 +517,10 @@
             "Hersteller": "Walter Arms",
             "Entwicklungsjahr": "1996",
             "Markpreis": "600€ - 800€",
-            "Bilder": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Walther P99.webp",
+            "Bilder": {
+              "src": "./assets/img/Katalog/Waffen/Handfeuerwaffen/halbautomatik/Walther P99.webp",
+              "alt": "thats a picture of a Walther P99"
+            },
             "Wikipedia": "https://en.wikipedia.org/wiki/Walther_P99"
           }
         ],
@@ -4584,7 +4662,7 @@
         "Kampfmittel": [
           {
             "Name": "Anti-Tank Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.5 kg",
             "Hersteller": "Verschiedene Hersteller",
             "Entwicklungsjahr": "Verschiedene",
@@ -4594,7 +4672,7 @@
           },
           {
             "Name": "AT-4 Mine",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "3 kg",
             "Hersteller": "Sowjetunion",
             "Entwicklungsjahr": "1960",
@@ -4604,7 +4682,7 @@
           },
           {
             "Name": "Bouncing Betty (S-Mine)",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "3.5 kg",
             "Hersteller": "Deutschland",
             "Entwicklungsjahr": "1939",
@@ -4614,7 +4692,7 @@
           },
           {
             "Name": "C-4 Sprengstoff",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1.25 kg (Standardblock)",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1960",
@@ -4624,17 +4702,17 @@
           },
           {
             "Name": "Goliath",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "121 kg",
             "Hersteller": "Deutschland",
             "Entwicklungsjahr": "1940",
             "Markpreis": "ca. 10,000 USD",
             "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Goliath.webp",
-            "Wikipedia": "https://en.wikipedia.org/wiki/Goliath_remote_controlled_mine"
+            "Wikipedia": "https://en.wikipedia.org/wiki/Goliath_tracked_mine"
           },
           {
             "Name": "Kasper Handgranate",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.45 kg",
             "Hersteller": "Deutschland",
             "Entwicklungsjahr": "Modern",
@@ -4644,17 +4722,17 @@
           },
           {
             "Name": "L2A2 Stun Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.27 kg",
             "Hersteller": "British Army",
             "Entwicklungsjahr": "1970",
             "Markpreis": "ca. 60 USD",
             "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/L2A2_Stun_Grenade.webp",
-            "Wikipedia": "https://en.wikipedia.org/wiki/L2A2_stun_grenade"
+            "Wikipedia": "https://en.wikipedia.org/wiki/Stun_grenade"
           },
           {
             "Name": "M14 Mine",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1.2 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1960",
@@ -4664,7 +4742,7 @@
           },
           {
             "Name": "M18A1 Claymore",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1.3 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1960",
@@ -4674,7 +4752,7 @@
           },
           {
             "Name": "M1919 Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.5 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1919",
@@ -4684,7 +4762,7 @@
           },
           {
             "Name": "M24 Stun Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.3 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1980",
@@ -4694,7 +4772,7 @@
           },
           {
             "Name": "M2A4 Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.4 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1940",
@@ -4714,7 +4792,7 @@
           },
           {
             "Name": "M84 Stun Grenade",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.3 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "1984",
@@ -4724,7 +4802,7 @@
           },
           {
             "Name": "PMN-2 Mine",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1.2 kg",
             "Hersteller": "Sowjetunion",
             "Entwicklungsjahr": "1960",
@@ -4734,7 +4812,7 @@
           },
           {
             "Name": "RG-42 Handgranate",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "0.45 kg",
             "Hersteller": "Sowjetunion",
             "Entwicklungsjahr": "1942",
@@ -4743,18 +4821,18 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/RG-42"
           },
           {
-            "Name": "RPG-18",
-            "Kaliber": "64mm",
-            "Gewicht": "3.4 kg",
-            "Hersteller": "Sowjetunion",
-            "Entwicklungsjahr": "1960",
-            "Markpreis": "ca. 200 USD",
-            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/RPG-18.webp",
-            "Wikipedia": "https://en.wikipedia.org/wiki/RPG-18"
+            "Name": "Sprenggelatine",
+            "Kaliber": "N/A",
+            "Gewicht": "Varies, typically in sticks or blocks",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "1875",
+            "Markpreis": "ca. 50 - 150 USD pro Kilogramm",
+            "Bilder": "./assets/img/Katalog/Kampfmittel/Sprenggelatine.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Gelignite"
           },
           {
             "Name": "TNT Sprengstoff",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1 kg (Standard)",
             "Hersteller": "Verschiedene Hersteller",
             "Entwicklungsjahr": "1860",
@@ -4764,7 +4842,7 @@
           },
           {
             "Name": "M20A1 Claymore",
-            "Kaliber": "N/A",
+            "Kaliber": null,
             "Gewicht": "1.2 kg",
             "Hersteller": "US Military",
             "Entwicklungsjahr": "2000",
@@ -4773,14 +4851,14 @@
             "Wikipedia": "https://en.wikipedia.org/wiki/Claymore_mine"
           },
           {
-            "Name": "Kampfpistole P8",
+            "Name": "Plastiksprengstoff",
             "Kaliber": "N/A",
-            "Gewicht": "0.9 kg",
-            "Hersteller": "Deutschland",
-            "Entwicklungsjahr": "1990",
-            "Markpreis": "ca. 500 USD",
-            "Bilder": "./assets/img/Katalog/Sonstiges/Kampfmittel/Kampfpistole_P8.webp",
-            "Wikipedia": "https://en.wikipedia.org/wiki/P8_pistol"
+            "Gewicht": "Varies, typically in blocks",
+            "Hersteller": "Verschiedene Hersteller",
+            "Entwicklungsjahr": "ca. 1950",
+            "Markpreis": "ca. 100 - 300 USD pro Kilogramm",
+            "Bilder": "./assets/img/Katalog/Kampfmittel/Plastiksprengstoff.webp",
+            "Wikipedia": "https://en.wikipedia.org/wiki/Plastic_explosive"
           }
         ]
       }

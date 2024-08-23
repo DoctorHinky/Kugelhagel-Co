@@ -442,137 +442,138 @@ Waffen:
 			Type 69 RPG
 			WASP 58
 		Anti-Material-Waffen
-			Accuracy International AS50
-			Armalite AR-50
+			ATGM (Anti-Tank Guided Missile)
 			Barrett M82
-			Barrett M95
-			Barrett M98B
-			Barrett M99
 			Barrett M107
-			CheyTac M200 Intervention
-			CIS 50MG
+			Carl Gustaf M4
+			CornerShot
 			Desert Tech HTI
-			M93 Black Arrow
-			McMillan TAC-50
-			NTW-20
-			OM 50 Nemesis
-			PGM Hécate II
-			PGM Mini Hécate
-			Steyr HS .50
-			Steyr IWS 2000
-			Vidhwansak
-			Zastava M93 Black Arrow
+			DroneGun Tactical
+			FN EVOLYS
+			FN Herstal M2HB-QCB
+			GAU-19/B
+			Javelin (FGM-148)
+			M134 Minigun
+			M202 FLASH
+			M2 Browning
+			Mk 19 Grenade Launcher
+			QinetiQ MAARS
+			Switchblade 600
+			Thermite Grenade
+			XM25 CDTE
+			XM556 Microgun
 
-	Kampfmittel:
-			M67 Handgranate – Eine Fragmentgranate aus den USA, die für ihre hohe Effektivität in Infanteriegefechten bekannt ist. Sie enthält Sprengstoff und Metallfragmentierung.
-			RG-42 Handgranate – Eine Fragmentgranate aus dem Zweiten Weltkrieg, die in Russland entwickelt wurde und für ihre einfache Konstruktion bekannt ist.
-			M84 Stun Grenade – Eine Blend- und Schockgranate, die für ihre starke akustische und visuelle Wirkung bekannt ist, um Gegner temporär zu desorientieren.
-			L2A2 Stun Grenade – Eine britische Blendgranate, die einen starken Knall und helles Licht erzeugt, um Feinde zu blenden und zu desorientieren.
-			RPG-18 – Ein tragbarer Einweg-Raketenwerfer, der eine Hohlladung im Kaliber 64mm verwendet und hauptsächlich gegen gepanzerte Fahrzeuge gerichtet ist.
-			Kasper Handgranate – Eine moderne Fragmentgranate aus dem deutschen Militär, bekannt für ihre hohe Sprengkraft und fragmentarische Wirkung.
-			M18A1 Claymore – Eine antipersonelle Mine, die mit einer gerichteten Sprengladung ausgestattet ist, die eine breite Zone von Fragmenten in einem bestimmten Bereich abfeuert.
-			PMN-2 Mine – Eine russische antipersonelle Mine, die eine Vielzahl von Fragmenten freisetzt, um Personen im Umkreis zu verletzen.
-			M14 Mine – Eine antipersonelle Mine aus dem Vietnamkrieg, die mit einem Federmechanismus funktioniert und einen großen Bereich abdeckt.
-			Goliath – Ein ferngesteuertes Minenfahrzeug aus dem Zweiten Weltkrieg, das eine große Sprengladung enthält und für den Einsatz gegen Panzer konzipiert ist.
-			M2A4 Grenade – Eine spezielle Fragmentgranate der US-Armee, die für ihre hohe Zerstörungskraft bekannt ist.
-			C-4 Sprengstoff – Ein plastischer Sprengstoff, der in verschiedenen militärischen Anwendungen und für Sprengungen von Zielstrukturen verwendet wird.
-			TNT Sprengstoff – Ein klassischer Sprengstoff, der für seine Verlässlichkeit und Effektivität in verschiedenen militärischen und zivilen Anwendungen bekannt ist.
-			Bouncing Betty (S-Mine) – Eine antipersonelle Mine, die beim Auslösen eine vertikale Bewegung ausführt und ihre Fragmente in einem weiten Bereich verteilt.
-			AT-4 Mine – Eine antipanzermine, die speziell für den Einsatz gegen Fahrzeuge entwickelt wurde und große Zerstörungskraft besitzt.
-			M1919 Grenade – Eine amerikanische Handgranate aus dem Ersten Weltkrieg, bekannt für ihre Robustheit und einfache Handhabung.
-			Kampfpistole P8 – Eine Pistole, die speziell für die Verwendung von Munitionsgranaten und Ähnlichem konzipiert ist.
-			M24 Stun Grenade – Eine Blendgranate, die für ihre Fähigkeit bekannt ist, ein starkes Geräusch und helles Licht zu erzeugen.
-			Anti-Tank Grenade – Eine Granate, die speziell entwickelt wurde, um Panzer und andere gepanzerte Fahrzeuge zu bekämpfen, oft mit Hohlladungen.
-			M20A1 Claymore – Ein aktualisierter Claymore-Typ mit verbesserten Materialien und Zündmechanismen, der für seine Effektivität und Reichweite bekannt ist.
-		Bögen:
-			Langbögen:
-				Traditionelle Langbögen
-				English Longbow
-				American Flatbow
-				Welsh Longbow
-				Korean Longbow
-				Japanese Yumi
-				Turkish Ottoman Longbow
-				Medieval Longbow
-				Scots Longbow
-			Recurvebögen
-				Hoyt Formula X
-				Bear Archery Grizzly
-				Samick Sage
-				PSE Stinger
-				Martin Archery Hunter
-				Win & Win Inno CXT
-				Hoyt PowerMax
-				Ragim Wildcat
-			Compoundbögen
-				Mathews V3X
-				Bowtech Revolt
-				Hoyt Ventum Pro
-				PSE EVO NTN
-				Elite Archery Remedy
-				Bear Archery Perception
-				Prime Archery Black 9
-				PSE Evolve 31
-			Crossbows
-				Barnett Whitetail Pro STR
-				TenPoint Nitro XRT
-				Ravin R29X
-				Excalibur Matrix 380
-				Killer Instinct Lethal 405
-				PSE Fang HD
-				Wicked Ridge Invader X4
-				CenterPoint Archery Wrath 430
+	Sonstiges:
+		Kampfmittel:
+				M67 Handgranate – Eine Fragmentgranate aus den USA, die für ihre hohe Effektivität in Infanteriegefechten bekannt ist. Sie enthält Sprengstoff und Metallfragmentierung.
+				RG-42 Handgranate – Eine Fragmentgranate aus dem Zweiten Weltkrieg, die in Russland entwickelt wurde und für ihre einfache Konstruktion bekannt ist.
+				M84 Stun Grenade – Eine Blend- und Schockgranate, die für ihre starke akustische und visuelle Wirkung bekannt ist, um Gegner temporär zu desorientieren.
+				L2A2 Stun Grenade – Eine britische Blendgranate, die einen starken Knall und helles Licht erzeugt, um Feinde zu blenden und zu desorientieren.
+				RPG-18 – Ein tragbarer Einweg-Raketenwerfer, der eine Hohlladung im Kaliber 64mm verwendet und hauptsächlich gegen gepanzerte Fahrzeuge gerichtet ist.
+				Kasper Handgranate – Eine moderne Fragmentgranate aus dem deutschen Militär, bekannt für ihre hohe Sprengkraft und fragmentarische Wirkung.
+				M18A1 Claymore – Eine antipersonelle Mine, die mit einer gerichteten Sprengladung ausgestattet ist, die eine breite Zone von Fragmenten in einem bestimmten Bereich abfeuert.
+				PMN-2 Mine – Eine russische antipersonelle Mine, die eine Vielzahl von Fragmenten freisetzt, um Personen im Umkreis zu verletzen.
+				M14 Mine – Eine antipersonelle Mine aus dem Vietnamkrieg, die mit einem Federmechanismus funktioniert und einen großen Bereich abdeckt.
+				Goliath – Ein ferngesteuertes Minenfahrzeug aus dem Zweiten Weltkrieg, das eine große Sprengladung enthält und für den Einsatz gegen Panzer konzipiert ist.
+				M2A4 Grenade – Eine spezielle Fragmentgranate der US-Armee, die für ihre hohe Zerstörungskraft bekannt ist.
+				C-4 Sprengstoff – Ein plastischer Sprengstoff, der in verschiedenen militärischen Anwendungen und für Sprengungen von Zielstrukturen verwendet wird.
+				TNT Sprengstoff – Ein klassischer Sprengstoff, der für seine Verlässlichkeit und Effektivität in verschiedenen militärischen und zivilen Anwendungen bekannt ist.
+				Bouncing Betty (S-Mine) – Eine antipersonelle Mine, die beim Auslösen eine vertikale Bewegung ausführt und ihre Fragmente in einem weiten Bereich verteilt.
+				AT-4 Mine – Eine antipanzermine, die speziell für den Einsatz gegen Fahrzeuge entwickelt wurde und große Zerstörungskraft besitzt.
+				M1919 Grenade – Eine amerikanische Handgranate aus dem Ersten Weltkrieg, bekannt für ihre Robustheit und einfache Handhabung.
+				Kampfpistole P8 – Eine Pistole, die speziell für die Verwendung von Munitionsgranaten und Ähnlichem konzipiert ist.
+				M24 Stun Grenade – Eine Blendgranate, die für ihre Fähigkeit bekannt ist, ein starkes Geräusch und helles Licht zu erzeugen.
+				Anti-Tank Grenade – Eine Granate, die speziell entwickelt wurde, um Panzer und andere gepanzerte Fahrzeuge zu bekämpfen, oft mit Hohlladungen.
+				M20A1 Claymore – Ein aktualisierter Claymore-Typ mit verbesserten Materialien und Zündmechanismen, der für seine Effektivität und Reichweite bekannt ist.
+			Bögen:
+				Langbögen:
+					Traditionelle Langbögen
+					English Longbow
+					American Flatbow
+					Welsh Longbow
+					Korean Longbow
+					Japanese Yumi
+					Turkish Ottoman Longbow
+					Medieval Longbow
+					Scots Longbow
+				Recurvebögen
+					Hoyt Formula X
+					Bear Archery Grizzly
+					Samick Sage
+					PSE Stinger
+					Martin Archery Hunter
+					Win & Win Inno CXT
+					Hoyt PowerMax
+					Ragim Wildcat
+				Compoundbögen
+					Mathews V3X
+					Bowtech Revolt
+					Hoyt Ventum Pro
+					PSE EVO NTN
+					Elite Archery Remedy
+					Bear Archery Perception
+					Prime Archery Black 9
+					PSE Evolve 31
+				Crossbows
+					Barnett Whitetail Pro STR
+					TenPoint Nitro XRT
+					Ravin R29X
+					Excalibur Matrix 380
+					Killer Instinct Lethal 405
+					PSE Fang HD
+					Wicked Ridge Invader X4
+					CenterPoint Archery Wrath 430
 
-		Armbrust:
-			Recurve Armbrust:
-				Excalibur Matrix 380
-				Killer Instinct Lethal 405
-				Barnett Whitetail Pro STR
-				TenPoint Siege RS410
-				Ravin R10
-				Wicked Ridge Invader X4
-				PSE Fang HD
-				CenterPoint Archery Sniper 370
-			Compound Armbrust:
-				Ravin R29X
-				Excalibur Bulldog 440
-				TenPoint Nitro XRT
-				Barnett Hyperflite
-				Killer Instinct Ripper 415
-				PSE Fang 350
-				Ravin R20
-				Wicked Ridge Warrior Ultra
-			Pistolen Armbrust:
-				Barnett Cobra System
-				Killer Instinct Crossbows 80lb
-				Horton Hunter 80
-				PSE Viper SS
-				Excalibur Micro 335
-				Cobra Archery R9
-				PSE Viper 80lb
-				Ravin R9
+			Armbrust:
+				Recurve Armbrust:
+					Excalibur Matrix 380
+					Killer Instinct Lethal 405
+					Barnett Whitetail Pro STR
+					TenPoint Siege RS410
+					Ravin R10
+					Wicked Ridge Invader X4
+					PSE Fang HD
+					CenterPoint Archery Sniper 370
+				Compound Armbrust:
+					Ravin R29X
+					Excalibur Bulldog 440
+					TenPoint Nitro XRT
+					Barnett Hyperflite
+					Killer Instinct Ripper 415
+					PSE Fang 350
+					Ravin R20
+					Wicked Ridge Warrior Ultra
+				Pistolen Armbrust:
+					Barnett Cobra System
+					Killer Instinct Crossbows 80lb
+					Horton Hunter 80
+					PSE Viper SS
+					Excalibur Micro 335
+					Cobra Archery R9
+					PSE Viper 80lb
+					Ravin R9
 
-			Verteidigung_
-			Messer
-				Gerber StrongArm
-				Kershaw Blur
-				Spyderco Paramilitary 2
-				Benchmade Griptilian
-				SOG SEAL Pup
-				Cold Steel Recon 1
-				ESEE 4
-				CRKT M16-14SFG
-			Taser
-				Taser X26P
-				Taser Pulse
-				Taser M26
-				Taser X2
-				Taser X1
-				Taser Bolt
-				Taser C2
-				Taser X3
-			Pfefferspray
-				Sabre Red Pepper Gel
-				Fox Labs Mean Green
-				Mace Brand Pepper Spray
-				Guard Dog Security Pepper Spray
+				Verteidigung_
+				Messer
+					Gerber StrongArm
+					Kershaw Blur
+					Spyderco Paramilitary 2
+					Benchmade Griptilian
+					SOG SEAL Pup
+					Cold Steel Recon 1
+					ESEE 4
+					CRKT M16-14SFG
+				Taser
+					Taser X26P
+					Taser Pulse
+					Taser M26
+					Taser X2
+					Taser X1
+					Taser Bolt
+					Taser C2
+					Taser X3
+				Pfefferspray
+					Sabre Red Pepper Gel
+					Fox Labs Mean Green
+					Mace Brand Pepper Spray
+					Guard Dog Security Pepper Spray
